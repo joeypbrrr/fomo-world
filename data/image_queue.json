@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-07T11:13:21.681764+00:00",
+  "updated_at": "2026-11-07T16:24:29.432685+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -197,6 +197,123 @@
       "image_path": "images/c_4886c6243c4b.png",
       "added_at": "2026-11-07T11:09:05.156308+00:00",
       "completed_at": "2026-11-07T11:12:34.250866+00:00"
+    },
+    {
+      "concept_id": "c_d1f44aa09d88",
+      "token_name": "Quiet Orbit",
+      "ticker": "QOTRB",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'QOTRB' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Quiet Orbit. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"DiamondPepe69\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d1f44aa09d88.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_790fb8d1c46c",
+      "token_name": "Wasted Sprout",
+      "ticker": "WSSTD",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_790fb8d1c46c.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_9d533877aaa1",
+      "token_name": "Diamond Sprout",
+      "ticker": "DSMND",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSMND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Diamond Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Paper hands fold. Diamond hands hold. Meet $HODL: a little sparkle, a lot of conviction, and a community that knows the meme.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_9d533877aaa1.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_3571c4c8058e",
+      "token_name": "Linen Nest",
+      "ticker": "LNNNS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LNNNS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Linen Nest. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"VICE CITY. BAD BOY. GTA6 DOG. \ud83d\udc3e Rocco\u2019s running the streets\u2014one bark at a time. A fan-made meme coin inspired by the GTA 6 vibe. Not affiliated with Rockstar Games.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_3571c4c8058e.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_5c9a9442a903",
+      "token_name": "Leonida Sprout",
+      "ticker": "LSNDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSNDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Leonida Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_5c9a9442a903.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e0f9b58c1555",
+      "token_name": "Sexcoin Sprout",
+      "ticker": "SSXCN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSXCN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sexcoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"FAPCOIN was solo mode. SEXCOIN brings multiplayer. A memecoin for adults ready to touch grass, make eye contact, and finally give their right hand a day off. Bringing cheeky art, dirty jokes, and community together to break taboos one meme at a time. Less sh\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e0f9b58c1555.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e19106a6be93",
+      "token_name": "Boxing Kangaroo",
+      "ticker": "BKXNG",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BKXNG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Boxing Kangaroo. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Roo the Viral boxing kangaroo\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e19106a6be93.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_daf32cf986ee",
+      "token_name": "Hypeliysium Sprout",
+      "ticker": "HSYPL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'HSYPL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Hypeliysium Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Hypeliysium ($HLYS) is building a streamlined launchpad for Solana and Elysium, bringing token discovery, creation and trading into one interface. Developed in public with customizable themes and multilingual support. The platform is under active development\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_daf32cf986ee.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_516c4179c3f1",
+      "token_name": "Xoxo Sprout",
+      "ticker": "XSXPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'XSXPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Xoxo Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$XOXO is sending hugs, blowing kisses and raising floors on fobofun. \ud83d\udc8b\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_516c4179c3f1.png",
+      "added_at": "2026-11-07T16:24:29.432685+00:00",
+      "completed_at": null
     }
   ]
 }
