@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-07T11:09:05.156308+00:00",
+  "updated_at": "2026-11-07T11:12:34.250866+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -24,10 +24,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_dd7d5291a091.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_97ab03ae18bc",
@@ -50,10 +50,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_20a612a485cd.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_572bffc4f4e5",
@@ -89,10 +89,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_eda4493d1c95.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_94ea950c44f5",
@@ -102,10 +102,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_94ea950c44f5.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_26fdcc74eddb",
@@ -115,10 +115,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_26fdcc74eddb.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_e41c8eb19034",
@@ -128,10 +128,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_e41c8eb19034.png",
       "added_at": "2026-11-07T11:01:37.594774+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_ffad21c3a947",
@@ -141,10 +141,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_ffad21c3a947.png",
       "added_at": "2026-11-07T11:06:12.243046+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_ed748c2bd2ac",
@@ -154,10 +154,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_ed748c2bd2ac.png",
       "added_at": "2026-11-07T11:06:12.243046+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_3d2ecde3847e",
@@ -167,10 +167,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_3d2ecde3847e.png",
       "added_at": "2026-11-07T11:06:12.243046+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     },
     {
       "concept_id": "c_a33cdae7e569",
@@ -193,10 +193,10 @@
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
-      "status": "pending",
+      "status": "done",
       "image_path": "images/c_4886c6243c4b.png",
       "added_at": "2026-11-07T11:09:05.156308+00:00",
-      "completed_at": null
+      "completed_at": "2026-11-07T11:12:34.250866+00:00"
     }
   ]
 }
