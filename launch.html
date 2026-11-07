@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Launch kit — FOMO World</title>
+  <link rel="icon" href="favicon.svg">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <span class="mark" aria-hidden="true"></span>
+      <span><strong>FOMO World</strong><small>Launch kit. You launch it. We do not.</small></span>
+    </a>
+    <nav class="nav">
+      <a href="index.html">World</a>
+      <a href="top10.html">Top 10 Launchable</a>
+    </nav>
+    <div class="clock">
+      <div>Last scanned <strong id="last-scanned">—</strong></div>
+      <div>Next 30-min scan <strong id="countdown">—</strong></div>
+    </div>
+  </header>
+  <p id="origin-banner" class="banner" hidden></p>
+  <main id="kit" class="kit">
+    <p>Loading the concept…</p>
+  </main>
+  <script type="module" src="js/launch.js"></script>
+</body>
+</html>

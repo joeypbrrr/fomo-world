@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Top 10 Launchable — FOMO World</title>
+  <link rel="icon" href="favicon.svg">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <span class="mark" aria-hidden="true"></span>
+      <span><strong>FOMO World</strong><small>Concepts only. Nothing here is launched.</small></span>
+    </a>
+    <nav class="nav">
+      <a href="index.html">World</a>
+      <a href="top10.html" aria-current="page">Top 10 Launchable</a>
+    </nav>
+    <div class="clock">
+      <div>Last scanned <strong id="last-scanned">—</strong></div>
+      <div>Next 30-min scan <strong id="countdown">—</strong></div>
+    </div>
+  </header>
+  <p id="origin-banner" class="banner" hidden></p>
+  <main class="page">
+    <div class="page-head">
+      <div>
+        <p class="kicker">Refreshed with each 30-minute publish</p>
+        <h1>Top 10 Launchable</h1>
+        <p>Beta coin, derivative, and launchpad concepts ranked by volume, momentum, how many tokens share the meta, and freshness. A trend with no sourced story says “trend unclear” and is down-ranked.</p>
+      </div>
+      <div class="actions">
+        <button id="reread" type="button" class="ghost">Re-read published data</button>
+        <button id="scan-now" type="button" class="ghost">Scan public APIs now</button>
+        <button id="show-example" type="button" class="ghost">Show labeled example</button>
+      </div>
+    </div>
+    <div id="grid" class="grid"></div>
+  </main>
+  <script type="module" src="js/top10.js"></script>
+</body>
+</html>
