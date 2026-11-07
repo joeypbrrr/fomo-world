@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FOMO World</title>
+  <link rel="icon" href="favicon.svg">
+  <link rel="stylesheet" href="css/site.css">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three.module.js",
+      "three/addons/": "./vendor/addons/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <span class="mark" aria-hidden="true"></span>
+      <span><strong>FOMO World</strong><small>FOMO agents, trending tokens, derivatives</small></span>
+    </a>
+    <nav class="nav">
+      <a href="index.html" aria-current="page">World</a>
+      <a href="top10.html">Top 10 Launchable</a>
+    </nav>
+    <div class="clock">
+      <div>Last scanned <strong id="last-scanned">—</strong></div>
+      <div>Next 30-min scan <strong id="countdown">—</strong></div>
+    </div>
+  </header>
+  <p id="origin-banner" class="banner" hidden></p>
+  <main class="world-layout">
+    <section class="stage" aria-label="3D little world">
+      <div id="viewport"></div>
+      <p id="webgl-fallback" hidden>This browser could not start WebGL. The idea board beside the stage still shows the latest scan.</p>
+    </section>
+    <aside class="side">
+      <section class="panel">
+        <h2>Scan</h2>
+        <p>The research box publishes every 30 minutes. This page re-reads that JSON.</p>
+        <button id="reread" type="button" class="ghost">Re-read published data</button>
+      </section>
+      <section class="panel">
+        <h2>Agent feed</h2>
+        <ol id="feed"></ol>
+      </section>
+      <section class="panel">
+        <h2>Idea Board</h2>
+        <div id="idea-board"></div>
+      </section>
+    </aside>
+  </main>
+  <script type="module" src="js/world.js"></script>
+</body>
+</html>

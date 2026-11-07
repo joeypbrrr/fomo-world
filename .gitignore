@@ -1,0 +1,7 @@
+.gh-pages/
+__pycache__/
+*.pyc
+.DS_Store
+generated/*.png
+generated/*.json
+!generated/.gitkeep

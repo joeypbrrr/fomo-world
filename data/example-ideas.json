@@ -1,0 +1,138 @@
+{
+  "schema": "fomo-world.ideas.v1",
+  "data_origin": "example",
+  "label": "EXAMPLE DATA \u2014 not a live scan and not real market figures.",
+  "generated_at": "2026-11-07T15:00:00+00:00",
+  "scan_interval_seconds": 1800,
+  "next_scan_at": "2026-11-07T15:30:00+00:00",
+  "public_url": "https://joeypbrrr.github.io/fomo-world/",
+  "source_reports": [],
+  "sources_skipped": [
+    {
+      "id": "example",
+      "reason": "Labeled example layout. Not a live scan."
+    }
+  ],
+  "errors": [],
+  "ideas": [
+    {
+      "id": "c_fa55b63ea5d5",
+      "classification": "META",
+      "concept_kind": "beta coin",
+      "trend_name": "trout meta",
+      "name": "Trout Sprout",
+      "token_name": "Trout Sprout",
+      "ticker": "TSRTP",
+      "description": "Beta coin concept for the trout meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"",
+      "reasoning": "Beta coin concept for the trout meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\" 2 trending tokens share the word 'trout'.",
+      "cluster_note": "2 trending tokens share the word 'trout'.",
+      "style_note": null,
+      "score": 8.0,
+      "score_parts": {
+        "volume": 0.0,
+        "momentum": 0.0,
+        "breadth": 8.0,
+        "freshness": 0.0,
+        "raw": 8.0,
+        "context_factor": 1.0,
+        "age_basis": "No pool age or 24h price change was returned.",
+        "volume_usd": null,
+        "price_change_h24": null,
+        "score": 8.0
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "trout meta",
+        "why": "DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"",
+        "meme_or_story": "DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"",
+        "driver": "driver unclear",
+        "freshness": {
+          "started_at": null,
+          "started_at_source": null,
+          "phase": "unclear",
+          "basis": "No pool age or 24h price change was returned."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "Example Trout profile",
+            "url": "https://dexscreener.com/solana/example",
+            "snippet": "EXAMPLE ONLY. This sentence is not a market quote."
+          }
+        ],
+        "match_words": [
+          "trout",
+          "extrout",
+          "example",
+          "sentence",
+          "market",
+          "quote"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "Example Trout",
+          "symbol": "EXTROUT",
+          "chain": "solana",
+          "address": "ExampleTrout111111111111111111111111111111",
+          "dexscreener_url": "https://dexscreener.com/solana/example",
+          "volume_usd": null,
+          "market_cap_usd": null,
+          "price_change_h24": null,
+          "pair_created_at": null
+        },
+        {
+          "name": "Example Trout Jr",
+          "symbol": "EXTJ",
+          "chain": "solana",
+          "address": "ExampleTroutJr1111111111111111111111111111",
+          "dexscreener_url": "https://dexscreener.com/solana/example-jr",
+          "volume_usd": null,
+          "market_cap_usd": null,
+          "price_change_h24": null,
+          "pair_created_at": null
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Trout Sprout ($TSRTP) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the trout meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"\n\nWhy it's trending: DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"\nDriver: driver unclear\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_fa55b63ea5d5",
+        "palette": 2,
+        "body": 2,
+        "ears": 2,
+        "accent": 0
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSRTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Trout Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\"\"",
+      "image_file": "images/c_fa55b63ea5d5.png",
+      "rank": 1
+    }
+  ],
+  "feed": [
+    {
+      "agent_id": "nib",
+      "role": "Trend Scout",
+      "text": "Top 1: trout meta. Freshness unclear."
+    },
+    {
+      "agent_id": "mara",
+      "role": "Token Tracker",
+      "text": "EXTROUT: volume n/a, mcap n/a."
+    },
+    {
+      "agent_id": "solene",
+      "role": "Meta Spotter",
+      "text": "Meta trout meta. DexScreener profile: \"EXAMPLE ONLY. This sentence is not a market quote.\""
+    },
+    {
+      "agent_id": "otis",
+      "role": "Derivative Designer",
+      "text": "Beta coin Trout Sprout ($TSRTP). Coin logo is queued."
+    },
+    {
+      "agent_id": "quill",
+      "role": "Skeptic",
+      "text": "Trademark risk: unofficial concept, not an official brand."
+    }
+  ],
+  "candidate_count": 1
+}
