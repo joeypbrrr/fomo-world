@@ -2,9 +2,9 @@
   "schema": "fomo-world.ideas.v1",
   "data_origin": "live",
   "label": "Research concepts only. These are not launched tokens.",
-  "generated_at": "2026-11-07T11:09:05.156308+00:00",
+  "generated_at": "2026-11-07T11:13:21.681764+00:00",
   "scan_interval_seconds": 1800,
-  "next_scan_at": "2026-11-07T11:39:05.156308+00:00",
+  "next_scan_at": "2026-11-07T11:43:21.681764+00:00",
   "public_url": "https://joeypbrrr.github.io/fomo-world/",
   "source_reports": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "id": "dexscreener-tokens",
-      "url": "https://api.dexscreener.com/latest/dex/tokens/SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,0xb9fd927f8ebdc35a83274324b138a242a8b37674,TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw,0x35a1a66b06c469a2cdc7204f9f2313c57529a099,4AN9uwPTNFfFCFzR4n9KaVk3JyLmMACewf3aXV6Zpump,CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump,0xc9675fe679c7d4e1b94416f66d61c96127eb964a,XYZ.rU5nUwkBUPx3MFPQSHmMnr9S9yg4g8cKLc,FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump,8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump,HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,0x6511c233790ec10f7d673c64dc82c3f941d57828,HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump,25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump,2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump,0x87bbba0fe8caea1dd978f753abc2d5d128933e28,EQCM4DEzDVFLq7kaSodQX-8-u_aF9M9DDe1EePWsuMozqGkt,0x020bfc650a365f8bb26819deaabf3e21291018b4,0x13920fe6467e9e3c852b8d365a036c995f0f7777,0x2c3a8ee94ddd97244a93bc48298f97d2c412f7db,EQDd5mboiBKcOVn9sOcOYPdpEiWR_w0tWxd6hFMU775CAksd,0x39dbed3a2bd333467115de45665cc57f813c4571,8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
+      "url": "https://api.dexscreener.com/latest/dex/tokens/SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,0xb9fd927f8ebdc35a83274324b138a242a8b37674,TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw,0x35a1a66b06c469a2cdc7204f9f2313c57529a099,4AN9uwPTNFfFCFzR4n9KaVk3JyLmMACewf3aXV6Zpump,CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump,0xc9675fe679c7d4e1b94416f66d61c96127eb964a,XYZ.rU5nUwkBUPx3MFPQSHmMnr9S9yg4g8cKLc,FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump,8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump,HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,0x6511c233790ec10f7d673c64dc82c3f941d57828,HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump,25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump,2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump,0x87bbba0fe8caea1dd978f753abc2d5d128933e28,EQCM4DEzDVFLq7kaSodQX-8-u_aF9M9DDe1EePWsuMozqGkt,0x020bfc650a365f8bb26819deaabf3e21291018b4,0x13920fe6467e9e3c852b8d365a036c995f0f7777,0x2c3a8ee94ddd97244a93bc48298f97d2c412f7db,EQDd5mboiBKcOVn9sOcOYPdpEiWR_w0tWxd6hFMU775CAksd,0x39dbed3a2bd333467115de45665cc57f813c4571,0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
       "ok": true,
       "status": 200,
       "error": null
@@ -171,9 +171,9 @@
         "freshness": 15.0,
         "raw": 100.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 47825.0%.",
-        "volume_usd": 1234367.7,
-        "price_change_h24": 47825.0,
+        "age_basis": "24h price change 45157.0%.",
+        "volume_usd": 1217895.37,
+        "price_change_h24": 45157.0,
         "score": 100.0
       },
       "trend_context": {
@@ -186,13 +186,13 @@
           "started_at": "2025-01-28T02:18:32+00:00",
           "started_at_source": "https://dexscreener.com/solana/az7glmdji2iqlqpdgoxdgzty3yskwje2bswhh2hbceqa",
           "phase": "rising",
-          "basis": "24h price change 47825.0%."
+          "basis": "24h price change 45157.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
             "title": "State Of Leonida profile",
-            "url": "https://dexscreener.com/ethereum/0x99654dc879e6269c16463c27b57ac76f10447993673e0049f635b785e41a79a8",
+            "url": "https://dexscreener.com/ethereum/0xe378f796e92580478277da196b635803ca3affa9",
             "snippet": "The home state of GTA VI"
           },
           {
@@ -213,10 +213,10 @@
           "symbol": "Leonida",
           "chain": "ethereum",
           "address": "0xe378f796e92580478277da196b635803ca3affa9",
-          "dexscreener_url": "https://dexscreener.com/ethereum/0x99654dc879e6269c16463c27b57ac76f10447993673e0049f635b785e41a79a8",
-          "volume_usd": 665971.57,
-          "market_cap_usd": 1156994.0,
-          "price_change_h24": 47825.0,
+          "dexscreener_url": "https://dexscreener.com/ethereum/0xe378f796e92580478277da196b635803ca3affa9",
+          "volume_usd": 743082.48,
+          "market_cap_usd": 1092569.0,
+          "price_change_h24": 45157.0,
           "pair_created_at": "2026-11-07T06:37:47+00:00"
         },
         {
@@ -225,9 +225,9 @@
           "chain": "solana",
           "address": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
           "dexscreener_url": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
-          "volume_usd": 193676.59,
-          "market_cap_usd": 277762.0,
-          "price_change_h24": 165.0,
+          "volume_usd": 193426.45,
+          "market_cap_usd": 283190.0,
+          "price_change_h24": 176.0,
           "pair_created_at": "2026-11-05T19:41:14+00:00"
         },
         {
@@ -333,12 +333,12 @@
           "name": "State of Leonida",
           "symbol": "Leonida",
           "chain": "solana",
-          "address": "J91AoqUcjA8RmDrFvw44So1rAFt6yrUThGZemprgD8W3",
-          "dexscreener_url": "https://dexscreener.com/solana/3zujrb9etdsqnrmb7lslp1r1tkkls8fscuwqzral2hwu",
-          "volume_usd": 93333.1,
-          "market_cap_usd": 4.0,
-          "price_change_h24": -91.24,
-          "pair_created_at": "2026-11-06T11:06:11+00:00"
+          "address": "BK2Yjn7f94B7L4MAKuPnG7CDTP5nZYL3ac4RnCychNVu",
+          "dexscreener_url": "https://dexscreener.com/solana/cx7xtzwylc8f56rgdbmxsfum1uraxx4gftcvrhz8wrvq",
+          "volume_usd": 0.0,
+          "market_cap_usd": 17.0,
+          "price_change_h24": 11456.0,
+          "pair_created_at": "2026-11-06T10:57:52+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
@@ -374,9 +374,9 @@
         "freshness": 15.0,
         "raw": 88.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 7973.0%.",
-        "volume_usd": 5456251.99328642,
-        "price_change_h24": 7973.0,
+        "age_basis": "24h price change 8129.0%.",
+        "volume_usd": 5459708.89012601,
+        "price_change_h24": 8129.0,
         "score": 88.0
       },
       "trend_context": {
@@ -389,7 +389,7 @@
           "started_at": "2026-11-06T00:30:55+00:00",
           "started_at_source": "https://dexscreener.com/solana/5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump",
           "phase": "rising",
-          "basis": "24h price change 7973.0%."
+          "basis": "24h price change 8129.0%."
         },
         "sources": [
           {
@@ -412,9 +412,9 @@
           "chain": "solana",
           "address": "DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump",
           "dexscreener_url": "https://dexscreener.com/solana/ans69udtbmcwbw7zucyxlz4hmcqkvzpmtcw9zjpzqgkr",
-          "volume_usd": 2483799.23,
-          "market_cap_usd": 3983419.0,
-          "price_change_h24": 7973.0,
+          "volume_usd": 2489029.14,
+          "market_cap_usd": 4060502.0,
+          "price_change_h24": 8129.0,
           "pair_created_at": "2026-11-06T23:09:39+00:00"
         },
         {
@@ -423,9 +423,9 @@
           "chain": "solana",
           "address": "5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump",
           "dexscreener_url": "https://dexscreener.com/solana/5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump",
-          "volume_usd": 2972452.76328642,
-          "market_cap_usd": 292817.678502423,
-          "price_change_h24": 2.056,
+          "volume_usd": 2970679.75012601,
+          "market_cap_usd": 301788.485441349,
+          "price_change_h24": 11.962,
           "pair_created_at": "2026-11-06T00:30:55+00:00"
         }
       ],
@@ -462,9 +462,9 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 3637.1%.",
-        "volume_usd": 4584942.88580609,
-        "price_change_h24": 3637.091,
+        "age_basis": "24h price change 3358.2%.",
+        "volume_usd": 4591160.8811149,
+        "price_change_h24": 3358.196,
         "score": 80.0
       },
       "trend_context": {
@@ -477,7 +477,7 @@
           "started_at": "2026-11-06T18:58:47+00:00",
           "started_at_source": "https://dexscreener.com/eth/0x87bbba0fe8caea1dd978f753abc2d5d128933e28",
           "phase": "rising",
-          "basis": "24h price change 3637.1%."
+          "basis": "24h price change 3358.2%."
         },
         "sources": [
           {
@@ -504,9 +504,9 @@
           "chain": "eth",
           "address": "0x87bbba0fe8caea1dd978f753abc2d5d128933e28",
           "dexscreener_url": "https://dexscreener.com/eth/0x87bbba0fe8caea1dd978f753abc2d5d128933e28",
-          "volume_usd": 4584942.88580609,
-          "market_cap_usd": 252697.0897,
-          "price_change_h24": 3637.091,
+          "volume_usd": 4591160.8811149,
+          "market_cap_usd": 233838.5546,
+          "price_change_h24": 3358.196,
           "pair_created_at": "2026-11-06T18:58:47+00:00"
         }
       ],
@@ -543,9 +543,9 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 4039.0%.",
+        "age_basis": "24h price change 4037.0%.",
         "volume_usd": 462399.7,
-        "price_change_h24": 4039.0,
+        "price_change_h24": 4037.0,
         "score": 80.0
       },
       "trend_context": {
@@ -558,7 +558,7 @@
           "started_at": "2026-11-07T00:24:13+00:00",
           "started_at_source": "https://dexscreener.com/solana/fzmsx4uug8jhsrxvyt1xntk6qfxo7ky4zgwpifkzpump",
           "phase": "rising",
-          "basis": "24h price change 4039.0%."
+          "basis": "24h price change 4037.0%."
         },
         "sources": [
           {
@@ -584,8 +584,8 @@
           "address": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump",
           "dexscreener_url": "https://dexscreener.com/solana/fzmsx4uug8jhsrxvyt1xntk6qfxo7ky4zgwpifkzpump",
           "volume_usd": 462399.7,
-          "market_cap_usd": 1619850.0,
-          "price_change_h24": 4039.0,
+          "market_cap_usd": 1619130.0,
+          "price_change_h24": 4037.0,
           "pair_created_at": "2026-11-07T00:24:13+00:00"
         }
       ],
@@ -622,9 +622,9 @@
         "freshness": 15.0,
         "raw": 76.7,
         "context_factor": 1.0,
-        "age_basis": "24h price change 380.0%.",
-        "volume_usd": 38454.1,
-        "price_change_h24": 380.0,
+        "age_basis": "24h price change 381.0%.",
+        "volume_usd": 38461.21,
+        "price_change_h24": 381.0,
         "score": 76.7
       },
       "trend_context": {
@@ -637,7 +637,7 @@
           "started_at": "2026-11-06T17:57:45+00:00",
           "started_at_source": "https://dexscreener.com/solana/ho7n9cat7yjfxk7dnkz5vdnuqrpp76fqysasatzwpump",
           "phase": "rising",
-          "basis": "24h price change 380.0%."
+          "basis": "24h price change 381.0%."
         },
         "sources": [
           {
@@ -658,9 +658,9 @@
           "chain": "solana",
           "address": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump",
           "dexscreener_url": "https://dexscreener.com/solana/ho7n9cat7yjfxk7dnkz5vdnuqrpp76fqysasatzwpump",
-          "volume_usd": 38454.1,
-          "market_cap_usd": 12834.99,
-          "price_change_h24": 380.0,
+          "volume_usd": 38461.21,
+          "market_cap_usd": 12859.22,
+          "price_change_h24": 381.0,
           "pair_created_at": "2026-11-06T17:57:45+00:00"
         }
       ],
@@ -697,9 +697,9 @@
         "freshness": 15.0,
         "raw": 75.4,
         "context_factor": 1.0,
-        "age_basis": "24h price change 462.0%.",
-        "volume_usd": 26233.81,
-        "price_change_h24": 462.0,
+        "age_basis": "24h price change 405.0%.",
+        "volume_usd": 26452.83,
+        "price_change_h24": 405.0,
         "score": 75.4
       },
       "trend_context": {
@@ -712,7 +712,7 @@
           "started_at": "2026-11-07T06:13:30+00:00",
           "started_at_source": "https://dexscreener.com/solana/btn5nrsk4q3zmoyjvd7w5uaata5k176v5cqypcycbags",
           "phase": "rising",
-          "basis": "24h price change 462.0%."
+          "basis": "24h price change 405.0%."
         },
         "sources": [
           {
@@ -733,9 +733,9 @@
           "chain": "solana",
           "address": "BTn5nRSK4q3ZmoyjVD7w5UAatA5K176V5CQyPCYCBAGS",
           "dexscreener_url": "https://dexscreener.com/solana/btn5nrsk4q3zmoyjvd7w5uaata5k176v5cqypcycbags",
-          "volume_usd": 26233.81,
-          "market_cap_usd": 14822.63,
-          "price_change_h24": 462.0,
+          "volume_usd": 26452.83,
+          "market_cap_usd": 13335.38,
+          "price_change_h24": 405.0,
           "pair_created_at": "2026-11-07T06:13:30+00:00"
         }
       ],
@@ -772,9 +772,9 @@
         "freshness": 15.0,
         "raw": 72.7,
         "context_factor": 1.0,
-        "age_basis": "24h price change 393.0%.",
-        "volume_usd": 12125.31,
-        "price_change_h24": 393.0,
+        "age_basis": "24h price change 399.0%.",
+        "volume_usd": 12178.73,
+        "price_change_h24": 399.0,
         "score": 72.7
       },
       "trend_context": {
@@ -787,7 +787,7 @@
           "started_at": "2026-11-07T09:51:56+00:00",
           "started_at_source": "https://dexscreener.com/solana/eyq6cne3bbq7sgrslpbxfmqndtyjd7tsyujvrifnawba",
           "phase": "rising",
-          "basis": "24h price change 393.0%."
+          "basis": "24h price change 399.0%."
         },
         "sources": [
           {
@@ -819,9 +819,9 @@
           "chain": "solana",
           "address": "EYQ6cNe3bBQ7SGRSLpbxfMQNDTYJD7TsYUJVRifNaWBA",
           "dexscreener_url": "https://dexscreener.com/solana/eyq6cne3bbq7sgrslpbxfmqndtyjd7tsyujvrifnawba",
-          "volume_usd": 12125.31,
-          "market_cap_usd": 14008.45,
-          "price_change_h24": 393.0,
+          "volume_usd": 12178.73,
+          "market_cap_usd": 14177.21,
+          "price_change_h24": 399.0,
           "pair_created_at": "2026-11-07T09:51:56+00:00"
         }
       ],
@@ -850,18 +850,18 @@
       "reasoning": "Launchpad concept revolving around Network Coin (NETWORK). Riffs on sourced context: DexScreener profile: \"In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful bus\u2026 Single trending token NETWORK \u2014 treated as a launchpad opportunity.",
       "cluster_note": "Single trending token NETWORK \u2014 treated as a launchpad opportunity.",
       "style_note": null,
-      "score": 72.4,
+      "score": 71.5,
       "score_parts": {
         "volume": 40.0,
-        "momentum": 17.4,
+        "momentum": 16.5,
         "breadth": 0.0,
         "freshness": 15.0,
-        "raw": 72.4,
+        "raw": 71.5,
         "context_factor": 1.0,
-        "age_basis": "24h price change 69.8%.",
-        "volume_usd": 166741.81,
-        "price_change_h24": 69.75,
-        "score": 72.4
+        "age_basis": "24h price change 66.0%.",
+        "volume_usd": 166741.38,
+        "price_change_h24": 65.99,
+        "score": 71.5
       },
       "trend_context": {
         "status": "sourced",
@@ -873,7 +873,7 @@
           "started_at": "2026-10-24T21:48:44+00:00",
           "started_at_source": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump",
           "phase": "rising",
-          "basis": "24h price change 69.8%."
+          "basis": "24h price change 66.0%."
         },
         "sources": [
           {
@@ -905,9 +905,9 @@
           "chain": "solana",
           "address": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
           "dexscreener_url": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump",
-          "volume_usd": 166741.81,
+          "volume_usd": 166741.38,
           "market_cap_usd": 285872.0,
-          "price_change_h24": 69.75,
+          "price_change_h24": 65.99,
           "pair_created_at": "2026-10-24T21:48:44+00:00"
         }
       ],
@@ -923,6 +923,83 @@
       "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSTWR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Network Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful business, every major movement, and every breakthrough is a network of people who made it possible. The right connection can open doors, introdu\"",
       "image_file": "images/c_ed748c2bd2ac.png",
       "rank": 8
+    },
+    {
+      "id": "c_a33cdae7e569",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "Funny Trauma launchpad",
+      "name": "Funny Sprout",
+      "token_name": "Funny Sprout",
+      "ticker": "FSNNY",
+      "description": "Launchpad concept revolving around Funny Trauma (SHANE). Riffs on sourced context: DexScreener profile: \"Funny Trauma\"",
+      "reasoning": "Launchpad concept revolving around Funny Trauma (SHANE). Riffs on sourced context: DexScreener profile: \"Funny Trauma\" Single trending token SHANE \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token SHANE \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 69.2,
+      "score_parts": {
+        "volume": 39.4,
+        "momentum": 14.7,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 69.2,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 59.0%.",
+        "volume_usd": 84465.98,
+        "price_change_h24": 58.97,
+        "score": 69.2
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "Funny Trauma launchpad",
+        "why": "DexScreener profile: \"Funny Trauma\"",
+        "meme_or_story": "DexScreener profile: \"Funny Trauma\"",
+        "driver": "X accounts linked on the DexScreener profiles: @BaggyWorks.",
+        "freshness": {
+          "started_at": "2026-11-07T07:14:51+00:00",
+          "started_at_source": "https://dexscreener.com/solana/jtubwrluynmezztuuwplnu6z2drnmvpgko51wf4pump",
+          "phase": "rising",
+          "basis": "24h price change 59.0%."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "Funny Trauma profile",
+            "url": "https://dexscreener.com/solana/jtubwrluynmezztuuwplnu6z2drnmvpgko51wf4pump",
+            "snippet": "Funny Trauma"
+          }
+        ],
+        "match_words": [
+          "shane",
+          "funny",
+          "trauma"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "Funny Trauma",
+          "symbol": "SHANE",
+          "chain": "solana",
+          "address": "jTUbWrLUYNmEzZTuUwpLNU6z2DrnmVPGko51wF4pump",
+          "dexscreener_url": "https://dexscreener.com/solana/jtubwrluynmezztuuwplnu6z2drnmvpgko51wf4pump",
+          "volume_usd": 84465.98,
+          "market_cap_usd": 4836.31,
+          "price_change_h24": 58.97,
+          "pair_created_at": "2026-11-07T07:14:51+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Funny Sprout ($FSNNY) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Funny Trauma (SHANE). Riffs on sourced context: DexScreener profile: \"Funny Trauma\"\n\nWhy it's trending: DexScreener profile: \"Funny Trauma\"\nDriver: X accounts linked on the DexScreener profiles: @BaggyWorks.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_a33cdae7e569",
+        "palette": 5,
+        "body": 2,
+        "ears": 3,
+        "accent": 3
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSNNY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Funny Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Funny Trauma\"\"",
+      "image_file": "images/c_a33cdae7e569.png",
+      "rank": 9
     },
     {
       "id": "c_3d2ecde3847e",
@@ -1008,92 +1085,6 @@
       },
       "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSRRR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mirror Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Mirror is an AI multi-agent simulation platform (not a trading bot). Upload source material \u2192 build an entity/relationship graph \u2192 run multi-agent simulations \u2192 get decision forecasts. MIR is the Solana ecosystem token around Mirror / MonNFTs. Fair launched \"",
       "image_file": "images/c_3d2ecde3847e.png",
-      "rank": 9
-    },
-    {
-      "id": "c_4886c6243c4b",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "jeff launchpad",
-      "name": "Jeff Sprout",
-      "token_name": "Jeff Sprout",
-      "ticker": "JSFFP",
-      "description": "Launchpad concept revolving around jeff (jeff). Riffs on sourced context: DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a\u2026",
-      "reasoning": "Launchpad concept revolving around jeff (jeff). Riffs on sourced context: DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a\u2026 Single trending token jeff \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token jeff \u2014 treated as a launchpad opportunity.",
-      "style_note": null,
-      "score": 64.8,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 9.8,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 64.8,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 39.0%.",
-        "volume_usd": 105022.84,
-        "price_change_h24": 39.01,
-        "score": 64.8
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "jeff launchpad",
-        "why": "DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a community that gets it. Now the community is writing the next chapter. No grand promises. No complicated narratives. Just Jeff.\"",
-        "meme_or_story": "DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a community that gets it. Now the community is writing the next chapter. No grand promises. No complicated narratives. Just Jeff.\"",
-        "driver": "Telegram links on the profiles: 1. Websites linked on the profiles: https://justjeff.xyz/, https://x.com/i/communities/1910124515570381076.",
-        "freshness": {
-          "started_at": "2026-10-28T00:58:54+00:00",
-          "started_at_source": "https://dexscreener.com/solana/hastkxyvv65zm7j6cu5o5pczsikmqyo5oz4wpjgqwp6k",
-          "phase": "rising",
-          "basis": "24h price change 39.0%."
-        },
-        "sources": [
-          {
-            "kind": "dexscreener_profile",
-            "title": "jeff profile",
-            "url": "https://dexscreener.com/solana/hastkxyvv65zm7j6cu5o5pczsikmqyo5oz4wpjgqwp6k",
-            "snippet": "Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a community that gets it. Now the community is writing the next chapter. No grand promises. No complicated narratives. Just Jeff."
-          }
-        ],
-        "match_words": [
-          "trenches",
-          "launched",
-          "directly",
-          "raydium",
-          "bonding",
-          "curve",
-          "games",
-          "writing",
-          "chapter",
-          "grand",
-          "promises",
-          "complicated"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "jeff",
-          "symbol": "jeff",
-          "chain": "solana",
-          "address": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
-          "dexscreener_url": "https://dexscreener.com/solana/hastkxyvv65zm7j6cu5o5pczsikmqyo5oz4wpjgqwp6k",
-          "volume_usd": 105022.84,
-          "market_cap_usd": 1004899.0,
-          "price_change_h24": 39.01,
-          "pair_created_at": "2026-10-28T00:58:54+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Jeff Sprout ($JSFFP) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around jeff (jeff). Riffs on sourced context: DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a\u2026\n\nWhy it's trending: DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a community that gets it. Now the community is writing the next chapter. No grand promises. No complicated narratives. Just Jeff.\"\nDriver: Telegram links on the profiles: 1. Websites linked on the profiles: https://justjeff.xyz/, https://x.com/i/communities/1910124515570381076.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_4886c6243c4b",
-        "palette": 4,
-        "body": 0,
-        "ears": 2,
-        "accent": 3
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSFFP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jeff Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Born in the trenches. Launched directly on Raydium. No bonding curve. No launchpad games. Just a name, a meme, and a community that gets it. Now the community is writing the next chapter. No grand promises. No complicated narratives. Just Jeff.\"\"",
-      "image_file": "images/c_4886c6243c4b.png",
       "rank": 10
     }
   ],
@@ -1106,7 +1097,7 @@
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "Leonida: volume $666.0K, mcap $1.2M."
+      "text": "Leonida: volume $743.1K, mcap $1.1M."
     },
     {
       "agent_id": "solene",
@@ -1131,7 +1122,7 @@
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "HODL: volume $2.5M, mcap $4.0M."
+      "text": "HODL: volume $2.5M, mcap $4.1M."
     },
     {
       "agent_id": "bex",
@@ -1156,7 +1147,7 @@
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "GTA6: volume $4.6M, mcap $252.7K."
+      "text": "GTA6: volume $4.6M, mcap $233.8K."
     },
     {
       "agent_id": "dot",
@@ -1206,7 +1197,7 @@
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "ORPO: volume $38.5K, mcap $12.8K."
+      "text": "ORPO: volume $38.5K, mcap $12.9K."
     },
     {
       "agent_id": "rae",
@@ -1231,7 +1222,7 @@
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "WSB: volume $26.2K, mcap $14.8K."
+      "text": "WSB: volume $26.5K, mcap $13.3K."
     },
     {
       "agent_id": "dot",
@@ -1256,7 +1247,7 @@
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "kuro: volume $12.1K, mcap $14.0K."
+      "text": "kuro: volume $12.2K, mcap $14.2K."
     },
     {
       "agent_id": "hank",
@@ -1301,22 +1292,22 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 9: MIRROR launchpad. Freshness rising."
+      "text": "Top 9: Funny Trauma launchpad. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "MIR: volume $15.3K, mcap $15.9K."
+      "text": "SHANE: volume $84.5K, mcap $4.8K."
     },
     {
       "agent_id": "dot",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Mirror Sprout ($MSRRR), rank 9."
+      "text": "Launchpad kit for Funny Sprout ($FSNNY), rank 9."
     },
     {
       "agent_id": "vee",
       "role": "Derivative Designer",
-      "text": "Derivative Mirror Sprout ($MSRRR). Coin logo is queued."
+      "text": "Derivative Funny Sprout ($FSNNY). Coin logo is queued."
     },
     {
       "agent_id": "rue",
@@ -1326,22 +1317,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 10: jeff launchpad. Freshness rising."
+      "text": "Top 10: MIRROR launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "jeff: volume $105.0K, mcap $1.0M."
+      "text": "MIR: volume $15.3K, mcap $15.9K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Jeff Sprout ($JSFFP), rank 10."
+      "text": "Launchpad kit for Mirror Sprout ($MSRRR), rank 10."
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Derivative Jeff Sprout ($JSFFP). Coin logo is queued."
+      "text": "Derivative Mirror Sprout ($MSRRR). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1352,5 +1343,5 @@
   "candidate_count": 10,
   "token_count": 79,
   "group_count": 67,
-  "last_published": "2026-11-07T06:13:20.185089-05:00"
+  "last_published": "2026-11-07T06:13:27.561674-05:00"
 }
