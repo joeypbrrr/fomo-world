@@ -2,9 +2,9 @@
   "schema": "fomo-world.ideas.v1",
   "data_origin": "live",
   "label": "Research concepts only. These are not launched tokens.",
-  "generated_at": "2026-11-07T16:24:29.432685+00:00",
+  "generated_at": "2026-11-07T16:24:39.732462+00:00",
   "scan_interval_seconds": 1800,
-  "next_scan_at": "2026-11-07T16:54:29.432685+00:00",
+  "next_scan_at": "2026-11-07T16:54:39.732462+00:00",
   "public_url": "https://joeypbrrr.github.io/fomo-world/",
   "source_reports": [
     {
@@ -97,9 +97,9 @@
     {
       "id": "google-news-rss",
       "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pepe69",
-      "ok": true,
-      "status": 200,
-      "error": null,
+      "ok": false,
+      "status": 503,
+      "error": "HTTP 503",
       "query": "pepe69"
     },
     {
@@ -358,8 +358,8 @@
       "name": "Wasted Sprout",
       "token_name": "Wasted Sprout",
       "ticker": "WSSTD",
-      "description": "Launchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play\u2026",
-      "reasoning": "Launchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play\u2026 Single trending token WASTED \u2014 treated as a launchpad opportunity.",
+      "description": "Launchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half\u2026",
+      "reasoning": "Launchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half\u2026 Single trending token WASTED \u2014 treated as a launchpad opportunity.",
       "cluster_note": "Single trending token WASTED \u2014 treated as a launchpad opportunity.",
       "style_note": null,
       "score": 80.0,
@@ -378,9 +378,9 @@
       "trend_context": {
         "status": "sourced",
         "trend_name": "WASTED launchpad",
-        "why": "Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).",
-        "meme_or_story": "Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).",
-        "driver": "Coverage: AgUpdate Coverage: Yahoo Sports",
+        "why": "Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek\" (Newsweek).",
+        "meme_or_story": "Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek\" (Newsweek).",
+        "driver": "Coverage: The Verge Coverage: Newsweek",
         "freshness": {
           "started_at": "2026-11-07T02:18:11+00:00",
           "started_at_source": "https://dexscreener.com/eth/0x083c2e89ca8272b7a1edcb1292639867c8cf780c",
@@ -390,15 +390,15 @@
         "sources": [
           {
             "kind": "google_news",
-            "title": "Wasted Grain takes top tenderloin - AgUpdate",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWFUSW5sbmkxMkFWU2tCWHBWR3hnZ2p2VEQyVHlLMnpVZGd5ZXFUblhBdWg2VUh3MFBfcEtVUVdhX1dwTmRxMHpSc2VSUHVUQldwRzd2RHh2N0t1Um1LWm11N0k3dzRSbjFpV3dodmZVSFpMMDhCRk1VNEV4LV9pRG5vWWtmTlUtQjJTVTBCTl9jU2ZkQmswTjNlQ3BvWmVvemd5MUkwX3E?oc=5",
-            "snippet": "Wasted Grain takes top tenderloin - AgUpdate"
+            "title": "17 better ways Elon Musk could have wasted $446 million - The Verge",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxlcWZZTzVWMkZUeDYzM3VWb0hIaVpwT3JuLXIxWGdxaFJueXpxekk1TzAwLW5ZVkVuRDd1cHl2UXhIZDMxN19DaGN6UXBxN24xMV9iMFhqelJEQ09LMGstYUV3cnBPUlNmQmFnZUM5eGZ2WTE0dEpBdmkzSU5PNzJYeFVaNW9aTlVKUVhEV1Q?oc=5",
+            "snippet": "17 better ways Elon Musk could have wasted $446 million - The Verge"
           },
           {
             "kind": "google_news",
-            "title": "Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkRYUnlMY1pCdWthdVNHMkJwaGpvMUgwczZudHRaSGVGVmVGOTR6bC10TzBrOTlFRVA1c3NMbEtQcnhrX0NaT0wtV2lQaTZPSVlXeUZrUUYtSUpRTG43eW1OV1hKUFJIUlE2R2VsRHItTlhWQTJVeGRfLV94RWdWS25KdS0?oc=5",
-            "snippet": "Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports"
+            "title": "Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEN6THhQYzE0ck4zRnZzaDM4Zy1BbmNDWjFOODREYmtlNV9oMC1WVElSeXgyQVRzU2RVVjNUbmJraU1BcGtDVTVIaFBIMGltdEVHcXpXOG5OUHpmM0I0ejVLRzdFNEZSZVUtTG5OSlZCY3owNWpWa2tmcFpkUFB0S2I3WFZuaERhYjFIYlROZWh2THhqVkUxOVpodw?oc=5",
+            "snippet": "Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek"
           }
         ],
         "match_words": [
@@ -419,7 +419,7 @@
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Wasted Sprout ($WSSTD) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play\u2026\n\nWhy it's trending: Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).\nDriver: Coverage: AgUpdate Coverage: Yahoo Sports\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Wasted Sprout ($WSSTD) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around WASTED (WASTED). Riffs on sourced context: Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half\u2026\n\nWhy it's trending: Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek\" (Newsweek).\nDriver: Coverage: The Verge Coverage: Newsweek\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
         "seed": "c_790fb8d1c46c",
         "palette": 5,
@@ -427,7 +427,7 @@
         "ears": 0,
         "accent": 3
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).\"",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek\" (Newsweek).\"",
       "image_file": "images/c_790fb8d1c46c.png",
       "rank": 2
     },
@@ -1337,5 +1337,5 @@
   "candidate_count": 10,
   "token_count": 87,
   "group_count": 75,
-  "last_published": "2026-11-07T11:24:35.582597-05:00"
+  "last_published": "2026-11-07T11:24:55.305333-05:00"
 }

@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-07T16:24:29.432685+00:00",
+  "updated_at": "2026-11-07T16:24:39.732462+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -215,7 +215,7 @@
       "concept_id": "c_790fb8d1c46c",
       "token_name": "Wasted Sprout",
       "ticker": "WSSTD",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Wasted Grain takes top tenderloin - AgUpdate\" (AgUpdate). Google News: \"Brennan Thompson\u2019s Speed Is Wasted When He Can\u2019t Play - Yahoo Sports\" (Yahoo Sports).\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"17 better ways Elon Musk could have wasted $446 million - The Verge\" (The Verge). Google News: \"Elon Musk Wasted Nearly Half a Billion Dollars on Major Midterm Defeats - Newsweek\" (Newsweek).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
