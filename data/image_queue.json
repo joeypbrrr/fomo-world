@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T12:20:12.135820+00:00",
+  "updated_at": "2026-11-08T12:56:48.924065+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -703,6 +703,45 @@
       "status": "pending",
       "image_path": "images/c_eb792e35969b.png",
       "added_at": "2026-11-08T12:20:12.135820+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_00ee73e47236",
+      "token_name": "Elysium Sprout",
+      "ticker": "ESLYS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysium Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The oldest computers in Elysium printing $HYPE. 4,444 ERC-404 machines on Elysium \u2699\ufe0f\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_00ee73e47236.png",
+      "added_at": "2026-11-08T12:56:48.924065+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f6b839cf33ce",
+      "token_name": "Tungmas Sprout",
+      "ticker": "TSNGM",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSNGM' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Tungmas Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Christmas Runner 2026\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f6b839cf33ce.png",
+      "added_at": "2026-11-08T12:56:48.924065+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_55beb3d10601",
+      "token_name": "Fobmas Sprout",
+      "ticker": "FSBMS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSBMS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Fobmas Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Fobmas is coming\ud83c\udf81\ud83c\udf81\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_55beb3d10601.png",
+      "added_at": "2026-11-08T12:56:48.924065+00:00",
       "completed_at": null
     }
   ]
