@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T11:42:37.811261+00:00",
+  "updated_at": "2026-11-08T12:20:12.135820+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -651,6 +651,58 @@
       "status": "pending",
       "image_path": "images/c_01be09b4cc54.png",
       "added_at": "2026-11-08T11:42:37.811261+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1e1164f0283d",
+      "token_name": "Claudia Sprout",
+      "ticker": "CSLDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Claudia Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Claudia Ryan Obituary | October 23, 2026 - Hartford Courant\" (Hartford Courant). Google News: \"Claudia Jim\u00e9nez Holds a Lead in Richmond Mayoral Race - KQED\" (KQED).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1e1164f0283d.png",
+      "added_at": "2026-11-08T12:20:12.135820+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_349d0b9fc6fe",
+      "token_name": "Telepawthy Sprout",
+      "ticker": "TSLPW",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSLPW' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Telepawthy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Telepawthy\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_349d0b9fc6fe.png",
+      "added_at": "2026-11-08T12:20:12.135820+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8e1c1176bb7b",
+      "token_name": "Larp Sprout",
+      "ticker": "LSRPP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSRPP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Larp Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Launch a coin. The bigger the LARP, the higher the starting market cap. From $100K to $5M.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8e1c1176bb7b.png",
+      "added_at": "2026-11-08T12:20:12.135820+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_eb792e35969b",
+      "token_name": "Unemployed Sprout",
+      "ticker": "USNMP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'USNMP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Unemployed Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Unemployed\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_eb792e35969b.png",
+      "added_at": "2026-11-08T12:20:12.135820+00:00",
       "completed_at": null
     }
   ]
