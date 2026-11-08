@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T14:11:29.962749+00:00",
+  "updated_at": "2026-11-08T20:20:40.226208+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -332,7 +332,7 @@
       "concept_id": "c_bca66f20ff19",
       "token_name": "Gigahug Sprout",
       "ticker": "GSGHG",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GSGHG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Gigahug Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Alice hugged a microchip and forgot to let go. Every holder is a transistor. Together, we're the processor. Thousands of tiny connections, absolutely no personal space.\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GSGHG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Gigahug Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Alice hugged a microchip and forgot to let go. Every holder is a transistor. Together, we're the processor. Thousands of tiny connections, absolutely no personal space.\" Google News: \"Gigahug (GIGAHUG) Price, MarketCap, Charts and Fundamentals Info - BeInCry\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -781,6 +781,110 @@
       "status": "pending",
       "image_path": "images/c_dc33597f31d6.png",
       "added_at": "2026-11-08T14:11:29.962749+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a7a3835e539e",
+      "token_name": "Again Frog",
+      "ticker": "AFGNR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'AFGNR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Again Frog. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"\ud83d\udc38\ud83d\ude80 BROKE AGAIN ($BROKE) BORN BROKE. STILL DREAMING. \ud83c\udf15 DOGE became a legend. SHIB built an army. PEPE took over the memes. Now meet the frog who can't even afford rent. \ud83d\udc80 \ud83d\udcb8 BANK BALANCE: $0.47 \ud83d\udcb0 DREAM: $1,000,000 \ud83d\ude80 DESTINATION: THE MOON Introducing BROKE AGAI\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a7a3835e539e.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8bf004f7bf15",
+      "token_name": "Slingoor Sprout",
+      "ticker": "SSLNG",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSLNG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Slingoor Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Slingoor rugged the entire BTC ecosystem, hundreds of thousands of people lost their life savings. Slingoor always called Ansem a scammer, when in fact Sling is the real scammer. This token is paired to Ansem with supply sent to Ansem. This token is for the \"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8bf004f7bf15.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c1591570f738",
+      "token_name": "Willow Canyon",
+      "ticker": "WCLLW",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WCLLW' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Willow Canyon. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"The cars of GTA6 just hit the streets of Miami - Wallpaper*\" (Wallpaper*). Google News: \"New GTA6 Screenshots have released comparing real life cars to in Game Cars - RockstarINTEL\" (RockstarINTEL).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c1591570f738.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6836eabd8d05",
+      "token_name": "Elysion Sprout",
+      "ticker": "ESLYS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6836eabd8d05.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a771f14bbe42",
+      "token_name": "Lockra Sprout",
+      "ticker": "LSCKR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSCKR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Lockra Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The first encryption protocol on FOBO. Seal a message to a future date using timelock encryption on BLS12-381. The key is created by the drand network only when that moment arrives. Before then, it simply doesn't exist. Nobody can open it early, not even us.\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a771f14bbe42.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2aad0b7393eb",
+      "token_name": "Lend Sprout",
+      "ticker": "LSNDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSNDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Lend Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Rent, borrow and trade tokens OTC, peer-to-peer on Solana. Your tokens earn SOL. Non-custodial, no middleman.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2aad0b7393eb.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e036855a9388",
+      "token_name": "Flora Sprout",
+      "ticker": "FSLRP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Flora Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Flora is the official mascot of fobofun, the launchpad where every coin has a floor price that only moves up.\" Google Trends daily list includes \"katie price\". Headline: \"Kieran Hayler says his rape trial was 'just a game' for ex-wife Katie Price\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e036855a9388.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_d9eec971a98b",
+      "token_name": "Brix Orbit",
+      "ticker": "BORXR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BORXR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Brix Orbit. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"DJ BRIX is building the dance floor for the entire fobo ecosystem, one brick at a time. \ud83e\uddf1\ud83e\udea9 Every trade on $BRIX lays another brick, and the Floor keeps rising, level by level: from the Basement to the Block, the Rooftop, the Clouds, Orbit, and finally the Mo\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d9eec971a98b.png",
+      "added_at": "2026-11-08T20:20:40.226208+00:00",
       "completed_at": null
     }
   ]
