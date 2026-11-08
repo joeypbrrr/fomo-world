@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T22:02:55.190933+00:00",
+  "updated_at": "2026-11-08T23:37:20.137470+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -989,6 +989,45 @@
       "status": "pending",
       "image_path": "images/c_3b4cbc6604f2.png",
       "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e1555dd7b2b0",
+      "token_name": "Forg Sprout",
+      "ticker": "FSRGP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSRGP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Forg Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"forg\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e1555dd7b2b0.png",
+      "added_at": "2026-11-08T23:37:20.137470+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_5ca503922827",
+      "token_name": "Still Sprout",
+      "ticker": "SSTLL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSTLL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Still Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"This is Pat. Pat has been on hold, waiting for GTA VI, since September 17, 2013. Meme coin for fun. No utility, no promises, not financial advice. Not affiliated with Rockstar Games or Take-Two.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_5ca503922827.png",
+      "added_at": "2026-11-08T23:37:20.137470+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_44cf7abe559e",
+      "token_name": "Zelos Sprout",
+      "ticker": "ZSLSP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ZSLSP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Zelos Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The fastest terminal on Elysium. Secured by AWS KMS.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_44cf7abe559e.png",
+      "added_at": "2026-11-08T23:37:20.137470+00:00",
       "completed_at": null
     }
   ]
