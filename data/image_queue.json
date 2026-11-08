@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T10:30:11.787896+00:00",
+  "updated_at": "2026-11-08T11:05:58.346902+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -573,6 +573,45 @@
       "status": "pending",
       "image_path": "images/c_cb778ac1840f.png",
       "added_at": "2026-11-08T10:30:11.787896+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e029bc1be79e",
+      "token_name": "Ripple Thimble",
+      "ticker": "RTPPL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RTPPL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Ripple Thimble. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The swamp's favorite bad idea. $PMUSI is almost here. Built for people who prefer their memes loud and their charts green\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e029bc1be79e.png",
+      "added_at": "2026-11-08T11:05:58.346902+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_35ded4a3674f",
+      "token_name": "Float Sprout",
+      "ticker": "FSLTP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Float Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"BYD\u2019s new Rolls-Royce-inspired EV can float, turn like a tank, and costs over $300,000 - Digital Trends\" (Digital Trends). Google News: \"New Detroit Thanksgiving Day parade float creates storybook magic - The Detroit News\" (The Detroit News).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_35ded4a3674f.png",
+      "added_at": "2026-11-08T11:05:58.346902+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8880d5b41961",
+      "token_name": "Wofl Sprout",
+      "ticker": "WSFLP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSFLP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wofl Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"wofl\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8880d5b41961.png",
+      "added_at": "2026-11-08T11:05:58.346902+00:00",
       "completed_at": null
     }
   ]
