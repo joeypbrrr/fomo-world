@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T09:18:10.361634+00:00",
+  "updated_at": "2026-11-08T10:30:11.787896+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -547,6 +547,32 @@
       "status": "pending",
       "image_path": "images/c_9a8d0c078ebb.png",
       "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8c9cbdada9ee",
+      "token_name": "Call Sprout",
+      "ticker": "CSLLP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLLP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Call Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"CALL\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8c9cbdada9ee.png",
+      "added_at": "2026-11-08T10:30:11.787896+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_cb778ac1840f",
+      "token_name": "Bozo Sprout",
+      "ticker": "BSZPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSZPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bozo Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The BOZO cult has arrived on Elysium.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_cb778ac1840f.png",
+      "added_at": "2026-11-08T10:30:11.787896+00:00",
       "completed_at": null
     }
   ]
