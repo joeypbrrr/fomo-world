@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T20:20:40.226208+00:00",
+  "updated_at": "2026-11-08T21:07:02.823220+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -865,7 +865,7 @@
       "concept_id": "c_e036855a9388",
       "token_name": "Flora Sprout",
       "ticker": "FSLRP",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Flora Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Flora is the official mascot of fobofun, the launchpad where every coin has a floor price that only moves up.\" Google Trends daily list includes \"katie price\". Headline: \"Kieran Hayler says his rape trial was 'just a game' for ex-wife Katie Price\".\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Flora Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Flora is the official mascot of fobofun, the launchpad where every coin has a floor price that only moves up.\"\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -885,6 +885,32 @@
       "status": "pending",
       "image_path": "images/c_d9eec971a98b.png",
       "added_at": "2026-11-08T20:20:40.226208+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_664b5ca8c5c7",
+      "token_name": "City Sprout",
+      "ticker": "CSTYP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSTYP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: City Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The biggest marketing push of all time. Jerseys, a stadium, a NBA game, a full rebrand of the Miami heat. Jerseys will be limited and resold for insane multiples, with missions in game.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_664b5ca8c5c7.png",
+      "added_at": "2026-11-08T21:07:02.823220+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2c207b7b7f5f",
+      "token_name": "Warcraft Sprout",
+      "ticker": "WSRCR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSRCR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Warcraft Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"We did something I never thought would be possible. We successfully built World of Warcraft to be playable directly in a browser. The entire game was developed by my team and the token is integrated directly into the game. You can earn tokens by completing q\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2c207b7b7f5f.png",
+      "added_at": "2026-11-08T21:07:02.823220+00:00",
       "completed_at": null
     }
   ]
