@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T13:34:19.294939+00:00",
+  "updated_at": "2026-11-08T14:11:29.962749+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -709,7 +709,7 @@
       "concept_id": "c_00ee73e47236",
       "token_name": "Elysium Sprout",
       "ticker": "ESLYS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysium Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The oldest computers in Elysium printing $HYPE. 4,444 ERC-404 machines on Elysium \u2699\ufe0f\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysium Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Once reserved for the few, Elysium became a home for all when its system was rewritten to recognize everyone as a citizen. Elysium Citizens reimagines that story for the Elysium blockchain, a new frontier where every arrival begins with the same invitation. \"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -748,7 +748,7 @@
       "concept_id": "c_89dfae7588d5",
       "token_name": "Float Sprout",
       "ticker": "FSLTP",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Float Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"50% of the fees will go towards buying $FLOAT and distributing it to all $BabyFloat holders, and ~50% of the fees will go towards buying $BabyFloat and distributing it to $FLOAT holders!\" Google News: \"New Detroit Thanksgiving Day parade float creates storyb\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Float Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"50% of the fees will go towards buying $FLOAT and distributing it to all $BabyFloat holders, and ~50% of the fees will go towards buying $BabyFloat and distributing it to $FLOAT holders!\" Google News: \"Miso Caramel Beer Float Recipe - Yahoo\" (Yahoo). Google \"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -768,6 +768,19 @@
       "status": "pending",
       "image_path": "images/c_e8bdfde04bb5.png",
       "added_at": "2026-11-08T13:34:19.294939+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_dc33597f31d6",
+      "token_name": "Percolator Sprout",
+      "ticker": "PSRCL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSRCL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Percolator Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Original rugged under the wrong people fees to correct person Holding supply for some of those who got rekt.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_dc33597f31d6.png",
+      "added_at": "2026-11-08T14:11:29.962749+00:00",
       "completed_at": null
     }
   ]
