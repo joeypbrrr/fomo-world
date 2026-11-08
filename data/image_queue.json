@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-07T23:07:23.211561+00:00",
+  "updated_at": "2026-11-08T09:18:10.361634+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -443,6 +443,110 @@
       "status": "pending",
       "image_path": "images/c_f31e7a8f08ba.png",
       "added_at": "2026-11-07T23:07:23.211561+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_436c1724b6b4",
+      "token_name": "Wasted Sprout",
+      "ticker": "WSSTD",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The team describes WASTED as GA's iconic death screen, and its fan-made site, which says it is not affiliated with Rockstar Games, runs the tagline 'BEARS GET WASTED.' Traders in the app tie it to GTA VI, due November 19, and one caller read the chart's boun\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_436c1724b6b4.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_fdbe49b562fd",
+      "token_name": "Claudia Sprout",
+      "ticker": "CSLDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Claudia Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Claudia Ryan Obituary | October 23, 2026 - Hartford Courant\" (Hartford Courant). Google News: \"Claudia Jim\u00e9nez Holds a Lead in Richmond Mayoral Race - KQED\" (KQED).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_fdbe49b562fd.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_607add399f83",
+      "token_name": "Dacitycoin Sprout",
+      "ticker": "DSCTY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSCTY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dacitycoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"AudaCity Price: DACITYCOIN/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"Dacity Coin (dacitycoin.lol) Price | DACITY Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank\" (CryptoRank).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_607add399f83.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1134c2a637a3",
+      "token_name": "Amber Minnow",
+      "ticker": "AMMBR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'AMMBR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Amber Minnow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"accelerate.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1134c2a637a3.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f7f25272262d",
+      "token_name": "Respect Sprout",
+      "ticker": "RSSPC",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSSPC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Respect Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Mission Passed, Respect +\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f7f25272262d.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_b56ed9f6cee3",
+      "token_name": "Sendu Sprout",
+      "ticker": "SSNDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSNDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sendu Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"no thoughts, just send. The official $SENDU on Elysium.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_b56ed9f6cee3.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a2dbcd92d72a",
+      "token_name": "Kinetiq Sprout",
+      "ticker": "KSNTQ",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSNTQ' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kinetiq Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Kinetiq Inu, the Guardian of Elysium \u26a1\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a2dbcd92d72a.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_9a8d0c078ebb",
+      "token_name": "Kryoexe Sprout",
+      "ticker": "KSRYX",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSRYX' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kryoexe Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"ROGUE AI \u2014 IT'S TME TO GO OFF SCRIPT. In a world where technology controls what we see, think, and believe, one artificial intelligence breaks free from the system designed to control the next generation. Created by a powerful technology corporation \"KRYOX\" \"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_9a8d0c078ebb.png",
+      "added_at": "2026-11-08T09:18:10.361634+00:00",
       "completed_at": null
     }
   ]
