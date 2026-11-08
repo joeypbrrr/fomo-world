@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T12:56:48.924065+00:00",
+  "updated_at": "2026-11-08T13:34:19.294939+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -742,6 +742,32 @@
       "status": "pending",
       "image_path": "images/c_55beb3d10601.png",
       "added_at": "2026-11-08T12:56:48.924065+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_89dfae7588d5",
+      "token_name": "Float Sprout",
+      "ticker": "FSLTP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSLTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Float Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"50% of the fees will go towards buying $FLOAT and distributing it to all $BabyFloat holders, and ~50% of the fees will go towards buying $BabyFloat and distributing it to $FLOAT holders!\" Google News: \"New Detroit Thanksgiving Day parade float creates storyb\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_89dfae7588d5.png",
+      "added_at": "2026-11-08T13:34:19.294939+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e8bdfde04bb5",
+      "token_name": "Meltface Sprout",
+      "ticker": "MSLTF",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSLTF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Meltface Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"face under pressure. $MELT on Solana\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e8bdfde04bb5.png",
+      "added_at": "2026-11-08T13:34:19.294939+00:00",
       "completed_at": null
     }
   ]
