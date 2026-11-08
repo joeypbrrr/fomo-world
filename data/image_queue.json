@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T21:07:02.823220+00:00",
+  "updated_at": "2026-11-08T22:02:55.190933+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -911,6 +911,84 @@
       "status": "pending",
       "image_path": "images/c_2c207b7b7f5f.png",
       "added_at": "2026-11-08T21:07:02.823220+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_def3237243be",
+      "token_name": "Pussy Storm",
+      "ticker": "PSSSY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSSSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Pussy Storm. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Gooner Pussy Unit ($GPU) powers Solana with lime-green anime energy, GPU-fueled chaos, and an overclocked appetite for memes.\" DexScreener profile: \"PussyCoin\" Google News: \"Wednesday and Mannequin Pussy Storm Nashville on the Rolling Stone Rock Tour - Rolli\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_def3237243be.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_037a50c72b50",
+      "token_name": "Shit Here",
+      "ticker": "SHHTR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SHHTR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Shit Here. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Same alley. Same chaos. One more run.\" Google News: \"Tim Brando May \u201cShit the Bed\u201d if He Has to See the Allstate Playoff Predictor Again | Don't @ Me w/ Dan Dakich - Fox News\" (Fox News).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_037a50c72b50.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c0111261c2c6",
+      "token_name": "Jensen Alice",
+      "ticker": "JANSN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JANSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Alice. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Jensen x Alice brings an unlikely internet crossover to Solana as a community-driven meme token.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c0111261c2c6.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_410123391435",
+      "token_name": "Earn Sprout",
+      "ticker": "ESRNP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESRNP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Earn Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Earn through creator rewards.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_410123391435.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a6a9a3e65f43",
+      "token_name": "Elysian Sprout",
+      "ticker": "ESLYS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysian Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The Elysian, the blue gigachad guardian of Elysium, launched on Volta. 2% fee to buyback and burn.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a6a9a3e65f43.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_3b4cbc6604f2",
+      "token_name": "Femo Sprout",
+      "ticker": "FSMPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSMPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Femo Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"FEMO \u2014 Finding Early Meme Opportunities. The first community-powered launchpad and meme discovery platform on Elysium. Launch memes. Discover gems. Build your family. Be early.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_3b4cbc6604f2.png",
+      "added_at": "2026-11-08T22:02:55.190933+00:00",
       "completed_at": null
     }
   ]
