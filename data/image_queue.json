@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T11:05:58.346902+00:00",
+  "updated_at": "2026-11-08T11:42:37.811261+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -612,6 +612,45 @@
       "status": "pending",
       "image_path": "images/c_8880d5b41961.png",
       "added_at": "2026-11-08T11:05:58.346902+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6e8abba2c05d",
+      "token_name": "Grand Theft",
+      "ticker": "GTRND",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GTRND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Grand Theft. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Grand Theft Anakin ($GTA) is an Ethereum-based memecoin that brings together gaming nostalgia, cinematic storytelling, and crypto culture in one unique universe.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6e8abba2c05d.png",
+      "added_at": "2026-11-08T11:42:37.811261+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_ac9c21f3e72b",
+      "token_name": "Brass Nest",
+      "ticker": "BNRSS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BNRSS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Brass Nest. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Mop\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_ac9c21f3e72b.png",
+      "added_at": "2026-11-08T11:42:37.811261+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_01be09b4cc54",
+      "token_name": "Booty Sprout",
+      "ticker": "BSTYP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSTYP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Booty Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"\ud83c\udf4aBig booty coin that rewards BTC just for holding, the perfect normie meme.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_01be09b4cc54.png",
+      "added_at": "2026-11-08T11:42:37.811261+00:00",
       "completed_at": null
     }
   ]
