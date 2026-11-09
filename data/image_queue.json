@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-09T09:33:58.416376+00:00",
+  "updated_at": "2026-11-09T18:06:58.318658+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -317,9 +317,9 @@
     },
     {
       "concept_id": "c_fa9d3503ed3b",
-      "token_name": "Cinder Thimble",
-      "ticker": "CTNDR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CTNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cinder Thimble. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"GTA6 Release Sparks $1 Billion Economic Loss - \uc870\uc120\uc77c\ubcf4\" (\uc870\uc120\uc77c\ubcf4). Google News: \"New GTA6 Screenshots have released comparing real life cars to in Game Cars - RockstarINTEL\" (RockstarINTEL).\"",
+      "token_name": "Kodak Black",
+      "ticker": "KBDKL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KBDKL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kodak Black. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The most anticipated game in history. Kodak on the mic. GTA 6 on the screen. \ud83c\udfa4\ud83c\udfae GTA6KODAK \u2014 rap meets Vice City.\" Google News: \"GTA6 Release Sparks $1B Economic Fears - \uc870\uc120\uc77c\ubcf4\" (\uc870\uc120\uc77c\ubcf4). Google News: \"GTA6 Ramping Up To Be The Biggest Release In Entertainment Hi\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1275,6 +1275,110 @@
       "status": "pending",
       "image_path": "images/c_c492f425e4cb.png",
       "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_794a922542e7",
+      "token_name": "Theft Sprout",
+      "ticker": "TSHFT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHFT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Theft Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Grand Theft Alice ($GTA) is a Solana meme coin starring Alice in a neon city of fast cars, glowing GPUs, and one last data-center heist.\" DexScreener profile: \"WE GOT $GETA BEFORE GTA 6\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_794a922542e7.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_b4d46f2675a7",
+      "token_name": "Memecoin Sprout",
+      "ticker": "MSMCN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSMCN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Memecoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$MEME is a multi-chain memecoin launched across Solana, RH, BSC and ETH, bringing four ecosystems together under one coin. Holders receive chain-specific meme rewards for holding.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_b4d46f2675a7.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_644df2648799",
+      "token_name": "Last Truck",
+      "ticker": "LTSTR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LTSTR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Last Truck. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The final unit off a closing factory line. They're refunding deposits. We're not. The line stops. The chain doesn't.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_644df2648799.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_0f78b7ad615d",
+      "token_name": "Cupsey Files",
+      "ticker": "CFPSY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CFPSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cupsey Files. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"A memecoin for the timeline\u2019s most committed chart-watchers. Open the folder. Bring your own tinfoil.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_0f78b7ad615d.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8edcc0ae333f",
+      "token_name": "Offchart Sprout",
+      "ticker": "OSFFC",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'OSFFC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Offchart Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Offchart is a Solana platform where big memecoin bags change hands wallet to wallet, not through the pool. Sell without nuking the chart, buy below market, or swap token for token with one signature. 30% of creator fees buy back $OFFCHART as cashback for tra\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8edcc0ae333f.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_974622ddf70b",
+      "token_name": "Trap Sprout",
+      "ticker": "TSRPP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSRPP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Trap Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$TMAP is the token for Trap Map, cluster map tool for Solana traders. Call the day's biggest rug on our Rugpullboard and get paid.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_974622ddf70b.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_bf5bf74cfb6f",
+      "token_name": "Diamond Sprout",
+      "ticker": "DSMND",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSMND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Diamond Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The unbothered ape who never sells. Born from the original 2013 HODL culture - diamond hands, zero panic, pure conviction\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_bf5bf74cfb6f.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_623ce4ca937b",
+      "token_name": "Dogi Bird",
+      "ticker": "DBGRD",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DBGRD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dogi Bird. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The new Elon Musk Dog Elon Musk, the visionary CEO of Tesla, SpaceX, and xAI, was photographed bonding with an energetic new Shiba Inu puppy during a relaxed stroll near Lady Bird Lake in Austin, Texas.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_623ce4ca937b.png",
+      "added_at": "2026-11-09T18:06:58.318658+00:00",
       "completed_at": null
     }
   ]
