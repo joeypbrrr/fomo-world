@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-09T18:06:58.318658+00:00",
+  "updated_at": "2026-11-09T21:25:21.505825+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1281,7 +1281,7 @@
       "concept_id": "c_794a922542e7",
       "token_name": "Theft Sprout",
       "ticker": "TSHFT",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHFT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Theft Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Grand Theft Alice ($GTA) is a Solana meme coin starring Alice in a neon city of fast cars, glowing GPUs, and one last data-center heist.\" DexScreener profile: \"WE GOT $GETA BEFORE GTA 6\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHFT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Theft Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"WE GOT $GETA BEFORE GTA 6\" DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1379,6 +1379,110 @@
       "status": "pending",
       "image_path": "images/c_623ce4ca937b.png",
       "added_at": "2026-11-09T18:06:58.318658+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e0abe958126d",
+      "token_name": "Maya Samoyed",
+      "ticker": "MSYMY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSYMY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Maya Samoyed. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e0abe958126d.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_be25355cc289",
+      "token_name": "Hwan Sprout",
+      "ticker": "HSWNP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'HSWNP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Hwan Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The world\u2019s second exchange rates, traded on Solana.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_be25355cc289.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c8891226374d",
+      "token_name": "Bigpussycoin Sprout",
+      "ticker": "BSGPS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSGPS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bigpussycoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Neon-green memecoin for the ones who go big. Official $BigPussy \u2014 to the moon, no brakes.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c8891226374d.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_529ea9e89206",
+      "token_name": "Shoku Sprout",
+      "ticker": "SSHKP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSHKP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Shoku Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Shoku Mode\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_529ea9e89206.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_66539c671ec2",
+      "token_name": "Loopd Sprout",
+      "ticker": "LSPDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSPDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Loopd Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Your brainrot, with a ticker. Turn a prompt into an AI-generated GIF, then launch it as a coin on Solana.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_66539c671ec2.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_45b33256a6c5",
+      "token_name": "Laundering Sprout",
+      "ticker": "LSNDR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Laundering Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"North Korean hackers are using memecoins on NEAR PROTOCOL to launder funds from the $6 billion Binance hack\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_45b33256a6c5.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_cf5ecaa66816",
+      "token_name": "Bandar Buys",
+      "ticker": "BBNDR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BBNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bandar Buys. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"bandar is the whale everyone blames. he only buys btc. nobody knows why. he doesn't either. in indonesia, a \"bandar\" is the big money nobody sees but everybody blames. price goes up, bandar. price goes down, bandar. your wifi drops, probably bandar. born amo\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_cf5ecaa66816.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8b35100869d4",
+      "token_name": "Mossy Puddle",
+      "ticker": "MPSSY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MPSSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mossy Puddle. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8b35100869d4.png",
+      "added_at": "2026-11-09T21:25:21.505825+00:00",
       "completed_at": null
     }
   ]
