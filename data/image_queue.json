@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-09T01:41:17.430981+00:00",
+  "updated_at": "2026-11-09T09:33:58.416376+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -317,9 +317,9 @@
     },
     {
       "concept_id": "c_fa9d3503ed3b",
-      "token_name": "Kodak Black",
-      "ticker": "KBDKL",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KBDKL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kodak Black. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The most anticipated game in history. Kodak on the mic. GTA 6 on the screen. \ud83c\udfa4\ud83c\udfae GTA6KODAK \u2014 rap meets Vice City.\" Google News: \"The cars of GTA6 just hit the streets of Miami - Wallpaper*\" (Wallpaper*). Google News: \"New GTA6 Screenshots have released compar\"",
+      "token_name": "Cinder Thimble",
+      "ticker": "CTNDR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CTNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cinder Thimble. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"GTA6 Release Sparks $1 Billion Economic Loss - \uc870\uc120\uc77c\ubcf4\" (\uc870\uc120\uc77c\ubcf4). Google News: \"New GTA6 Screenshots have released comparing real life cars to in Game Cars - RockstarINTEL\" (RockstarINTEL).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -826,7 +826,7 @@
       "concept_id": "c_6836eabd8d05",
       "token_name": "Elysion Sprout",
       "ticker": "ESLYS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"ELYSION PAD to SGD: ELYSION Price in Singapore Dollar\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION PAD to SGD: ELYSION Price in Singapore Dollar - CoinGecko\" (CoinGecko). Google News: \"Elysion to release new studio album \u201cIdentity\u201d on October 16th 2026 - Gr\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1197,6 +1197,84 @@
       "status": "pending",
       "image_path": "images/c_a0c95d97b67e.png",
       "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_3b837d619740",
+      "token_name": "Mellow Drum",
+      "ticker": "MDLLW",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MDLLW' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mellow Drum. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"\"NVIDIA's CEO allegedly had a relationship with Alice Huang, who is suspected of spying for Chinese intelligence.\"\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_3b837d619740.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a2d6cdb0153e",
+      "token_name": "Steve Fish",
+      "ticker": "SFTVS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SFTVS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Steve Fish. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"4CHAN IS BUILDING A NEW ANIMAL CULT His name is Steve, a stupidly simple fish drawing that anons on /s4s/ are turning into a whole cult THEY EVEN BUILT A WEBSITE CALLED \"BUILD A STEVE\" WHERE ANYONE CAN CREATE THEIR OWN PERSONAL FISH MEME Different hats, colo\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a2d6cdb0153e.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_d83f5a3a3ba1",
+      "token_name": "Lone Wolf",
+      "ticker": "LWNLF",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LWNLF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Lone Wolf. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The Lone Wolf\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d83f5a3a3ba1.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_efc7399c125a",
+      "token_name": "Kstock Sprout",
+      "ticker": "KSSTC",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSSTC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kstock Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"First launchpad on Elysium with stock pairs\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_efc7399c125a.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_79ed6fade81f",
+      "token_name": "Vegito Sprout",
+      "ticker": "VSGTP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSGTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Vegito Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Vegito.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_79ed6fade81f.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c492f425e4cb",
+      "token_name": "Everyday Zeroday",
+      "ticker": "EZVRY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'EZVRY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Everyday Zeroday. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"0DAY \ud83d\udc22 | everyday is Zeroday\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c492f425e4cb.png",
+      "added_at": "2026-11-09T09:33:58.416376+00:00",
       "completed_at": null
     }
   ]
