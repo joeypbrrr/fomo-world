@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-09T00:23:21.528219+00:00",
+  "updated_at": "2026-11-09T00:54:14.583913+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -317,9 +317,9 @@
     },
     {
       "concept_id": "c_fa9d3503ed3b",
-      "token_name": "Cinder Thimble",
-      "ticker": "CTNDR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CTNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cinder Thimble. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"GTA\" DexScreener profile: \"Earn $TTWO Stock (Rockstar Games Parent Company). Airdropped directly to your wallet just for holding.\"\"",
+      "token_name": "Kodak Black",
+      "ticker": "KBDKL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KBDKL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kodak Black. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The most anticipated game in history. Kodak on the mic. GTA 6 on the screen. \ud83c\udfa4\ud83c\udfae GTA6KODAK \u2014 rap meets Vice City.\" Google News: \"The cars of GTA6 just hit the streets of Miami - Wallpaper*\" (Wallpaper*). Google News: \"New GTA6 Screenshots have released compar\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -826,7 +826,7 @@
       "concept_id": "c_6836eabd8d05",
       "token_name": "Elysion Sprout",
       "ticker": "ESLYS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"ELYSION PAD to SGD: ELYSION Price in Singapore Dollar\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"Elsword: Season 2: Elysion - IMDb\" (IMDb).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1067,6 +1067,58 @@
       "status": "pending",
       "image_path": "images/c_6bb591c4efba.png",
       "added_at": "2026-11-09T00:23:21.528219+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_071c73cb4563",
+      "token_name": "Need Vagina",
+      "ticker": "NVDGN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NVDGN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Need Vagina. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"A Solana meme token built for maximum attention and zero chill.\" DexScreener profile: \"Nvidia Mascot brings green-chip energy, tech vibes, and unstoppable meme power straight to the blockchain\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_071c73cb4563.png",
+      "added_at": "2026-11-09T00:54:14.583913+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_e3aee439184a",
+      "token_name": "Spongebob Sprout",
+      "ticker": "SSPNG",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSPNG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Spongebob Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"There\u2019s only one S & P I care about\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_e3aee439184a.png",
+      "added_at": "2026-11-09T00:54:14.583913+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f2cbd7e20b55",
+      "token_name": "Pussycoin Sprout",
+      "ticker": "PSSSY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSSSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Pussycoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Pussy Coin\" DexScreener profile: \"nvidia logo sideways it looks like a puh\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f2cbd7e20b55.png",
+      "added_at": "2026-11-09T00:54:14.583913+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_49a79225ff8d",
+      "token_name": "Perky Yams",
+      "ticker": "PYRKY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PYRKY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Perky Yams. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Super Perky Yams\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_49a79225ff8d.png",
+      "added_at": "2026-11-09T00:54:14.583913+00:00",
       "completed_at": null
     }
   ]
