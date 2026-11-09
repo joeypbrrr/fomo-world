@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-08T23:37:20.137470+00:00",
+  "updated_at": "2026-11-09T00:23:21.528219+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -826,7 +826,7 @@
       "concept_id": "c_6836eabd8d05",
       "token_name": "Elysion Sprout",
       "ticker": "ESLYS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"ELYSION PAD to SGD: ELYSION Price in Singapore Dollar\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1028,6 +1028,45 @@
       "status": "pending",
       "image_path": "images/c_44cf7abe559e.png",
       "added_at": "2026-11-08T23:37:20.137470+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_fb3f73a49f12",
+      "token_name": "Vice Sprout",
+      "ticker": "VSCPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSCPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Vice Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"GTA themed coin paired with take two stock, get rewarded for holding!\" DexScreener profile: \"Vice Kitty is the boss of the Ocean Strip \ud83d\ude3c\ud83c\udf34 A GTA 6 / Leonida themed meme coin on Solana, paired with $LEONIDA. One new chapter of the Vice Kitty story every day un\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_fb3f73a49f12.png",
+      "added_at": "2026-11-09T00:23:21.528219+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_cd0bde6ad3a4",
+      "token_name": "Pussycoin Sprout",
+      "ticker": "PSSSY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSSSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Pussycoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"nvidia logo sideways it looks like a puh\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_cd0bde6ad3a4.png",
+      "added_at": "2026-11-09T00:23:21.528219+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6bb591c4efba",
+      "token_name": "Dessa Sprout",
+      "ticker": "DSSSP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSSSP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dessa Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The meme comes from Block\u2019s Dessa announcement: an AI model trained on human speech rather than text. Our parody turns that into a familiar crypto personality\u2014the person who never reads the whitepaper but has the most to say in Spaces. \u201cNever read the whitep\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6bb591c4efba.png",
+      "added_at": "2026-11-09T00:23:21.528219+00:00",
       "completed_at": null
     }
   ]
