@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-09T00:54:14.583913+00:00",
+  "updated_at": "2026-11-09T01:41:17.430981+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -826,7 +826,7 @@
       "concept_id": "c_6836eabd8d05",
       "token_name": "Elysion Sprout",
       "ticker": "ESLYS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"Elsword: Season 2: Elysion - IMDb\" (IMDb).\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ESLYS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Elysion Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Multichain token launchpad inspired by the ancient Greek origins of Elysium.\" Google News: \"ELYSION Price: ELYSION PAD/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"ELYSION PAD to SGD: ELYSION Price in Singapore Dollar\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1119,6 +1119,84 @@
       "status": "pending",
       "image_path": "images/c_49a79225ff8d.png",
       "added_at": "2026-11-09T00:54:14.583913+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_bf71cb0f0237",
+      "token_name": "Spongebob Patrick",
+      "ticker": "SPPNG",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SPPNG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Spongebob Patrick. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"There\u2019s only one S & P I care about\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_bf71cb0f0237.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2fd21a41d1b6",
+      "token_name": "Bawsaq Sprout",
+      "ticker": "BSWSQ",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSWSQ' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bawsaq Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Vice City runs on greed. BAWSAQ gives it a ticker.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2fd21a41d1b6.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f7d400ac2570",
+      "token_name": "Nvidih Sprout",
+      "ticker": "NSVDH",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSVDH' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nvidih Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Maximum vibes. Zero serious computation.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f7d400ac2570.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_5d809aad02ec",
+      "token_name": "Tittyverse Sprout",
+      "ticker": "TSTTY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSTTY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Tittyverse Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"TITTYVERSE ($TITTYVERSE) unites anime crypto heroines, glowing galaxies, and golden orbits in one cosmic playground of bold memes.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_5d809aad02ec.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f0bd98f36023",
+      "token_name": "Costa Sprout",
+      "ticker": "CSSTP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSSTP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Costa Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"MAX born with nothing. Died for everyone\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f0bd98f36023.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a0c95d97b67e",
+      "token_name": "Groxie Robot",
+      "ticker": "GRRXB",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GRRXB' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Groxie Robot. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Amir Hadi who's head is Tesla Optimus engineering just posted their new AI robot called Groxie for household use. Grok even confirms.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a0c95d97b67e.png",
+      "added_at": "2026-11-09T01:41:17.430981+00:00",
       "completed_at": null
     }
   ]
