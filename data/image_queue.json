@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-10T09:44:50.204862+00:00",
+  "updated_at": "2026-11-10T10:15:55.641720+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1613,6 +1613,45 @@
       "status": "pending",
       "image_path": "images/c_045dd7a46e4d.png",
       "added_at": "2026-11-10T09:44:50.204862+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_36a665d748da",
+      "token_name": "Brain Found",
+      "ticker": "BFRNN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BFRNN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Brain Found. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"A terrier pressed Esc and canceled his only thought. The crash screen became Brain Not Found.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_36a665d748da.png",
+      "added_at": "2026-11-10T10:15:55.641720+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_015e12453c19",
+      "token_name": "Nimbus Minnow",
+      "ticker": "NMMBS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NMMBS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nimbus Minnow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"BNB Smart Chain recorded 4.86M active addresses in 24 hours, taking the top spot in the ranking \ud83e\udd47 Over 1M addresses ahead of the next network in the snapshot.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_015e12453c19.png",
+      "added_at": "2026-11-10T10:15:55.641720+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_054dbe8aa753",
+      "token_name": "Xogecoin Sprout",
+      "ticker": "XSGCN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'XSGCN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Xogecoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Xogecoin\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_054dbe8aa753.png",
+      "added_at": "2026-11-10T10:15:55.641720+00:00",
       "completed_at": null
     }
   ]
