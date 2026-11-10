@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-10T19:40:47.919424+00:00",
+  "updated_at": "2026-11-10T22:54:25.236932+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1782,6 +1782,58 @@
       "status": "pending",
       "image_path": "images/c_2ee4ebc2ce27.png",
       "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_07cdb7a88d36",
+      "token_name": "Privacy Sprout",
+      "ticker": "PSRVC",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSRVC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Privacy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Google agrees to additional privacy protections in Spirit Airlines data sal\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_07cdb7a88d36.png",
+      "added_at": "2026-11-10T22:54:25.236932+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_b9e4edec95eb",
+      "token_name": "Kmeow Sprout",
+      "ticker": "KSMWP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSMWP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kmeow Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"KMEOW\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_b9e4edec95eb.png",
+      "added_at": "2026-11-10T22:54:25.236932+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1f198ab7ec0e",
+      "token_name": "Clmfnd Sprout",
+      "ticker": "CSLMF",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLMF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Clmfnd Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1f198ab7ec0e.png",
+      "added_at": "2026-11-10T22:54:25.236932+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2f9f1b4bd4de",
+      "token_name": "Kodak Black",
+      "ticker": "KBDKL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KBDKL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kodak Black. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The most anticipated game in history. Kodak on the mic. GTA 6 on the screen. \ud83c\udfa4\ud83c\udfae GTA6KODAK \u2014 rap meets Vice City.\" Wikipedia most-read includes \"Black Doves\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2f9f1b4bd4de.png",
+      "added_at": "2026-11-10T22:54:25.236932+00:00",
       "completed_at": null
     }
   ]
