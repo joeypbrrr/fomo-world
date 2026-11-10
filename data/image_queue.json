@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-10T12:49:23.752545+00:00",
+  "updated_at": "2026-11-10T19:40:47.919424+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1034,7 +1034,7 @@
       "concept_id": "c_fb3f73a49f12",
       "token_name": "Vice Sprout",
       "ticker": "VSCPR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSCPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Vice Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"GTA themed coin paired with take two stock, get rewarded for holding!\" DexScreener profile: \"Vice Kitty is the boss of the Ocean Strip \ud83d\ude3c\ud83c\udf34 A GTA 6 / Leonida themed meme coin on Solana, paired with $LEONIDA. One new chapter of the Vice Kitty story every day un\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSCPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Vice Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"the real in-game currency for the upcoming GTA game\" DexScreener profile: \"GTA VICE CASH PAIRED WITH TTWO\"\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1704,6 +1704,84 @@
       "status": "pending",
       "image_path": "images/c_d5ced3ce5174.png",
       "added_at": "2026-11-10T12:49:23.752545+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1286b5c24157",
+      "token_name": "Rings Sprout",
+      "ticker": "RSNGS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSNGS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Rings Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The privacy-native launchpad on Solana.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1286b5c24157.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_053f18a65162",
+      "token_name": "Seppuku Sprout",
+      "ticker": "SSPPK",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSPPK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Seppuku Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigGo Finance). Google News: \"Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto fir\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_053f18a65162.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c2c4873e97a0",
+      "token_name": "Aicoin Sprout",
+      "ticker": "ASCNP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASCNP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Aicoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap\" (CoinMarketCap).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c2c4873e97a0.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2af10c291483",
+      "token_name": "Nami Sprout",
+      "ticker": "NSMPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSMPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nami Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2af10c291483.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_122aaa9049a3",
+      "token_name": "Audacity Sprout",
+      "ticker": "ASDCT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASDCT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Audacity Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_122aaa9049a3.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_2ee4ebc2ce27",
+      "token_name": "Boxing Sprout",
+      "ticker": "BSXNG",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSXNG' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Boxing Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Fighting our way to the top, one knockout at a time\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_2ee4ebc2ce27.png",
+      "added_at": "2026-11-10T19:40:47.919424+00:00",
       "completed_at": null
     }
   ]
