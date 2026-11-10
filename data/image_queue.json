@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-10T10:15:55.641720+00:00",
+  "updated_at": "2026-11-10T12:49:23.752545+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1216,7 +1216,7 @@
       "concept_id": "c_a2d6cdb0153e",
       "token_name": "Steve Fish",
       "ticker": "SFTVS",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SFTVS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Steve Fish. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"4CHAN IS BUILDING A NEW ANIMAL CULT His name is Steve, a stupidly simple fish drawing that anons on /s4s/ are turning into a whole cult THEY EVEN BUILT A WEBSITE CALLED \"BUILD A STEVE\" WHERE ANYONE CAN CREATE THEIR OWN PERSONAL FISH MEME Different hats, colo\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SFTVS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Steve Fish. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"4chan is building a fresh animal cult, His name is Steve, a stupidly simple fish drawing that anons on /s4s/ are turning into a whole cult\"\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1652,6 +1652,58 @@
       "status": "pending",
       "image_path": "images/c_054dbe8aa753.png",
       "added_at": "2026-11-10T10:15:55.641720+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1fd79de3db87",
+      "token_name": "Jong Sprout",
+      "ticker": "JSNGP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNGP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jong Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"North Korea is launching \u2018Elon Musk\u2019 crypto memecoins to launder $6.3 billion stolen from Binance\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1fd79de3db87.png",
+      "added_at": "2026-11-10T12:49:23.752545+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8006c756cd78",
+      "token_name": "Grand Theft",
+      "ticker": "GTRND",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GTRND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Grand Theft. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8006c756cd78.png",
+      "added_at": "2026-11-10T12:49:23.752545+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_ee12336fcd23",
+      "token_name": "Factorai Sprout",
+      "ticker": "FSCTR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FSCTR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Factorai Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"FTAI is a Binance-based token associated with the FactorAI project\u2014an AI workspace focused on coordinated agents, parallel workflows, and human-controlled automation.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_ee12336fcd23.png",
+      "added_at": "2026-11-10T12:49:23.752545+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_d5ced3ce5174",
+      "token_name": "Xshama Sprout",
+      "ticker": "XSSHM",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'XSSHM' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Xshama Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Rare baby rhino just got his new name xshama\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d5ced3ce5174.png",
+      "added_at": "2026-11-10T12:49:23.752545+00:00",
       "completed_at": null
     }
   ]
