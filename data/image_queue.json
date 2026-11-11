@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-11T12:14:56.422910+00:00",
+  "updated_at": "2026-11-11T17:02:17.692566+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1931,7 +1931,7 @@
       "concept_id": "c_5d1c1c629b82",
       "token_name": "Mihao Sprout",
       "ticker": "MSHPR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Nike Mihao Wins His First GGPoker Super MILLION$ Title ($325,957) - PokerNews\" (PokerNews).\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Ansem Promotion Sends mihao Market Cap Above $24 Million - www.tokenpost.com\" (www.tokenpost.com). Google News: \"Ansem Promotes mihao as Token Briefly Jumps 50% and Tops $17M - www.tokenpost.com\" (www.tokenpost.com).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -1951,6 +1951,71 @@
       "status": "pending",
       "image_path": "images/c_8ad0b8abea8d.png",
       "added_at": "2026-11-11T12:14:56.422910+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_dcd1f2d072d7",
+      "token_name": "Justice Sprout",
+      "ticker": "JSSTC",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSSTC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Justice Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Justice For Daniela Bittler\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_dcd1f2d072d7.png",
+      "added_at": "2026-11-11T17:02:17.692566+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_3cc5c4241e62",
+      "token_name": "Dacity Sprout",
+      "ticker": "DSCTY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSCTY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dacity Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.\" Google News: \"GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do - Yahoo Finance\" (Yahoo Finance). Google News: \"Dacity Coin (dacity.pplx.app) price today, DACITY t\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_3cc5c4241e62.png",
+      "added_at": "2026-11-11T17:02:17.692566+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_66fc26162cb3",
+      "token_name": "Brass Marble",
+      "ticker": "BMRSS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BMRSS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Brass Marble. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Impending release of GTA6 causing a flood of leave requests from men aged 20 to 40 - NL Times\" (NL Times).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_66fc26162cb3.png",
+      "added_at": "2026-11-11T17:02:17.692566+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c9707145e580",
+      "token_name": "Dogwifpants Sprout",
+      "ticker": "DSGWF",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSGWF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dogwifpants Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"the pants always stay on. the wif before wif\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c9707145e580.png",
+      "added_at": "2026-11-11T17:02:17.692566+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f54fb567bc34",
+      "token_name": "Looby Wanted",
+      "ticker": "LWBYN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LWBYN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Looby Wanted. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Made by Stephen Bliss (Senior Artist at Rockstar Games 2001-2016), an OG GTA artist. Not affiliated with, sponsored or endorsed by Rockstar Games or Take-Two.\" Wikipedia most-read includes \"Stephen Miller\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f54fb567bc34.png",
+      "added_at": "2026-11-11T17:02:17.692566+00:00",
       "completed_at": null
     }
   ]
