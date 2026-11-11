@@ -106,8 +106,8 @@
       "id": "google-news-rss",
       "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=cashcat",
       "ok": false,
-      "status": 503,
-      "error": "HTTP 503",
+      "status": null,
+      "error": "The read operation timed out",
       "query": "cashcat"
     },
     {
@@ -187,9 +187,9 @@
       "trend_context": {
         "status": "sourced",
         "trend_name": "privacy meta",
-        "why": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Google agrees to additional privacy protections in Spirit Airlines data sale - Reuters\" (Reuters).",
-        "meme_or_story": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Google agrees to additional privacy protections in Spirit Airlines data sale - Reuters\" (Reuters).",
-        "driver": "X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Reuters",
+        "why": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).",
+        "meme_or_story": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).",
+        "driver": "X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Realtor.com",
         "freshness": {
           "started_at": "2026-01-21T14:11:33+00:00",
           "started_at_source": "https://dexscreener.com/solana/2ywxatr1xjyhm7vkraevj4p4n7yl4m7ndsljf4puhzwx",
@@ -211,9 +211,9 @@
           },
           {
             "kind": "google_news",
-            "title": "Google agrees to additional privacy protections in Spirit Airlines data sale - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYi1wN0xOZzZqVTBKMEprWkNaWDZuQTFQa3VxLUJHQ3pfYU0xS1R4b3FZdWJLTEpwLTc3WURJakpseUdqVVRvU3F2ZG9DVXBpS04yZVRiak1VQjk5Ullxd3lHU1VqRnRrWVlEQVdKTVN4WDNCbVg2cGgzTFBSTFJ5VVdPRWY5YVlqajZZNTdqVDc4VkdJXzZ3dTZ0NFJUX3BTdHMzYlUzcTNXR0xTUExtQklReEhCNWpHcUxhRnpxWVdXUkdZUU9fa0diRQ?oc=5",
-            "snippet": "Google agrees to additional privacy protections in Spirit Airlines data sale - Reuters"
+            "title": "Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RITWdIVjRIemtvY09uYlRwaE9qd0hJX29OclFhX1NHUWNvWWREclNuRVNrUG1lNXo0ZTN4Y181QVQwN2NoTl9aOFRaR0RLUlZ0U3o4ME1XSHJSSW1XbFg4LS04bzE5ODFZV0tqRXdZQTlOVDFFYWNsX1NHQThFRGxUc3pkczJJRWRwRkgtb0hSTTg0Y2s3eXJ0bFRfNE9XZmVTMVFGcGV4aUo4bFpUeg?oc=5",
+            "snippet": "Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com"
           },
           {
             "kind": "google_trends",
@@ -376,7 +376,7 @@
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Privacy Sprout ($PSRVC) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the privacy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy i\u2026\n\nWhy it's trending: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Google agrees to additional privacy protections in Spirit Airlines data sale - Reuters\" (Reuters).\nDriver: X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Reuters\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Privacy Sprout ($PSRVC) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the privacy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy i\u2026\n\nWhy it's trending: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).\nDriver: X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Realtor.com\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
         "seed": "c_07cdb7a88d36",
         "palette": 2,
@@ -384,7 +384,7 @@
         "ears": 3,
         "accent": 2
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSRVC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Privacy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Google agrees to additional privacy protections in Spirit Airlines data sal\"",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSRVC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Privacy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wal\"",
       "image_file": "images/c_07cdb7a88d36.png",
       "rank": 1
     },
@@ -1361,5 +1361,5 @@
   "candidate_count": 10,
   "token_count": 94,
   "group_count": 82,
-  "last_published": "2026-11-10T17:55:10.737936-05:00"
+  "last_published": "2026-11-10T19:26:42.207255-05:00"
 }
