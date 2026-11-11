@@ -2,9 +2,9 @@
   "schema": "fomo-world.ideas.v1",
   "data_origin": "live",
   "label": "Research concepts only. These are not launched tokens.",
-  "generated_at": "2026-11-10T22:54:25.236932+00:00",
+  "generated_at": "2026-11-11T11:34:05.641640+00:00",
   "scan_interval_seconds": 1800,
-  "next_scan_at": "2026-11-10T23:24:25.236932+00:00",
+  "next_scan_at": "2026-11-11T12:04:05.641640+00:00",
   "public_url": "https://joeypbrrr.github.io/fomo-world/",
   "source_reports": [
     {
@@ -37,14 +37,14 @@
     },
     {
       "id": "dexscreener-tokens",
-      "url": "https://api.dexscreener.com/latest/dex/tokens/B1ZV3tWZV8nq6fcGG5tbVQfGDRi93JBMRBhSWcfHhknR,0x05281a0579b188ce6fb21e764bfa48808c75275f,AsgB9Fn2tS4TdRXv8PJeWismu9s169kgdFz3bAkJpump,Gn9UDvpaMzuvjej54jFahuizbTWLVEE5LCru1KAAPoo1,0x2c59cecf92f60f8988c1aefcc85f1d440648a7d1,8v7jNtLZ6AYdmtVioajsh8YF3prcXWSkCZKsVevapump,7wKGTD1r2j8HXgoBc94b8rK8Tiq5Wp59d3QhhZAWn6up,4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump,0x3e00db7b4ccc0c68e000cb0abb0f4e1f127d4cee,0x0888399cac0fcdf50d52e8f6a3a6580030c07777,EFKrc4gWTq67fYPnXG1DjMEhfm9d9vnrmyJxPqS7CfuS,RH1n2W6MuAJuSJaww1um4zLS4X1XSZTLPnR5X8KG7cW,8MeLMYyAhnEajvbcbmHbLq1U6aSsoAueDbgvDnsnitch,D4dpAsrR4BDtMoHFxZV7SMJ49HPLhupsDa4cww1Jpump,4RK13gb4Kpxrk5jgAd8kUw3FRCJmbw7sH1765Gokpump,0x1395e1d82a45294d66873d15810e382699a6848d,0x0da69818dea0f10339ef1319820ccd71c38d4ce9,0xc51848c39d5f8c8cdb99c46102b0948a8664a264,Ff1wNnYGDhY2Mz5DZEQuJKZafCeWRhzskye7rijmpump,DXiChMGpiokKzJys1mwaSvbX32pVyB4AAmL7qEC6pump,0x974703ff38a70ee7dd84cd565b561cc85879b5fa,0xb70cb5e428d8e0db66111724d24fa23ca21c5046,iriSCkcbCZ2xWrmCLBqPfXCGMDXHebGScgW5FhESu27,0x525d98315ef6f4fc5da331041b80ec2a6fdd261d,0x45a1ef60fe11366d5e2dfdec91f38f01977e53fb,0x4596802990328ae504cb488b4875ef599117c8d3,7muY9iCQGAbJoyRgdzpsjjFK8rCWdxsXMkeFjNqLpump,Gc9swA1rYZ6vdjfNCStEXKTvYWDMqPhL7YoR68Cipump,0x58354a63385298180fcf74492b8a5e460c031e25,0x850e115d117019ada746b41c084944e5c2063a63",
+      "url": "https://api.dexscreener.com/latest/dex/tokens/7CVHvGZYNfjwvGCuPsEecjNAGzMRrmMTjvmsq9BWpump,H54QVc93TTMq9Px3BBEKM11MSQbpiQY3ycKaRujcpump,HzrHBKqJj7u7qP3Qz5QsKpetdko1fA1Vf5rSNdjQpump,5jLj1jr2BtTBL8czd6xdpYoFkEqyG89W3bz5Jq6Mpump,0xfa6c988fc94b46fe3005dede52252c1206a30000,5pkAdhzfkjCK7ktr9PGaCeNYr621pwc7BtoLUFkEpump,FW6vyP4JtDhXB5giVX6feVTNzHqY47jNgaMqaWM1pump,Fr2XeYLcQCGrqtYV9E9briTL4KEavUq9P5zhsRYQpump,Ftmk19VAmLZXwkATxz7fX7V5NqhyraVf1ptZN842pump,0x04eb9fe80dfa9f87965f53cae165c59ee1d37f12,0xc75f783646739542c1e3680fd64424a0c4088d69,8bLo7wMpM86zAY1eME7SSrqvzsUQ529RYxo5uRsnpump,7x3ujazwvFMvbM3akMVDHGbaXK1aDgzxQ5966seppump,0x37a5c779452967d8c1b65ad2b5887b9e12c74164,7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump,5Uj1W1jCJpRhmKqxToSxx9Rd1SYSdsakJczSDKPnpump,2UcqYeGG2waJRagLdqRxHjQ3umwqacF4TmqmRTtppump,HWqSHNsXsW9L3zf2viWKDFKDr512cbCyT9pynAYRpump,r9fkdXyGKrvgkXBzLNUJBYEFUUppZgK8wtetDampump,BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump,9LFj2cbr843aKLnvvFRWAExnpzcCn2LiB6cE8t2tpump,5obfMMi4cm9dkt6DQcWTunS5JQNJiBiHKghYb194pump,9ZJaYM37YZK1VqycWtWk1arr4LLaYVC7jE5NHcnLpump,8Frq8qG9bcF6WeWnUZQyvCjPNLuXL66nr8xedhyMqzWb,0x55caaeb3814d50d9d57086a2bfa82b2953b08660,0x10b31b4c2303e14886581bb340b5f634941f8660,HAhZGYQzGHXkbfukyvs3Vj6t7nfqgWUym1LCKRZcpump,0x2fe08e9192d017ad0311fa876172eee15fd728f8,0x9a1390bbda3c611fa6f93a802da841893c9da161,CwFLWiEGef1i7nbbDdAUdm6PAgreuxhDsC6KmDCMpump",
       "ok": true,
       "status": 200,
       "error": null
     },
     {
       "id": "dexscreener-tokens",
-      "url": "https://api.dexscreener.com/latest/dex/tokens/6mwuYnY3fHdxed9GnrdY5BkXhJwMi1uz39MPsYUcpump,E2HPtLCsgb5fK3fxWBAJ4djqAejepWK6ZTqFazf5kgR6,CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump,GdiMHnL4FcE8GHz8B2TYqfQTfXpG34ntGt3eawtXpump,0xf1b571a18ae30e319cc69583b1b5a9a6cbdae475,Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump,HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,7dnVH3aC95d55BMr1pH29bAz4Qi4FYu3Nc6pQsEqpump,5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump,Atyf99Ng28ggyfNBD9xxqL9urA1WPgYJ7Yqm7ZBYpump,0xca23bafd4298a104244cb22bddb10c287d2f0000,2hyMwC4c11L32VsJwWznCmvfERBhaz19CFpGQyHMpump,EQBARQjzu8ZnTzJJMXlDqrnaZ-CH_nrV2XbzL28l6-p8xNo9,0x8888cdad9ef66382f89e68f95ec384d89ec28888,EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump,66KbLTkLpPBPdhkRZs8XZk7Yw1DwuV3KYHKNTvmbpump,0x1b947cb610f3b39b3148b33e8eceded2d7997777,7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump,2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump,8Rs3taDv9693YkA3cw3K8zaSnVZZ2UnKmV6upPYLpump,wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,0xeb8bcc0fde0e76d26f1fbcb38bf476c837b92927,AmoPNK8bzo6Aj1U49bDBEjyrY59rGejuXHTmXbtGyfHx,HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k,EZBcgdXxfWCscEMjehuFvsvYzdkG2T9z7PWi8nr9Mo46,0xf42b4e1a3fd374b1f849bf898edc64ab17df06ea,12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz,BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump",
+      "url": "https://api.dexscreener.com/latest/dex/tokens/25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump,34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump,HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep,0x000de658153f47f23e92973c8eb1e89762703676,CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump,0x6511c233790ec10f7d673c64dc82c3f941d57828,HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k,FP7NvFXQXoZL1nQC5QZtE1bzwgALdxj1TeA9J25epump,9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump,4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump,4fv7Mt8DTuuQK2KiJU2sGJLVHiXbFSUrSJs6wRmC6pay,4Ye6Y6Vaic8cyPdfW2f9PcLhXkysBtSmV84G8X7spump,3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump,GWxceEVSTHLvhFi9z6pbwgUNYRgXBMrwCXTXcS1Upump,GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump,F2xQeTCTqnczXxXQaBWAfDpUnpxn4wQHRPSqvUYJpump,GHtnAtTCPFz8MRTMQiEyuEob283EUgqd1d1Fysnhpump,9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,0xd515abbf0ef895cbeef7e02f8ced83903af900c9,DLjVQ4naEGR5ykUvfWNVggQMcyyuwQqX7ZYHGoaDpump,416sPL5fqhQpAJVboEQC5Yq52kY4VXzVY6y2GdJhcGnz,8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump,EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump,Hg3w7GdPViZ5URuCNnK6EwXLzSTmVwX6UXLeD6Pbpump,2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
       "ok": true,
       "status": 200,
       "error": null
@@ -58,7 +58,7 @@
     },
     {
       "id": "wikipedia-mostread",
-      "url": "https://en.wikipedia.org/api/rest_v1/feed/featured/2026/11/09",
+      "url": "https://en.wikipedia.org/api/rest_v1/feed/featured/2026/11/10",
       "ok": true,
       "status": 200,
       "error": null
@@ -72,19 +72,43 @@
     },
     {
       "id": "dexscreener-search",
-      "url": "https://api.dexscreener.com/latest/dex/search?q=privacy",
+      "url": "https://api.dexscreener.com/latest/dex/search?q=leonida",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "privacy"
+      "query": "leonida"
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=seppuku",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=mihao",
+      "ok": false,
+      "status": 503,
+      "error": "HTTP 503",
+      "query": "mihao"
+    },
+    {
+      "id": "google-news-rss",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=nihao",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "seppuku"
+      "query": "nihao"
+    },
+    {
+      "id": "google-news-rss",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pepe",
+      "ok": false,
+      "status": 503,
+      "error": "HTTP 503",
+      "query": "pepe"
+    },
+    {
+      "id": "google-news-rss",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=HOLD",
+      "ok": false,
+      "status": 503,
+      "error": "HTTP 503",
+      "query": "HOLD"
     },
     {
       "id": "google-news-rss",
@@ -96,51 +120,27 @@
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=stonk",
-      "ok": true,
-      "status": 200,
-      "error": null,
-      "query": "stonk"
-    },
-    {
-      "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=cashcat",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=seppuku",
       "ok": false,
-      "status": null,
-      "error": "The read operation timed out",
-      "query": "cashcat"
+      "status": 503,
+      "error": "HTTP 503",
+      "query": "seppuku"
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pons",
-      "ok": true,
-      "status": 200,
-      "error": null,
-      "query": "pons"
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=leonida",
+      "ok": false,
+      "status": 503,
+      "error": "HTTP 503",
+      "query": "leonida"
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=privacy",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=apeonx",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "privacy"
-    },
-    {
-      "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=onlycats",
-      "ok": true,
-      "status": 200,
-      "error": null,
-      "query": "onlycats"
-    },
-    {
-      "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=aicoin",
-      "ok": true,
-      "status": 200,
-      "error": null,
-      "query": "aicoin"
+      "query": "apeonx"
     }
   ],
   "sources_skipped": [
@@ -160,17 +160,17 @@
   "errors": [],
   "ideas": [
     {
-      "id": "c_07cdb7a88d36",
+      "id": "c_ffad21c3a947",
       "classification": "META",
       "concept_kind": "beta coin",
-      "trend_name": "privacy meta",
-      "name": "Privacy Sprout",
-      "token_name": "Privacy Sprout",
-      "ticker": "PSRVC",
-      "description": "Beta coin concept for the privacy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy i\u2026",
-      "reasoning": "Beta coin concept for the privacy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy i\u2026 13 trending tokens share the word 'privacy'.",
-      "cluster_note": "13 trending tokens share the word 'privacy'.",
-      "style_note": null,
+      "trend_name": "leonida meta",
+      "name": "Leonida Sprout",
+      "token_name": "Leonida Sprout",
+      "ticker": "LSNDP",
+      "description": "Beta coin concept for the leonida meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
+      "reasoning": "Beta coin concept for the leonida meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\" 13 trending tokens share the word 'leonida'.",
+      "cluster_note": "13 trending tokens share the word 'leonida'.",
+      "style_note": "GTA-style",
       "score": 100.0,
       "score_parts": {
         "volume": 40.0,
@@ -179,376 +179,276 @@
         "freshness": 15.0,
         "raw": 100.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 266.0%.",
-        "volume_usd": 2268590.7399999998,
-        "price_change_h24": 266.0,
+        "age_basis": "24h price change 47299.0%.",
+        "volume_usd": 3888118.38,
+        "price_change_h24": 47299.0,
         "score": 100.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "privacy meta",
-        "why": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).",
-        "meme_or_story": "DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).",
-        "driver": "X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Realtor.com",
+        "trend_name": "leonida meta",
+        "why": "DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
+        "meme_or_story": "DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
+        "driver": "X accounts linked on the DexScreener profiles: @onchainfaith, @TheLeonidaState. Telegram links on the profiles: 1. Websites linked on the profiles: https://www.gtavice.net/images/gtavi-collectors-edition-artwork-sun, https://stateofleonida.xyz/.",
         "freshness": {
-          "started_at": "2026-01-21T14:11:33+00:00",
-          "started_at_source": "https://dexscreener.com/solana/2ywxatr1xjyhm7vkraevj4p4n7yl4m7ndsljf4puhzwx",
+          "started_at": "2025-01-28T02:18:32+00:00",
+          "started_at_source": "https://dexscreener.com/solana/az7glmdji2iqlqpdgoxdgzty3yskwje2bswhh2hbceqa",
           "phase": "rising",
-          "basis": "24h price change 266.0%."
+          "basis": "24h price change 47299.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "Privacy Cat profile",
-            "url": "https://dexscreener.com/solana/d4dpasrr4bdtmohfxzv7smj49hplhupsda4cww1jpump",
-            "snippet": "Put the bandana on."
-          },
-          {
-            "kind": "google_news",
-            "title": "Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlVJTHlUeHZ2WXI5VlI5S29RaERTODVDZGhIUWVsVmVkb3NLYjJRdkF5V1lhMWlpeVFtY3ZyLUI0X3IyOHBuWEw1X09hYkVGVUl3YXBrUDA0Ynhtc2hMMmV4V19sbUdWc2NFNkZVckFFWDhPWDdTT1MwaTdlbVVYR096VzY0LUZRTjNiLVZkcVFVNTk1NjdvZnl4Vy0?oc=5",
-            "snippet": "Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times"
-          },
-          {
-            "kind": "google_news",
-            "title": "Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RITWdIVjRIemtvY09uYlRwaE9qd0hJX29OclFhX1NHUWNvWWREclNuRVNrUG1lNXo0ZTN4Y181QVQwN2NoTl9aOFRaR0RLUlZ0U3o4ME1XSHJSSW1XbFg4LS04bzE5ODFZV0tqRXdZQTlOVDFFYWNsX1NHQThFRGxUc3pkczJJRWRwRkgtb0hSTTg0Y2s3eXJ0bFRfNE9XZmVTMVFGcGV4aUo4bFpUeg?oc=5",
-            "snippet": "Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com"
-          },
-          {
-            "kind": "google_trends",
-            "title": "cboe volatility index",
-            "url": "https://www.cnbc.com/video/2026/11/09/fundstrats-tom-lee-markets-are-a-lot-safer-than-people-think.html",
-            "snippet": "Fundstrat's Tom Lee: Markets are a lot safer than people think"
+            "title": "State of Leonida profile",
+            "url": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
+            "snippet": "The home state of GTA VI and launchpad for GTA tokens"
           }
         ],
         "match_words": [
-          "privacy",
-          "privacycoin",
-          "bandana",
-          "index",
-          "privacydex"
+          "leonida",
+          "vicecity",
+          "goodtime",
+          "moohan"
         ]
       },
       "source_tokens": [
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Sun of Leonida",
+          "symbol": "SOL",
           "chain": "solana",
-          "address": "8v7jNtLZ6AYdmtVioajsh8YF3prcXWSkCZKsVevapump",
-          "dexscreener_url": "https://dexscreener.com/solana/2tvjm27miu1eqkgwhbbdqqktcegtqzkmyenftfbyj24u",
-          "volume_usd": 19.94,
-          "market_cap_usd": 7866.0,
-          "price_change_h24": -54.22,
-          "pair_created_at": "2026-11-10T22:24:26+00:00"
+          "address": "HWqSHNsXsW9L3zf2viWKDFKDr512cbCyT9pynAYRpump",
+          "dexscreener_url": "https://dexscreener.com/solana/hwqshnsxsw9l3zf2viwkdfkdr512cbcyt9pynayrpump",
+          "volume_usd": 28495.61,
+          "market_cap_usd": 10809.68,
+          "price_change_h24": 157.0,
+          "pair_created_at": "2026-11-10T21:41:34+00:00"
         },
         {
-          "name": "Privacy Cat",
-          "symbol": "BANDANA",
+          "name": "State of Leonida",
+          "symbol": "Leonida",
           "chain": "solana",
-          "address": "D4dpAsrR4BDtMoHFxZV7SMJ49HPLhupsDa4cww1Jpump",
-          "dexscreener_url": "https://dexscreener.com/solana/d4dpasrr4bdtmohfxzv7smj49hplhupsda4cww1jpump",
-          "volume_usd": 5300.63,
-          "market_cap_usd": 113639.0,
-          "price_change_h24": -18.57,
-          "pair_created_at": "2026-11-10T22:07:54+00:00"
+          "address": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
+          "dexscreener_url": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
+          "volume_usd": 371215.85,
+          "market_cap_usd": 364685.0,
+          "price_change_h24": 31.28,
+          "pair_created_at": "2026-11-05T19:41:14+00:00"
         },
         {
-          "name": "Privacy Index",
-          "symbol": "PRIVACY",
-          "chain": "arc",
-          "address": "0xbf8391204c10d2b50b3606edd35c056f9179a777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x09d0432265eb47b85f8d6c9fc55be04d6ec33d69b6c355cf81f76e216ef31e7d",
-          "volume_usd": 23275.76,
-          "market_cap_usd": 24645.0,
-          "price_change_h24": 146.0,
-          "pair_created_at": "2026-11-10T14:39:08+00:00"
-        },
-        {
-          "name": "Privacy Index",
-          "symbol": "PRIVACY",
-          "chain": "arc",
-          "address": "0x233ace2b00fa2e33a8cb109b6d5103d5f07ea777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x68dd8d4ca234ac2e500248914ecf1db0be8b36e19486a582cd435e704ec6cf91",
-          "volume_usd": 17392.18,
-          "market_cap_usd": 23250.0,
-          "price_change_h24": 132.0,
-          "pair_created_at": "2026-11-10T22:30:34+00:00"
-        },
-        {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida",
+          "symbol": "LEON",
           "chain": "solana",
-          "address": "5RERaszo1kCGoZSv3WWt32ZmkMkDdhVAfsgZsBsepump",
-          "dexscreener_url": "https://dexscreener.com/solana/9dqcp1tcxv8233zx2vf9jxvqks6byfd1njpimjuuh6xr",
-          "volume_usd": 0.0,
-          "market_cap_usd": null,
-          "price_change_h24": null,
-          "pair_created_at": "2026-11-10T22:23:36+00:00"
+          "address": "Bck1fLN9z9ftgU5gagaJPZWjM1GBhc8qimJKMkXspump",
+          "dexscreener_url": "https://dexscreener.com/solana/7kcm8p4rnq8jzmwe4kyanh2juascanswnk8miorkectm",
+          "volume_usd": 773.24,
+          "market_cap_usd": 4844.82,
+          "price_change_h24": -5.9,
+          "pair_created_at": "2026-11-08T20:27:53+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida",
+          "symbol": "LEONIDA",
           "chain": "solana",
-          "address": "3vY8rZ2GHK7twSr6wBhFyo3eTZwGdYpvvRv6CBjzNmMA",
-          "dexscreener_url": "https://dexscreener.com/solana/gssqxzdwwn9abbiw21cwftdhu3htgspez2ste3of9wzp",
-          "volume_usd": 886.89,
-          "market_cap_usd": 2474.35,
-          "price_change_h24": 3.25,
-          "pair_created_at": "2026-11-10T22:54:01+00:00"
+          "address": "2uQw2gvnhYYQ5T5jJf3MvLPyUquQ54VFHbMHBTtCpump",
+          "dexscreener_url": "https://dexscreener.com/solana/febntxmdn6iasfqh9qx2fbd7e1kqdszjjmqfeyb9pep7",
+          "volume_usd": 2310899.85,
+          "market_cap_usd": 1911.0,
+          "price_change_h24": -95.78,
+          "pair_created_at": "2026-11-10T19:26:16+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida The Land of GTA 6",
+          "symbol": "LEONIDA",
           "chain": "solana",
-          "address": "EmduAyje6EUhAaVd7DbcDRQDHbTXzEyq8H3fFBropump",
-          "dexscreener_url": "https://dexscreener.com/solana/fgyests3lzuhwanud7q9dmghbs47jo9iactjzprdsfen",
-          "volume_usd": 1146.91,
-          "market_cap_usd": 83460.0,
-          "price_change_h24": 16.59,
-          "pair_created_at": "2026-11-10T22:31:56+00:00"
+          "address": "EPccnp9LtKviTtiWgmF5PVNhb421GF8pt3mqtnB3pump",
+          "dexscreener_url": "https://dexscreener.com/solana/az7glmdji2iqlqpdgoxdgzty3yskwje2bswhh2hbceqa",
+          "volume_usd": 180.41,
+          "market_cap_usd": 11384.0,
+          "price_change_h24": -1.68,
+          "pair_created_at": "2025-01-28T02:18:32+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida The ViceCity",
+          "symbol": "Leonida",
           "chain": "solana",
-          "address": "CgUPjvrBoPqbQLiMPrP18GuPKMMVQH5yZN5zip7KKe9i",
-          "dexscreener_url": "https://dexscreener.com/solana/eupcwwbxzjamtgpc9ixpim9tcc1nvnqoeic2ukohw9nz",
-          "volume_usd": 2219725.21,
-          "market_cap_usd": 23984.0,
-          "price_change_h24": 266.0,
-          "pair_created_at": "2026-11-10T22:33:09+00:00"
+          "address": "3WUfWQADbhWwogJk7Y37o5PUUVEy7KK1xsxB3YTvpump",
+          "dexscreener_url": "https://dexscreener.com/solana/4vt3cntmyf2pxxnxl8g1reufmjtvkwfk1jy4m4ff4qjj",
+          "volume_usd": 81.39,
+          "market_cap_usd": 1828.0,
+          "price_change_h24": 0.19,
+          "pair_created_at": "2026-10-24T15:26:33+00:00"
         },
         {
-          "name": "privacy/acc",
-          "symbol": "PRIVACY",
+          "name": "Leonida",
+          "symbol": "LEONIDA",
           "chain": "solana",
-          "address": "J4BcBzEN6xybbLftX1nXxXVhVBdeoocDhLVoweVo6Wgk",
-          "dexscreener_url": "https://dexscreener.com/solana/csg3tctdtracnqu6i3i1qnrhi67elhb3efcexnryxcbz",
-          "volume_usd": 316.57,
-          "market_cap_usd": 5774.0,
-          "price_change_h24": -11.09,
-          "pair_created_at": "2026-10-28T02:24:21+00:00"
+          "address": "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump",
+          "dexscreener_url": "https://dexscreener.com/solana/8slz3av6zzukevinsk39g15kr1ryfep31xgzt3euovgh",
+          "volume_usd": 5.76,
+          "market_cap_usd": 1717.0,
+          "price_change_h24": -0.85,
+          "pair_created_at": "2026-10-20T04:38:06+00:00"
         },
         {
-          "name": "PrivacyDex",
-          "symbol": "PRIVACY",
+          "name": "The Goodtime State",
+          "symbol": "LEONIDA",
           "chain": "solana",
-          "address": "H5hygVvXiYxk2a3BVtjiqcDJK8TdHTB5u5U1fXEuBAGS",
-          "dexscreener_url": "https://dexscreener.com/solana/2ywxatr1xjyhm7vkraevj4p4n7yl4m7ndsljf4puhzwx",
-          "volume_usd": 0.09,
-          "market_cap_usd": 4579.0,
-          "price_change_h24": -1.41,
-          "pair_created_at": "2026-01-21T14:11:33+00:00"
+          "address": "8NtDDUyGFBwibw5w13ycoraQCWPkfTSEAobThy11pump",
+          "dexscreener_url": "https://dexscreener.com/solana/6ats6e6yzueyyn18beokd2qj3vac7pvivj8gb4uhbryc",
+          "volume_usd": 5614.06,
+          "market_cap_usd": 2351.91,
+          "price_change_h24": -6.19,
+          "pair_created_at": "2026-11-10T14:03:43+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida",
+          "symbol": "LEONIDA",
           "chain": "solana",
-          "address": "9daaq4QBFia2C9BcAEwMP2RfWqseDsTYudqM4Lfmpump",
-          "dexscreener_url": "https://dexscreener.com/solana/78txeedei2hcvcdd6aqi2zemuscq7mwnsxvubuixjato",
-          "volume_usd": 474.26,
-          "market_cap_usd": 2452.0,
-          "price_change_h24": -2.35,
-          "pair_created_at": "2026-10-24T02:12:29+00:00"
+          "address": "CRxZhiZwyj9qENZMFnov15gvbTVvc86JCDtY3SZRpump",
+          "dexscreener_url": "https://dexscreener.com/solana/czbqrmbazyexf84jz7k5fdngbshpgdu1y1p3s6jyehpe",
+          "volume_usd": 1141.7,
+          "market_cap_usd": 185.95,
+          "price_change_h24": -92.12,
+          "pair_created_at": "2026-11-10T22:29:16+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
+          "name": "Leonida",
+          "symbol": "MOOHAN",
           "chain": "solana",
-          "address": "2ZTZPzwUH2fFBVy6rDSidVtq6hXVeZPZmxUSLqd7pump",
-          "dexscreener_url": "https://dexscreener.com/solana/96ffm6vefgxbngv92ezdw7dyelexdycwqfgr7nlurbfi",
-          "volume_usd": 11.97,
-          "market_cap_usd": 1896.0,
-          "price_change_h24": -3.31,
-          "pair_created_at": "2026-10-24T13:52:57+00:00"
+          "address": "8apkBJ4phCms5qqzyfhKJcbqCaRwsPBXjDp2rCKoGoUh",
+          "dexscreener_url": "https://dexscreener.com/solana/hyahn3q9dw91bfhscso2km9h84fafkuv6dd1wrmptxuy",
+          "volume_usd": 640126.44,
+          "market_cap_usd": 21733.0,
+          "price_change_h24": 209.0,
+          "pair_created_at": "2026-11-10T20:04:21+00:00"
         },
         {
-          "name": "Privacycoin",
-          "symbol": "PRIVACY",
-          "chain": "elysium",
-          "address": "0x6ff0a6b66e960848fa92463ed5a1061ec8ee710f",
-          "dexscreener_url": "https://dexscreener.com/elysium/0x7b65d3c35ccee2ac7b1809974b4e7c9d36dc59b5e846866071cebabf6c4261c2",
-          "volume_usd": 40.33,
-          "market_cap_usd": 3144.0,
-          "price_change_h24": 0.12,
-          "pair_created_at": "2026-11-10T22:22:20+00:00"
+          "name": "State of Leonida",
+          "symbol": "Leonida",
+          "chain": "solana",
+          "address": "3RftwQUBcyXMGGTUbc6NnF3RoenZBMf8AC2n3PxmSHyu",
+          "dexscreener_url": "https://dexscreener.com/solana/ag12qt4ahbkcxhat78vytcyr1hvz6wqrbjk43s6qxn3d",
+          "volume_usd": 38874.55,
+          "market_cap_usd": 2376060.0,
+          "price_change_h24": 47299.0,
+          "pair_created_at": "2026-11-10T21:27:12+00:00"
+        },
+        {
+          "name": "State of Leonida",
+          "symbol": "Leonida",
+          "chain": "solana",
+          "address": "CtCkiTrhe5PbVso3KVRuiTCyHDEP4cw16715Jznk7vtw",
+          "dexscreener_url": "https://dexscreener.com/solana/3ifojl8mbdyhsbwsqcjzfp2482iqtmrvwac4piyzkwws",
+          "volume_usd": 128373.2,
+          "market_cap_usd": 13435.0,
+          "price_change_h24": 170.0,
+          "pair_created_at": "2026-11-10T19:50:35+00:00"
+        },
+        {
+          "name": "Leonida",
+          "symbol": "MOOHAN",
+          "chain": "solana",
+          "address": "J6d9Wc6ZCFt13WYBFY1zDoMpxMxMVekF7Q8iH3vVmobo",
+          "dexscreener_url": "https://dexscreener.com/solana/efwtsaeugy3hv7pfbewqyypmcrqqvc4uhj7bdehzbqj1",
+          "volume_usd": 362336.32,
+          "market_cap_usd": 17477.0,
+          "price_change_h24": 147.0,
+          "pair_created_at": "2026-11-10T20:14:01+00:00"
         }
       ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Privacy Sprout ($PSRVC) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the privacy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy i\u2026\n\nWhy it's trending: DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate - Realtor.com\" (Realtor.com).\nDriver: X accounts linked on the DexScreener profiles: @mert, @Kirodev7, @esotericpigeon. Websites linked on the profiles: https://privacybandana.xyz/. Coverage: The New York Times Coverage: Realtor.com\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Leonida Sprout ($LSNDP) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the leonida meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\n\nWhy it's trending: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\nDriver: X accounts linked on the DexScreener profiles: @onchainfaith, @TheLeonidaState. Telegram links on the profiles: 1. Websites linked on the profiles: https://www.gtavice.net/images/gtavi-collectors-edition-artwork-sun, https://stateofleonida.xyz/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_07cdb7a88d36",
+        "seed": "c_ffad21c3a947",
         "palette": 2,
         "body": 3,
-        "ears": 3,
-        "accent": 2
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSRVC' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Privacy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners alleging privacy invasion - The New York Times\" (The New York Times). Google News: \"Taylor Swift and Travis Kelce Get Neighbor\u2019s Support for 8-Foot Privacy Wal\"",
-      "image_file": "images/c_07cdb7a88d36.png",
-      "rank": 1
-    },
-    {
-      "id": "c_053f18a65162",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "SEPPUKU launchpad",
-      "name": "Seppuku Sprout",
-      "token_name": "Seppuku Sprout",
-      "ticker": "SSPPK",
-      "description": "Launchpad concept revolving around SEPPUKU (SEPPUKU). Riffs on sourced context: Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigG\u2026",
-      "reasoning": "Launchpad concept revolving around SEPPUKU (SEPPUKU). Riffs on sourced context: Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigG\u2026 Single trending token SEPPUKU \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token SEPPUKU \u2014 treated as a launchpad opportunity.",
-      "style_note": null,
-      "score": 80.0,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 25.0,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 80.0,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 3092.0%.",
-        "volume_usd": 6433480.44554626,
-        "price_change_h24": 3092.031,
-        "score": 80.0
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "SEPPUKU launchpad",
-        "why": "Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigGo Finance). Google News: \"Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims\u2026\" (Tom's Hardware).",
-        "meme_or_story": "Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigGo Finance). Google News: \"Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims\u2026\" (Tom's Hardware).",
-        "driver": "Coverage: BigGo Finance Coverage: Tom's Hardware",
-        "freshness": {
-          "started_at": "2026-11-10T01:58:47+00:00",
-          "started_at_source": "https://dexscreener.com/eth/0x35ebe010cdd541284fcfd2f85992a392a488f989",
-          "phase": "rising",
-          "basis": "24h price change 3092.0%."
-        },
-        "sources": [
-          {
-            "kind": "google_news",
-            "title": "Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DY25jM0haU1pIaVpMSVNUMzVNRVZ3VkZNMG9wTFJoQ2p4X2I3LWY5M1pCbjNoZFRueTVzM3MwdXQ5QWczS3J5Yk53cnBoWk5fbVBKeE9uX01fMThsTlJDa1l3eUVYZVViTEpSczJnYlVPLUtrT3c?oc=5",
-            "snippet": "Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance"
-          },
-          {
-            "kind": "google_news",
-            "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims\u2026",
-            "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOMVc2QUNJeF9lT1NuUDdPR3FhYndaa2wxTWhzeGVNLWV4dGZqTUY0Y2RyYTRSeHlKbjVfNHY5ejg3MUtNd0hkQllqVW9hX3p0X0FQXzRkM0YtMjZnSjFRZHlrblIxRmZZc0s4NkRCZDZJdTZwUFJIelZYQmpZYUhsaTNlSmRYbDJBUjRIOVNucmhfRzZvMjM4UnFXWElHVEpHQk1nVWhhekFDS3NoMGhVRjk5MnBSLWd3N1pDY2NacFotMUNmSXBZS1g3ejR0Sk80RE9aSDd1eXVCZUhacEk1TWZ4ZW5WVm5zVWFzbnNZTWE1NjhDTWp5OHVQeTNTaHlBODJuOTBMeGw4RS1kUmt4cWc0TFhuTjRyVmIzRVNIb0JkeVF3Sl9OZVVzbVhpSlU3YUZjeFZnQUV6MlJzRGl4SHJSc1hxckNFdGFmcDg2RzFqWU9hVFJGSGc4bl9uZFdfMHVTdHpTZ1ZmZ2Q1eXVSME1vNTVEZVJqcTBNZU9sTkZwSnk5dm5EbGhMVUduSWRtLVFldHU5VnBfUm9uclZEVjZFbHV3d1hrQnRrSWpDLUY5LW8?oc=5",
-            "snippet": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims\u2026"
-          }
-        ],
-        "match_words": [
-          "seppuku"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "SEPPUKU",
-          "symbol": "SEPPUKU",
-          "chain": "eth",
-          "address": "0x35ebe010cdd541284fcfd2f85992a392a488f989",
-          "dexscreener_url": "https://dexscreener.com/eth/0x35ebe010cdd541284fcfd2f85992a392a488f989",
-          "volume_usd": 6433480.44554626,
-          "market_cap_usd": 12893353.19,
-          "price_change_h24": 3092.031,
-          "pair_created_at": "2026-11-10T01:58:47+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Seppuku Sprout ($SSPPK) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around SEPPUKU (SEPPUKU). Riffs on sourced context: Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigG\u2026\n\nWhy it's trending: Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigGo Finance). Google News: \"Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims\u2026\" (Tom's Hardware).\nDriver: Coverage: BigGo Finance Coverage: Tom's Hardware\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_053f18a65162",
-        "palette": 1,
-        "body": 2,
-        "ears": 2,
-        "accent": 2
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSPPK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Seppuku Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Ethereum Foundation Hit With Lawsuit Alleging Cancer Patient Fired After Objecting to 'Seppuku' Pledge - BigGo Finance\" (BigGo Finance). Google News: \"Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact \u2014 non-profit crypto fir\"",
-      "image_file": "images/c_053f18a65162.png",
-      "rank": 2
-    },
-    {
-      "id": "c_c2c4873e97a0",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "AICoin launchpad",
-      "name": "Aicoin Sprout",
-      "token_name": "Aicoin Sprout",
-      "ticker": "ASCNP",
-      "description": "Launchpad concept revolving around AICoin (AICoin). Riffs on sourced context: Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, m\u2026",
-      "reasoning": "Launchpad concept revolving around AICoin (AICoin). Riffs on sourced context: Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, m\u2026 Single trending token AICoin \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token AICoin \u2014 treated as a launchpad opportunity.",
-      "style_note": null,
-      "score": 80.0,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 25.0,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 80.0,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 160.5%.",
-        "volume_usd": 1763154.88957415,
-        "price_change_h24": 160.483,
-        "score": 80.0
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "AICoin launchpad",
-        "why": "Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap\" (CoinMarketCap).",
-        "meme_or_story": "Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap\" (CoinMarketCap).",
-        "driver": "Coverage: Bybit Coverage: CoinMarketCap",
-        "freshness": {
-          "started_at": "2026-11-10T02:26:08+00:00",
-          "started_at_source": "https://dexscreener.com/solana/B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump",
-          "phase": "rising",
-          "basis": "24h price change 160.5%."
-        },
-        "sources": [
-          {
-            "kind": "google_news",
-            "title": "AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQ3lJMlJOd004bnNvZTRBLWdtM3d2T1FGeHpQZWNqQ2E2NklEWE4xNklTaUFIVEF2dFp4X1pHSUY1VHdzNzZ3Y2c5NHduOWxOcWtXa2d2eHhzTUQ3QzN1NA?oc=5",
-            "snippet": "AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit"
-          },
-          {
-            "kind": "google_news",
-            "title": "AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wYkxydlFBYnpRTzV0LThjUkUxM1dNTElzV1NrcnBtMjlpN2hyX01YMXViVmM4M0htVG9pcV81dERfVFAxY0R1OGYtQUtGLU11cVFnZC13UQ?oc=5",
-            "snippet": "AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap"
-          }
-        ],
-        "match_words": [
-          "aicoin"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "AICoin",
-          "symbol": "AICoin",
-          "chain": "solana",
-          "address": "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump",
-          "dexscreener_url": "https://dexscreener.com/solana/B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump",
-          "volume_usd": 1763154.88957415,
-          "market_cap_usd": 120199.5324,
-          "price_change_h24": 160.483,
-          "pair_created_at": "2026-11-10T02:26:08+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Aicoin Sprout ($ASCNP) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around AICoin (AICoin). Riffs on sourced context: Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, m\u2026\n\nWhy it's trending: Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap\" (CoinMarketCap).\nDriver: Coverage: Bybit Coverage: CoinMarketCap\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_c2c4873e97a0",
-        "palette": 0,
-        "body": 1,
         "ears": 2,
         "accent": 3
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASCNP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Aicoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"AICOIN (AICOIN) Price Prediction for 2026 to 2031 - Bybit\" (Bybit). Google News: \"AICoin price today, AI to USD live price, marketcap and chart - CoinMarketCap\" (CoinMarketCap).\"",
-      "image_file": "images/c_c2c4873e97a0.png",
-      "rank": 3
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSNDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Leonida Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\"",
+      "image_file": "images/c_ffad21c3a947.png",
+      "rank": 1
+    },
+    {
+      "id": "c_6db286a64195",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "nihao cat launchpad",
+      "name": "Nihao Sprout",
+      "token_name": "Nihao Sprout",
+      "ticker": "NSHPR",
+      "description": "Launchpad concept revolving around nihao cat (NIHAO). Riffs on sourced context: Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College).\u2026",
+      "reasoning": "Launchpad concept revolving around nihao cat (NIHAO). Riffs on sourced context: Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College).\u2026 Single trending token NIHAO \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token NIHAO \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 80.0,
+      "score_parts": {
+        "volume": 40.0,
+        "momentum": 25.0,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 80.0,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 18315.0%.",
+        "volume_usd": 5265554.81,
+        "price_change_h24": 18315.0,
+        "score": 80.0
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "nihao cat launchpad",
+        "why": "Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College). Google News: \"\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance\" (Yahoo Finance).",
+        "meme_or_story": "Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College). Google News: \"\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance\" (Yahoo Finance).",
+        "driver": "X accounts linked on the DexScreener profiles: @nihaocatx. Websites linked on the profiles: https://nihaocatsol.fun. Coverage: Carthage College Coverage: Yahoo Finance",
+        "freshness": {
+          "started_at": "2026-11-10T23:59:16+00:00",
+          "started_at_source": "https://dexscreener.com/solana/4rsluj8sbffmwm4ak6p4r5rbz7y2m9cgrefxvb29jbgn",
+          "phase": "rising",
+          "basis": "24h price change 18315.0%."
+        },
+        "sources": [
+          {
+            "kind": "google_news",
+            "title": "Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXhXN0VaeXN5ZkJEOG1lNXpQZmJzOENjM2cyX19nek5rTUloVmxyRWQ5akI5R2Q1RlJJQm5XQWNYNUNXalczYjdmaktTajhqMDYzTHhzU0hIZUdmdVJBYl9BLU1sUUg5YnpiR0Q1Qm5aZUJfQU9oWEZaRFdZNl9SMWIyU3V4TlA0SUt2RHdWMENaY09BLU1XSUFuaw?oc=5",
+            "snippet": "Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College"
+          },
+          {
+            "kind": "google_news",
+            "title": "\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSX2hpWmkyODcwNDdkZTBLd0RCRHk4bWxfaUN2Q0ZNc3ZOR1hXUEFFNElMRzJPVklacGZ5RWVPS2pqVHJ3b2hFLVNoakNxbnpUMVJSanNzNDFrX09HRFNzYTltWTB3LXZlR1BhTXdRQzBVMHJfVWJYTnpqR0tIckE?oc=5",
+            "snippet": "\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance"
+          }
+        ],
+        "match_words": [
+          "nihao"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "nihao cat",
+          "symbol": "NIHAO",
+          "chain": "solana",
+          "address": "8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump",
+          "dexscreener_url": "https://dexscreener.com/solana/4rsluj8sbffmwm4ak6p4r5rbz7y2m9cgrefxvb29jbgn",
+          "volume_usd": 5265554.81,
+          "market_cap_usd": 8398565.0,
+          "price_change_h24": 18315.0,
+          "pair_created_at": "2026-11-10T23:59:16+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Nihao Sprout ($NSHPR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around nihao cat (NIHAO). Riffs on sourced context: Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College).\u2026\n\nWhy it's trending: Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College). Google News: \"\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance\" (Yahoo Finance).\nDriver: X accounts linked on the DexScreener profiles: @nihaocatx. Websites linked on the profiles: https://nihaocatsol.fun. Coverage: Carthage College Coverage: Yahoo Finance\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_6db286a64195",
+        "palette": 4,
+        "body": 3,
+        "ears": 2,
+        "accent": 1
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College). Google News: \"\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance\" (Yahoo Finance).\"",
+      "image_file": "images/c_6db286a64195.png",
+      "rank": 2
     },
     {
       "id": "c_122aaa9049a3",
@@ -570,9 +470,9 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 3920.0%.",
-        "volume_usd": 1061780.39,
-        "price_change_h24": 3920.0,
+        "age_basis": "24h price change 3891.0%.",
+        "volume_usd": 2520214.09,
+        "price_change_h24": 3891.0,
         "score": 80.0
       },
       "trend_context": {
@@ -585,7 +485,7 @@
           "started_at": "2026-11-10T19:03:10+00:00",
           "started_at_source": "https://dexscreener.com/solana/5tbxkpvh716zsxhnzsr8i1px7e6uuj46jnbldychpump",
           "phase": "rising",
-          "basis": "24h price change 3920.0%."
+          "basis": "24h price change 3891.0%."
         },
         "sources": [
           {
@@ -610,9 +510,9 @@
           "chain": "solana",
           "address": "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump",
           "dexscreener_url": "https://dexscreener.com/solana/5tbxkpvh716zsxhnzsr8i1px7e6uuj46jnbldychpump",
-          "volume_usd": 1061780.39,
-          "market_cap_usd": 1666869.0,
-          "price_change_h24": 3920.0,
+          "volume_usd": 2520214.09,
+          "market_cap_usd": 1654755.0,
+          "price_change_h24": 3891.0,
           "pair_created_at": "2026-11-10T19:03:10+00:00"
         }
       ],
@@ -627,19 +527,105 @@
       },
       "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASDCT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Audacity Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.\"\"",
       "image_file": "images/c_122aaa9049a3.png",
+      "rank": 3
+    },
+    {
+      "id": "c_566ff90ac05d",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "Veylfi launchpad",
+      "name": "Veylfi Sprout",
+      "token_name": "Veylfi Sprout",
+      "ticker": "VSYLF",
+      "description": "Launchpad concept revolving around Veylfi (VEYL). Riffs on sourced context: DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh\u2026",
+      "reasoning": "Launchpad concept revolving around Veylfi (VEYL). Riffs on sourced context: DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh\u2026 Single trending token VEYL \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token VEYL \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 80.0,
+      "score_parts": {
+        "volume": 40.0,
+        "momentum": 25.0,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 80.0,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 225.0%.",
+        "volume_usd": 1979118.96,
+        "price_change_h24": 225.0,
+        "score": 80.0
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "Veylfi launchpad",
+        "why": "DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times.\"",
+        "meme_or_story": "DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @Veylfi. Websites linked on the profiles: https://veylfi.fun/.",
+        "freshness": {
+          "started_at": "2026-11-11T02:48:32+00:00",
+          "started_at_source": "https://dexscreener.com/solana/ghtnattcpfz8mrtmqieyueob283eugqd1d1fysnhpump",
+          "phase": "rising",
+          "basis": "24h price change 225.0%."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "Veylfi profile",
+            "url": "https://dexscreener.com/solana/ghtnattcpfz8mrtmqieyueob283eugqd1d1fysnhpump",
+            "snippet": "See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times."
+          }
+        ],
+        "match_words": [
+          "veylfi",
+          "anyone",
+          "about",
+          "shield",
+          "shared",
+          "privacy",
+          "split",
+          "fresh",
+          "wallets",
+          "different",
+          "amounts",
+          "times"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "Veylfi",
+          "symbol": "VEYL",
+          "chain": "solana",
+          "address": "GHtnAtTCPFz8MRTMQiEyuEob283EUgqd1d1Fysnhpump",
+          "dexscreener_url": "https://dexscreener.com/solana/ghtnattcpfz8mrtmqieyueob283eugqd1d1fysnhpump",
+          "volume_usd": 1979118.96,
+          "market_cap_usd": 119693.0,
+          "price_change_h24": 225.0,
+          "pair_created_at": "2026-11-11T02:48:32+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Veylfi Sprout ($VSYLF) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Veylfi (VEYL). Riffs on sourced context: DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh\u2026\n\nWhy it's trending: DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times.\"\nDriver: X accounts linked on the DexScreener profiles: @Veylfi. Websites linked on the profiles: https://veylfi.fun/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_566ff90ac05d",
+        "palette": 2,
+        "body": 3,
+        "ears": 1,
+        "accent": 0
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSYLF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Veylfi Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times.\"\"",
+      "image_file": "images/c_566ff90ac05d.png",
       "rank": 4
     },
     {
-      "id": "c_2af10c291483",
+      "id": "c_73e4733267bc",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "Nami launchpad",
-      "name": "Nami Sprout",
-      "token_name": "Nami Sprout",
-      "ticker": "NSMPR",
-      "description": "Launchpad concept revolving around Nami (NAMI). Riffs on sourced context: DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networ\u2026",
-      "reasoning": "Launchpad concept revolving around Nami (NAMI). Riffs on sourced context: DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networ\u2026 Single trending token NAMI \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token NAMI \u2014 treated as a launchpad opportunity.",
+      "trend_name": "\u4f60\u597d\u732b launchpad",
+      "name": "Pebble Sparrow",
+      "token_name": "Pebble Sparrow",
+      "ticker": "PSBBL",
+      "description": "Launchpad concept revolving around \u4f60\u597d\u732b (\u54aa\u597d). Riffs on sourced context: DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"",
+      "reasoning": "Launchpad concept revolving around \u4f60\u597d\u732b (\u54aa\u597d). Riffs on sourced context: DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\" Single trending token \u54aa\u597d \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token \u54aa\u597d \u2014 treated as a launchpad opportunity.",
       "style_note": null,
       "score": 80.0,
       "score_parts": {
@@ -649,80 +635,76 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 144.0%.",
-        "volume_usd": 713705.01,
-        "price_change_h24": 144.0,
+        "age_basis": "24h price change 1819.0%.",
+        "volume_usd": 1002008.66,
+        "price_change_h24": 1819.0,
         "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "Nami launchpad",
-        "why": "DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks.\"",
-        "meme_or_story": "DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks.\"",
-        "driver": "X accounts linked on the DexScreener profiles: @namidefi. Telegram links on the profiles: 1. Websites linked on the profiles: https://nami.fi, https://docs.nami.fi.",
+        "trend_name": "\u4f60\u597d\u732b launchpad",
+        "why": "DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"",
+        "meme_or_story": "DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"",
+        "driver": "X accounts linked on the DexScreener profiles: @NihaoMiaoCat. Websites linked on the profiles: https://nihaomiaocat.lol/.",
         "freshness": {
-          "started_at": null,
-          "started_at_source": null,
+          "started_at": "2026-11-11T00:26:14+00:00",
+          "started_at_source": "https://dexscreener.com/solana/hg3w7gdpviz5urucnnk6ewxlzstmvwx6uxled6pbpump",
           "phase": "rising",
-          "basis": "24h price change 144.0%."
+          "basis": "24h price change 1819.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "Nami profile",
-            "url": "https://dexscreener.com/base/0x8888cdad9ef66382f89e68f95ec384d89ec28888",
-            "snippet": "Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks."
+            "title": "\u4f60\u597d\u732b profile",
+            "url": "https://dexscreener.com/solana/hg3w7gdpviz5urucnnk6ewxlzstmvwx6uxled6pbpump",
+            "snippet": "the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f"
           }
         ],
         "match_words": [
-          "unified",
-          "multichain",
-          "protocol",
-          "coordinates",
-          "liquidity",
-          "lending",
-          "governance",
-          "across",
-          "networks"
+          "master",
+          "ansem",
+          "became",
+          "shift",
+          "confirmed"
         ]
       },
       "source_tokens": [
         {
-          "name": "Nami",
-          "symbol": "NAMI",
-          "chain": "base",
-          "address": "0x8888cdad9ef66382f89e68f95ec384d89ec28888",
-          "dexscreener_url": "https://dexscreener.com/base/0x8888cdad9ef66382f89e68f95ec384d89ec28888",
-          "volume_usd": 713705.01,
-          "market_cap_usd": 1651856.0,
-          "price_change_h24": 144.0,
-          "pair_created_at": null
+          "name": "\u4f60\u597d\u732b",
+          "symbol": "\u54aa\u597d",
+          "chain": "solana",
+          "address": "Hg3w7GdPViZ5URuCNnK6EwXLzSTmVwX6UXLeD6Pbpump",
+          "dexscreener_url": "https://dexscreener.com/solana/hg3w7gdpviz5urucnnk6ewxlzstmvwx6uxled6pbpump",
+          "volume_usd": 1002008.66,
+          "market_cap_usd": 709303.0,
+          "price_change_h24": 1819.0,
+          "pair_created_at": "2026-11-11T00:26:14+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Nami Sprout ($NSMPR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Nami (NAMI). Riffs on sourced context: DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networ\u2026\n\nWhy it's trending: DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks.\"\nDriver: X accounts linked on the DexScreener profiles: @namidefi. Telegram links on the profiles: 1. Websites linked on the profiles: https://nami.fi, https://docs.nami.fi.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Pebble Sparrow ($PSBBL) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around \u4f60\u597d\u732b (\u54aa\u597d). Riffs on sourced context: DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"\n\nWhy it's trending: DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"\nDriver: X accounts linked on the DexScreener profiles: @NihaoMiaoCat. Websites linked on the profiles: https://nihaomiaocat.lol/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_2af10c291483",
-        "palette": 3,
-        "body": 0,
-        "ears": 0,
-        "accent": 2
+        "seed": "c_73e4733267bc",
+        "palette": 0,
+        "body": 3,
+        "ears": 3,
+        "accent": 3
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSMPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nami Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and governance across networks.\"\"",
-      "image_file": "images/c_2af10c291483.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSBBL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Pebble Sparrow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"\"",
+      "image_file": "images/c_73e4733267bc.png",
       "rank": 5
     },
     {
-      "id": "c_b9e4edec95eb",
+      "id": "c_bb817e3301df",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "KMEOW launchpad",
-      "name": "Kmeow Sprout",
-      "token_name": "Kmeow Sprout",
-      "ticker": "KSMWP",
-      "description": "Launchpad concept revolving around KMEOW (KMEOW). Riffs on sourced context: DexScreener profile: \"KMEOW\"",
-      "reasoning": "Launchpad concept revolving around KMEOW (KMEOW). Riffs on sourced context: DexScreener profile: \"KMEOW\" Single trending token KMEOW \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token KMEOW \u2014 treated as a launchpad opportunity.",
+      "trend_name": "Zero launchpad",
+      "name": "Zero Sprout",
+      "token_name": "Zero Sprout",
+      "ticker": "ZSRPR",
+      "description": "Launchpad concept revolving around Zero (ZERO). Riffs on sourced context: DexScreener profile: \"Zero launchpad\"",
+      "reasoning": "Launchpad concept revolving around Zero (ZERO). Riffs on sourced context: DexScreener profile: \"Zero launchpad\" Single trending token ZERO \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token ZERO \u2014 treated as a launchpad opportunity.",
       "style_note": null,
       "score": 80.0,
       "score_parts": {
@@ -732,224 +714,70 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 17586.0%.",
-        "volume_usd": 543085.82,
-        "price_change_h24": 17586.0,
+        "age_basis": "24h price change 561.0%.",
+        "volume_usd": 584687.64,
+        "price_change_h24": 561.0,
         "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "KMEOW launchpad",
-        "why": "DexScreener profile: \"KMEOW\"",
-        "meme_or_story": "DexScreener profile: \"KMEOW\"",
-        "driver": "X accounts linked on the DexScreener profiles: @0xOmnia.",
+        "trend_name": "Zero launchpad",
+        "why": "DexScreener profile: \"Zero launchpad\"",
+        "meme_or_story": "DexScreener profile: \"Zero launchpad\"",
+        "driver": "X accounts linked on the DexScreener profiles: @zerofun_xyz. Websites linked on the profiles: https://zerofun.xyz/.",
         "freshness": {
-          "started_at": "2026-11-10T21:42:10+00:00",
-          "started_at_source": "https://dexscreener.com/elysium/0x974703ff38a70ee7dd84cd565b561cc85879b5fa",
+          "started_at": "2026-11-11T10:42:28+00:00",
+          "started_at_source": "https://dexscreener.com/bsc/0xfa6c988fc94b46fe3005dede52252c1206a30000",
           "phase": "rising",
-          "basis": "24h price change 17586.0%."
+          "basis": "24h price change 561.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "KMEOW profile",
-            "url": "https://dexscreener.com/elysium/0x974703ff38a70ee7dd84cd565b561cc85879b5fa",
-            "snippet": "KMEOW"
+            "title": "Zero profile",
+            "url": "https://dexscreener.com/bsc/0xfa6c988fc94b46fe3005dede52252c1206a30000",
+            "snippet": "Zero launchpad"
           }
         ],
-        "match_words": [
-          "kmeow"
-        ]
+        "match_words": []
       },
       "source_tokens": [
         {
-          "name": "KMEOW",
-          "symbol": "KMEOW",
-          "chain": "elysium",
-          "address": "0x974703ff38a70ee7dd84cd565b561cc85879b5fa",
-          "dexscreener_url": "https://dexscreener.com/elysium/0x974703ff38a70ee7dd84cd565b561cc85879b5fa",
-          "volume_usd": 543085.82,
-          "market_cap_usd": 202690.0,
-          "price_change_h24": 17586.0,
-          "pair_created_at": "2026-11-10T21:42:10+00:00"
+          "name": "Zero",
+          "symbol": "ZERO",
+          "chain": "bsc",
+          "address": "0xfa6c988fc94b46fe3005dede52252c1206a30000",
+          "dexscreener_url": "https://dexscreener.com/bsc/0xfa6c988fc94b46fe3005dede52252c1206a30000",
+          "volume_usd": 584687.64,
+          "market_cap_usd": 452132.0,
+          "price_change_h24": 561.0,
+          "pair_created_at": "2026-11-11T10:42:28+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Kmeow Sprout ($KSMWP) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around KMEOW (KMEOW). Riffs on sourced context: DexScreener profile: \"KMEOW\"\n\nWhy it's trending: DexScreener profile: \"KMEOW\"\nDriver: X accounts linked on the DexScreener profiles: @0xOmnia.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Zero Sprout ($ZSRPR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Zero (ZERO). Riffs on sourced context: DexScreener profile: \"Zero launchpad\"\n\nWhy it's trending: DexScreener profile: \"Zero launchpad\"\nDriver: X accounts linked on the DexScreener profiles: @zerofun_xyz. Websites linked on the profiles: https://zerofun.xyz/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_b9e4edec95eb",
-        "palette": 5,
-        "body": 1,
+        "seed": "c_bb817e3301df",
+        "palette": 1,
+        "body": 2,
         "ears": 0,
         "accent": 0
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSMWP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kmeow Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"KMEOW\"\"",
-      "image_file": "images/c_b9e4edec95eb.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ZSRPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Zero Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Zero launchpad\"\"",
+      "image_file": "images/c_bb817e3301df.png",
       "rank": 6
     },
     {
-      "id": "c_8006c756cd78",
+      "id": "c_25c3b4c9660a",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "Grand Theft Apes launchpad",
-      "name": "Grand Theft",
-      "token_name": "Grand Theft",
-      "ticker": "GTRND",
-      "description": "Launchpad concept revolving around Grand Theft Apes (GTA). Riffs on sourced context: DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"",
-      "reasoning": "Launchpad concept revolving around Grand Theft Apes (GTA). Riffs on sourced context: DexScreener profile: \"GRAND THEFT APES GTA RUNNER\" Single trending token GTA \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token GTA \u2014 treated as a launchpad opportunity.",
-      "style_note": "GTA-style",
-      "score": 80.0,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 25.0,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 80.0,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 211.0%.",
-        "volume_usd": 429862.8,
-        "price_change_h24": 211.0,
-        "score": 80.0
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "Grand Theft Apes launchpad",
-        "why": "DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"",
-        "meme_or_story": "DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"",
-        "driver": "Telegram links on the profiles: 1. Websites linked on the profiles: https://www.grandtheftapes.fun/, https://x.com/i/communities/2011801144150950315.",
-        "freshness": {
-          "started_at": "2026-11-09T15:54:53+00:00",
-          "started_at_source": "https://dexscreener.com/solana/ejv8tgqfn6gtyn8z6kgybenpbvymogmudfxira2fpump",
-          "phase": "rising",
-          "basis": "24h price change 211.0%."
-        },
-        "sources": [
-          {
-            "kind": "dexscreener_profile",
-            "title": "Grand Theft Apes profile",
-            "url": "https://dexscreener.com/solana/ejv8tgqfn6gtyn8z6kgybenpbvymogmudfxira2fpump",
-            "snippet": "GRAND THEFT APES GTA RUNNER"
-          }
-        ],
-        "match_words": [
-          "grand",
-          "theft",
-          "runner"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "Grand Theft Apes",
-          "symbol": "GTA",
-          "chain": "solana",
-          "address": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump",
-          "dexscreener_url": "https://dexscreener.com/solana/ejv8tgqfn6gtyn8z6kgybenpbvymogmudfxira2fpump",
-          "volume_usd": 429862.8,
-          "market_cap_usd": 108249.0,
-          "price_change_h24": 211.0,
-          "pair_created_at": "2026-11-09T15:54:53+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Grand Theft ($GTRND) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Grand Theft Apes (GTA). Riffs on sourced context: DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"\n\nWhy it's trending: DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"\nDriver: Telegram links on the profiles: 1. Websites linked on the profiles: https://www.grandtheftapes.fun/, https://x.com/i/communities/2011801144150950315.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_8006c756cd78",
-        "palette": 1,
-        "body": 0,
-        "ears": 3,
-        "accent": 1
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GTRND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Grand Theft. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"GRAND THEFT APES GTA RUNNER\"\"",
-      "image_file": "images/c_8006c756cd78.png",
-      "rank": 7
-    },
-    {
-      "id": "c_5c9a9442a903",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "State of Leonida launchpad",
-      "name": "Leonida Sprout",
-      "token_name": "Leonida Sprout",
-      "ticker": "LSNDP",
-      "description": "Launchpad concept revolving around State of Leonida (Leonida). Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
-      "reasoning": "Launchpad concept revolving around State of Leonida (Leonida). Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\" Single trending token Leonida \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token Leonida \u2014 treated as a launchpad opportunity.",
-      "style_note": "GTA-style",
-      "score": 80.0,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 25.0,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 80.0,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 102.0%.",
-        "volume_usd": 301014.62,
-        "price_change_h24": 102.0,
-        "score": 80.0
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "State of Leonida launchpad",
-        "why": "DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
-        "meme_or_story": "DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"",
-        "driver": "X accounts linked on the DexScreener profiles: @TheLeonidaState. Telegram links on the profiles: 1. Websites linked on the profiles: https://stateofleonida.xyz/.",
-        "freshness": {
-          "started_at": "2026-11-05T19:41:14+00:00",
-          "started_at_source": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
-          "phase": "rising",
-          "basis": "24h price change 102.0%."
-        },
-        "sources": [
-          {
-            "kind": "dexscreener_profile",
-            "title": "State of Leonida profile",
-            "url": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
-            "snippet": "The home state of GTA VI and launchpad for GTA tokens"
-          }
-        ],
-        "match_words": [
-          "leonida"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "State of Leonida",
-          "symbol": "Leonida",
-          "chain": "solana",
-          "address": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
-          "dexscreener_url": "https://dexscreener.com/solana/bwjfbnexpapg7uoqbyp5kswwgcqba8qcdma2dqiepump",
-          "volume_usd": 301014.62,
-          "market_cap_usd": 435795.0,
-          "price_change_h24": 102.0,
-          "pair_created_at": "2026-11-05T19:41:14+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Leonida Sprout ($LSNDP) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around State of Leonida (Leonida). Riffs on sourced context: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\n\nWhy it's trending: DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\nDriver: X accounts linked on the DexScreener profiles: @TheLeonidaState. Telegram links on the profiles: 1. Websites linked on the profiles: https://stateofleonida.xyz/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_5c9a9442a903",
-        "palette": 5,
-        "body": 3,
-        "ears": 3,
-        "accent": 2
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSNDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Leonida Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\"\"",
-      "image_file": "images/c_5c9a9442a903.png",
-      "rank": 8
-    },
-    {
-      "id": "c_1f198ab7ec0e",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "CLMFND launchpad",
-      "name": "Clmfnd Sprout",
-      "token_name": "Clmfnd Sprout",
-      "ticker": "CSLMF",
-      "description": "Launchpad concept revolving around CLMFND (CLMFND). Riffs on sourced context: DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"",
-      "reasoning": "Launchpad concept revolving around CLMFND (CLMFND). Riffs on sourced context: DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\" Single trending token CLMFND \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token CLMFND \u2014 treated as a launchpad opportunity.",
+      "trend_name": "AiDiglet launchpad",
+      "name": "Aidiglet Sprout",
+      "token_name": "Aidiglet Sprout",
+      "ticker": "ASDGL",
+      "description": "Launchpad concept revolving around AiDiglet (DIGS). Riffs on sourced context: DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined v\u2026",
+      "reasoning": "Launchpad concept revolving around AiDiglet (DIGS). Riffs on sourced context: DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined v\u2026 Single trending token DIGS \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token DIGS \u2014 treated as a launchpad opportunity.",
       "style_note": null,
       "score": 80.0,
       "score_parts": {
@@ -959,64 +787,70 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 332.0%.",
-        "volume_usd": 202746.42,
-        "price_change_h24": 332.0,
+        "age_basis": "24h price change 213.0%.",
+        "volume_usd": 437390.32,
+        "price_change_h24": 213.0,
         "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "CLMFND launchpad",
-        "why": "DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"",
-        "meme_or_story": "DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"",
-        "driver": "X accounts linked on the DexScreener profiles: @heymike777, @claimfund. Websites linked on the profiles: https://claim.fund/.",
+        "trend_name": "AiDiglet launchpad",
+        "why": "DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances.\"",
+        "meme_or_story": "DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @aidiglet. Telegram links on the profiles: 3. Websites linked on the profiles: https://aidiglet.me.",
         "freshness": {
-          "started_at": "2026-11-09T19:52:08+00:00",
-          "started_at_source": "https://dexscreener.com/solana/wbce7immwn1xgea6mtgrs3folgc936rmjyjeujapump",
+          "started_at": "2026-10-28T12:32:50+00:00",
+          "started_at_source": "https://dexscreener.com/solana/9qt8k685hrae4k11dhgxirdtpfaaimextyfwt8cppump",
           "phase": "rising",
-          "basis": "24h price change 332.0%."
+          "basis": "24h price change 213.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "CLMFND profile",
-            "url": "https://dexscreener.com/solana/wbce7immwn1xgea6mtgrs3folgc936rmjyjeujapump",
-            "snippet": "Claim your PumpFun fees. Even small amounts less than 0.02 SOL."
+            "title": "AiDiglet profile",
+            "url": "https://dexscreener.com/solana/9qt8k685hrae4k11dhgxirdtpfaaimextyfwt8cppump",
+            "snippet": "$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances."
           }
         ],
         "match_words": [
-          "clmfnd",
-          "claim",
-          "pumpfun",
-          "small",
-          "amounts"
+          "aidiglet",
+          "native",
+          "telegram",
+          "active",
+          "players",
+          "mined",
+          "gameplay",
+          "bridge",
+          "converting",
+          "earned",
+          "balances"
         ]
       },
       "source_tokens": [
         {
-          "name": "CLMFND",
-          "symbol": "CLMFND",
+          "name": "AiDiglet",
+          "symbol": "DIGS",
           "chain": "solana",
-          "address": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump",
-          "dexscreener_url": "https://dexscreener.com/solana/wbce7immwn1xgea6mtgrs3folgc936rmjyjeujapump",
-          "volume_usd": 202746.42,
-          "market_cap_usd": 20752.0,
-          "price_change_h24": 332.0,
-          "pair_created_at": "2026-11-09T19:52:08+00:00"
+          "address": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump",
+          "dexscreener_url": "https://dexscreener.com/solana/9qt8k685hrae4k11dhgxirdtpfaaimextyfwt8cppump",
+          "volume_usd": 437390.32,
+          "market_cap_usd": 113579.0,
+          "price_change_h24": 213.0,
+          "pair_created_at": "2026-10-28T12:32:50+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Clmfnd Sprout ($CSLMF) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around CLMFND (CLMFND). Riffs on sourced context: DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"\n\nWhy it's trending: DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"\nDriver: X accounts linked on the DexScreener profiles: @heymike777, @claimfund. Websites linked on the profiles: https://claim.fund/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Aidiglet Sprout ($ASDGL) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around AiDiglet (DIGS). Riffs on sourced context: DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined v\u2026\n\nWhy it's trending: DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances.\"\nDriver: X accounts linked on the DexScreener profiles: @aidiglet. Telegram links on the profiles: 3. Websites linked on the profiles: https://aidiglet.me.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_1f198ab7ec0e",
-        "palette": 5,
-        "body": 2,
+        "seed": "c_25c3b4c9660a",
+        "palette": 0,
+        "body": 0,
         "ears": 0,
         "accent": 3
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLMF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Clmfnd Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Claim your PumpFun fees. Even small amounts less than 0.02 SOL.\"\"",
-      "image_file": "images/c_1f198ab7ec0e.png",
-      "rank": 9
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASDGL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Aidiglet Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances.\"\"",
+      "image_file": "images/c_25c3b4c9660a.png",
+      "rank": 7
     },
     {
       "id": "c_2f9f1b4bd4de",
@@ -1038,9 +872,9 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 172.0%.",
-        "volume_usd": 153620.21,
-        "price_change_h24": 172.0,
+        "age_basis": "24h price change 457.0%.",
+        "volume_usd": 262601.11,
+        "price_change_h24": 457.0,
         "score": 80.0
       },
       "trend_context": {
@@ -1053,7 +887,7 @@
           "started_at": "2026-11-08T23:21:34+00:00",
           "started_at_source": "https://dexscreener.com/solana/cxz596ukfwb5tkyz5vh5a9qckkh38io6hdggrkkcpump",
           "phase": "rising",
-          "basis": "24h price change 172.0%."
+          "basis": "24h price change 457.0%."
         },
         "sources": [
           {
@@ -1086,9 +920,9 @@
           "chain": "solana",
           "address": "CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump",
           "dexscreener_url": "https://dexscreener.com/solana/cxz596ukfwb5tkyz5vh5a9qckkh38io6hdggrkkcpump",
-          "volume_usd": 153620.21,
-          "market_cap_usd": 203142.0,
-          "price_change_h24": 172.0,
+          "volume_usd": 262601.11,
+          "market_cap_usd": 367549.0,
+          "price_change_h24": 457.0,
           "pair_created_at": "2026-11-08T23:21:34+00:00"
         }
       ],
@@ -1103,6 +937,166 @@
       },
       "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KBDKL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kodak Black. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The most anticipated game in history. Kodak on the mic. GTA 6 on the screen. \ud83c\udfa4\ud83c\udfae GTA6KODAK \u2014 rap meets Vice City.\" Wikipedia most-read includes \"Black Doves\".\"",
       "image_file": "images/c_2f9f1b4bd4de.png",
+      "rank": 8
+    },
+    {
+      "id": "c_16f19745effb",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "ni hao dog launchpad",
+      "name": "Ripple Sparrow",
+      "token_name": "Ripple Sparrow",
+      "ticker": "RSPPL",
+      "description": "Launchpad concept revolving around ni hao dog (woohao). Riffs on sourced context: DexScreener profile: \"ni hao dog\"",
+      "reasoning": "Launchpad concept revolving around ni hao dog (woohao). Riffs on sourced context: DexScreener profile: \"ni hao dog\" Single trending token woohao \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token woohao \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 80.0,
+      "score_parts": {
+        "volume": 40.0,
+        "momentum": 25.0,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 80.0,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 121.0%.",
+        "volume_usd": 216223.02,
+        "price_change_h24": 121.0,
+        "score": 80.0
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "ni hao dog launchpad",
+        "why": "DexScreener profile: \"ni hao dog\"",
+        "meme_or_story": "DexScreener profile: \"ni hao dog\"",
+        "driver": "Websites linked on the profiles: https://x.com/i/communities/2011049724028047546.",
+        "freshness": {
+          "started_at": "2026-11-11T09:10:02+00:00",
+          "started_at_source": "https://dexscreener.com/solana/blvpn8ofkjnazpwgavpspz5bhtexdbxfgx4vn3fkpump",
+          "phase": "rising",
+          "basis": "24h price change 121.0%."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "ni hao dog profile",
+            "url": "https://dexscreener.com/solana/blvpn8ofkjnazpwgavpspz5bhtexdbxfgx4vn3fkpump",
+            "snippet": "ni hao dog"
+          }
+        ],
+        "match_words": [
+          "woohao"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "ni hao dog",
+          "symbol": "woohao",
+          "chain": "solana",
+          "address": "BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump",
+          "dexscreener_url": "https://dexscreener.com/solana/blvpn8ofkjnazpwgavpspz5bhtexdbxfgx4vn3fkpump",
+          "volume_usd": 216223.02,
+          "market_cap_usd": 76977.0,
+          "price_change_h24": 121.0,
+          "pair_created_at": "2026-11-11T09:10:02+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Ripple Sparrow ($RSPPL) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around ni hao dog (woohao). Riffs on sourced context: DexScreener profile: \"ni hao dog\"\n\nWhy it's trending: DexScreener profile: \"ni hao dog\"\nDriver: Websites linked on the profiles: https://x.com/i/communities/2011049724028047546.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_16f19745effb",
+        "palette": 4,
+        "body": 3,
+        "ears": 0,
+        "accent": 0
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSPPL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Ripple Sparrow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"ni hao dog\"\"",
+      "image_file": "images/c_16f19745effb.png",
+      "rank": 9
+    },
+    {
+      "id": "c_a1057f583258",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "Oraqle launchpad",
+      "name": "Oraqle Sprout",
+      "token_name": "Oraqle Sprout",
+      "ticker": "OSRQL",
+      "description": "Launchpad concept revolving around Oraqle (Oraqle). Riffs on sourced context: DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and pos\u2026",
+      "reasoning": "Launchpad concept revolving around Oraqle (Oraqle). Riffs on sourced context: DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and pos\u2026 Single trending token Oraqle \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token Oraqle \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 79.9,
+      "score_parts": {
+        "volume": 39.9,
+        "momentum": 25.0,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 79.9,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 291.0%.",
+        "volume_usd": 98567.61,
+        "price_change_h24": 291.0,
+        "score": 79.9
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "Oraqle launchpad",
+        "why": "DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana.\"",
+        "meme_or_story": "DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @oraqletech. Websites linked on the profiles: https://oraqle.tech/, https://oraqle.tech/docs.",
+        "freshness": {
+          "started_at": "2026-11-11T07:21:57+00:00",
+          "started_at_source": "https://dexscreener.com/solana/5pkadhzfkjck7ktr9pgacenyr621pwc7btolufkepump",
+          "phase": "rising",
+          "basis": "24h price change 291.0%."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "Oraqle profile",
+            "url": "https://dexscreener.com/solana/5pkadhzfkjck7ktr9pgacenyr621pwc7btolufkepump",
+            "snippet": "217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana."
+          }
+        ],
+        "match_words": [
+          "oraqle",
+          "feeds",
+          "agents",
+          "programs",
+          "every",
+          "report",
+          "carries",
+          "ed25519",
+          "quantum",
+          "signatures",
+          "verified"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "Oraqle",
+          "symbol": "Oraqle",
+          "chain": "solana",
+          "address": "5pkAdhzfkjCK7ktr9PGaCeNYr621pwc7BtoLUFkEpump",
+          "dexscreener_url": "https://dexscreener.com/solana/5pkadhzfkjck7ktr9pgacenyr621pwc7btolufkepump",
+          "volume_usd": 98567.61,
+          "market_cap_usd": 9625.97,
+          "price_change_h24": 291.0,
+          "pair_created_at": "2026-11-11T07:21:57+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Oraqle Sprout ($OSRQL) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Oraqle (Oraqle). Riffs on sourced context: DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and pos\u2026\n\nWhy it's trending: DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana.\"\nDriver: X accounts linked on the DexScreener profiles: @oraqletech. Websites linked on the profiles: https://oraqle.tech/, https://oraqle.tech/docs.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_a1057f583258",
+        "palette": 2,
+        "body": 0,
+        "ears": 2,
+        "accent": 2
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'OSRQL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Oraqle Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana.\"\"",
+      "image_file": "images/c_a1057f583258.png",
       "rank": 10
     }
   ],
@@ -1110,22 +1104,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 1: privacy meta. Freshness rising."
+      "text": "Top 1: leonida meta. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "PRIVACY: volume $20, mcap $7.9K."
+      "text": "SOL: volume $28.5K, mcap $10.8K."
     },
     {
       "agent_id": "solene",
       "role": "Meta Spotter",
-      "text": "Meta privacy meta. DexScreener profile: \"Put the bandana on.\" Google News: \"Bill Belichick\u2019s ex-girlfriend Jordon Hudson sues Airbnb owners"
+      "text": "Meta leonida meta. DexScreener profile: \"The home state of GTA VI and launchpad for GTA tokens\""
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Beta coin Privacy Sprout ($PSRVC). Coin logo is queued."
+      "text": "Beta coin Leonida Sprout ($LSNDP). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1135,22 +1129,22 @@
     {
       "agent_id": "pico",
       "role": "Trend Scout",
-      "text": "Top 2: SEPPUKU launchpad. Freshness rising."
+      "text": "Top 2: nihao cat launchpad. Freshness rising."
     },
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "SEPPUKU: volume $6.4M, mcap $12.9M."
+      "text": "NIHAO: volume $5.3M, mcap $8.4M."
     },
     {
       "agent_id": "rae",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Seppuku Sprout ($SSPPK), rank 2."
+      "text": "Launchpad kit for Nihao Sprout ($NSHPR), rank 2."
     },
     {
       "agent_id": "luma",
       "role": "Derivative Designer",
-      "text": "Derivative Seppuku Sprout ($SSPPK). Coin logo is queued."
+      "text": "Derivative Nihao Sprout ($NSHPR). Coin logo is queued."
     },
     {
       "agent_id": "moss",
@@ -1160,99 +1154,24 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 3: AICoin launchpad. Freshness rising."
+      "text": "Top 3: GTAVI AudaCity launchpad. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "AICoin: volume $1.8M, mcap $120.2K."
+      "text": "DACITY: volume $2.5M, mcap $1.7M."
     },
     {
       "agent_id": "dot",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Aicoin Sprout ($ASCNP), rank 3."
+      "text": "Launchpad kit for Audacity Sprout ($ASDCT), rank 3."
     },
     {
       "agent_id": "vee",
-      "role": "Derivative Designer",
-      "text": "Derivative Aicoin Sprout ($ASCNP). Coin logo is queued."
-    },
-    {
-      "agent_id": "rue",
-      "role": "Skeptic",
-      "text": "Trademark risk: unofficial concept, not an official brand."
-    },
-    {
-      "agent_id": "nib",
-      "role": "Trend Scout",
-      "text": "Top 4: GTAVI AudaCity launchpad. Freshness rising."
-    },
-    {
-      "agent_id": "mara",
-      "role": "Token Tracker",
-      "text": "DACITY: volume $1.1M, mcap $1.7M."
-    },
-    {
-      "agent_id": "hank",
-      "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Audacity Sprout ($ASDCT), rank 4."
-    },
-    {
-      "agent_id": "otis",
       "role": "Derivative Designer",
       "text": "Derivative Audacity Sprout ($ASDCT). Coin logo is queued."
     },
     {
-      "agent_id": "quill",
-      "role": "Skeptic",
-      "text": "Trademark risk: unofficial concept, not an official brand."
-    },
-    {
-      "agent_id": "pico",
-      "role": "Trend Scout",
-      "text": "Top 5: Nami launchpad. Freshness rising."
-    },
-    {
-      "agent_id": "jun",
-      "role": "Token Tracker",
-      "text": "NAMI: volume $713.7K, mcap $1.7M."
-    },
-    {
-      "agent_id": "rae",
-      "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Nami Sprout ($NSMPR), rank 5."
-    },
-    {
-      "agent_id": "luma",
-      "role": "Derivative Designer",
-      "text": "Derivative Nami Sprout ($NSMPR). Coin logo is queued."
-    },
-    {
-      "agent_id": "moss",
-      "role": "Skeptic",
-      "text": "Trademark risk: unofficial concept, not an official brand."
-    },
-    {
-      "agent_id": "kip",
-      "role": "Trend Scout",
-      "text": "Top 6: KMEOW launchpad. Freshness rising."
-    },
-    {
-      "agent_id": "ada",
-      "role": "Token Tracker",
-      "text": "KMEOW: volume $543.1K, mcap $202.7K."
-    },
-    {
-      "agent_id": "dot",
-      "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Kmeow Sprout ($KSMWP), rank 6."
-    },
-    {
-      "agent_id": "vee",
-      "role": "Derivative Designer",
-      "text": "Derivative Kmeow Sprout ($KSMWP). Coin logo is queued."
-    },
-    {
       "agent_id": "rue",
       "role": "Skeptic",
       "text": "Trademark risk: unofficial concept, not an official brand."
@@ -1260,22 +1179,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 7: Grand Theft Apes launchpad. Freshness rising."
+      "text": "Top 4: Veylfi launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "GTA: volume $429.9K, mcap $108.2K."
+      "text": "VEYL: volume $2.0M, mcap $119.7K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Grand Theft ($GTRND), rank 7."
+      "text": "Launchpad kit for Veylfi Sprout ($VSYLF), rank 4."
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Derivative Grand Theft ($GTRND). Coin logo is queued."
+      "text": "Derivative Veylfi Sprout ($VSYLF). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1285,22 +1204,22 @@
     {
       "agent_id": "pico",
       "role": "Trend Scout",
-      "text": "Top 8: State of Leonida launchpad. Freshness rising."
+      "text": "Top 5: \u4f60\u597d\u732b launchpad. Freshness rising."
     },
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "Leonida: volume $301.0K, mcap $435.8K."
+      "text": "\u54aa\u597d: volume $1.0M, mcap $709.3K."
     },
     {
       "agent_id": "rae",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Leonida Sprout ($LSNDP), rank 8."
+      "text": "Launchpad kit for Pebble Sparrow ($PSBBL), rank 5."
     },
     {
       "agent_id": "luma",
       "role": "Derivative Designer",
-      "text": "Derivative Leonida Sprout ($LSNDP). Coin logo is queued."
+      "text": "Derivative Pebble Sparrow ($PSBBL). Coin logo is queued."
     },
     {
       "agent_id": "moss",
@@ -1310,22 +1229,22 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 9: CLMFND launchpad. Freshness rising."
+      "text": "Top 6: Zero launchpad. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "CLMFND: volume $202.7K, mcap $20.8K."
+      "text": "ZERO: volume $584.7K, mcap $452.1K."
     },
     {
       "agent_id": "dot",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Clmfnd Sprout ($CSLMF), rank 9."
+      "text": "Launchpad kit for Zero Sprout ($ZSRPR), rank 6."
     },
     {
       "agent_id": "vee",
       "role": "Derivative Designer",
-      "text": "Derivative Clmfnd Sprout ($CSLMF). Coin logo is queued."
+      "text": "Derivative Zero Sprout ($ZSRPR). Coin logo is queued."
     },
     {
       "agent_id": "rue",
@@ -1335,22 +1254,97 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 10: GTA6 KODAK BLACK launchpad. Freshness rising."
+      "text": "Top 7: AiDiglet launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "GTA6KODAK: volume $153.6K, mcap $203.1K."
+      "text": "DIGS: volume $437.4K, mcap $113.6K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Kodak Black ($KBDKL), rank 10."
+      "text": "Launchpad kit for Aidiglet Sprout ($ASDGL), rank 7."
     },
     {
       "agent_id": "otis",
+      "role": "Derivative Designer",
+      "text": "Derivative Aidiglet Sprout ($ASDGL). Coin logo is queued."
+    },
+    {
+      "agent_id": "quill",
+      "role": "Skeptic",
+      "text": "Trademark risk: unofficial concept, not an official brand."
+    },
+    {
+      "agent_id": "pico",
+      "role": "Trend Scout",
+      "text": "Top 8: GTA6 KODAK BLACK launchpad. Freshness rising."
+    },
+    {
+      "agent_id": "jun",
+      "role": "Token Tracker",
+      "text": "GTA6KODAK: volume $262.6K, mcap $367.5K."
+    },
+    {
+      "agent_id": "rae",
+      "role": "Launchpad Analyst",
+      "text": "Launchpad kit for Kodak Black ($KBDKL), rank 8."
+    },
+    {
+      "agent_id": "luma",
       "role": "Derivative Designer",
       "text": "Derivative Kodak Black ($KBDKL). Coin logo is queued."
+    },
+    {
+      "agent_id": "moss",
+      "role": "Skeptic",
+      "text": "Trademark risk: unofficial concept, not an official brand."
+    },
+    {
+      "agent_id": "kip",
+      "role": "Trend Scout",
+      "text": "Top 9: ni hao dog launchpad. Freshness rising."
+    },
+    {
+      "agent_id": "ada",
+      "role": "Token Tracker",
+      "text": "woohao: volume $216.2K, mcap $77.0K."
+    },
+    {
+      "agent_id": "dot",
+      "role": "Launchpad Analyst",
+      "text": "Launchpad kit for Ripple Sparrow ($RSPPL), rank 9."
+    },
+    {
+      "agent_id": "vee",
+      "role": "Derivative Designer",
+      "text": "Derivative Ripple Sparrow ($RSPPL). Coin logo is queued."
+    },
+    {
+      "agent_id": "rue",
+      "role": "Skeptic",
+      "text": "Trademark risk: unofficial concept, not an official brand."
+    },
+    {
+      "agent_id": "nib",
+      "role": "Trend Scout",
+      "text": "Top 10: Oraqle launchpad. Freshness rising."
+    },
+    {
+      "agent_id": "mara",
+      "role": "Token Tracker",
+      "text": "Oraqle: volume $98.6K, mcap $9.6K."
+    },
+    {
+      "agent_id": "hank",
+      "role": "Launchpad Analyst",
+      "text": "Launchpad kit for Oraqle Sprout ($OSRQL), rank 10."
+    },
+    {
+      "agent_id": "otis",
+      "role": "Derivative Designer",
+      "text": "Derivative Oraqle Sprout ($OSRQL). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1359,7 +1353,7 @@
     }
   ],
   "candidate_count": 10,
-  "token_count": 94,
-  "group_count": 82,
-  "last_published": "2026-11-10T19:26:42.207255-05:00"
+  "token_count": 91,
+  "group_count": 79,
+  "last_published": "2026-11-11T06:34:57.459331-05:00"
 }

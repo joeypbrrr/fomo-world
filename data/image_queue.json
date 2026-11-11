@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-10T22:54:25.236932+00:00",
+  "updated_at": "2026-11-11T11:34:05.641640+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1834,6 +1834,97 @@
       "status": "pending",
       "image_path": "images/c_2f9f1b4bd4de.png",
       "added_at": "2026-11-10T22:54:25.236932+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6db286a64195",
+      "token_name": "Nihao Sprout",
+      "ticker": "NSHPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Carthage musical theatre students and alumni debut \u2018Nihao Broadway!\u2019 in New York City - Carthage College\" (Carthage College). Google News: \"\"Nihao China\" App Launches as an All-in-One Solution for International Visitors - Yahoo Finance\" (Yahoo Finance).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6db286a64195.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_566ff90ac05d",
+      "token_name": "Veylfi Sprout",
+      "ticker": "VSYLF",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSYLF' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Veylfi Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"See what anyone can read about it. Shield SOL, USDC or USDT in a shared privacy pool, then split it back out to fresh wallets in different amounts and at different times.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_566ff90ac05d.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_73e4733267bc",
+      "token_name": "Pebble Sparrow",
+      "ticker": "PSBBL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSBBL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Pebble Sparrow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"the zen master cat who said \"ni hao\" to Ansem and became his pfp. Vibe shift confirmed. \ud83d\udc31\ud83c\udc04\ufe0f\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_73e4733267bc.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_bb817e3301df",
+      "token_name": "Zero Sprout",
+      "ticker": "ZSRPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ZSRPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Zero Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Zero launchpad\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_bb817e3301df.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_25c3b4c9660a",
+      "token_name": "Aidiglet Sprout",
+      "ticker": "ASDGL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASDGL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Aidiglet Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$DIGS is the native token of AiDiglet \u2014 a Telegram tap-to-mine game with 2,000+ active players, in-game $DIGS mined via gameplay, and a live TON\u2192SOL bridge converting earned balances.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_25c3b4c9660a.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_16f19745effb",
+      "token_name": "Ripple Sparrow",
+      "ticker": "RSPPL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSPPL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Ripple Sparrow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"ni hao dog\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_16f19745effb.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a1057f583258",
+      "token_name": "Oraqle Sprout",
+      "ticker": "OSRQL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'OSRQL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Oraqle Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"217 data feeds for AI agents and Solana programs. Pay per call in USDC via x402. Every report carries Ed25519 and post-quantum SLH-DSA signatures that can be verified on Solana.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a1057f583258.png",
+      "added_at": "2026-11-11T11:34:05.641640+00:00",
       "completed_at": null
     }
   ]
