@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-12T12:44:03.587314+00:00",
+  "updated_at": "2026-11-12T21:32:46.582179+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2146,6 +2146,123 @@
       "status": "pending",
       "image_path": "images/c_dba279b934cd.png",
       "added_at": "2026-11-12T12:44:03.587314+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_ac5281a86ecb",
+      "token_name": "Jensen Sprout",
+      "ticker": "JSNSN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nihao Jensen ($JensenHao) is a Solana meme coin starring a cartoon Jensen Huang in a straw hat and black leather jacket, waving hello with an orange cat paw.\" DexScreener profile: \"He is starting the financial crisis because he was horny.\" Google News: \"NVID\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_ac5281a86ecb.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_4e36d11d8f62",
+      "token_name": "Dacitycoin Sprout",
+      "ticker": "DSCTY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSCTY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Dacitycoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"AudaCity Price: DACITYCOIN/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko). Google News: \"AudaCity Price: DACITYCOIN/USD Live Price Chart, Market Cap & News Today - CoinGecko\" (CoinGecko).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_4e36d11d8f62.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_266689465ab1",
+      "token_name": "Rambo Sprout",
+      "ticker": "RSMBP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSMBP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Rambo Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Silicon Valley wants your RAM, and one man has decided he's not giving up a single gigabyte. After Elon Musk declared, \"The people deserve to have their RAM too!\", the internet found itself in the middle of an absurd new battle: AI companies versus ordinary \"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_266689465ab1.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_95a019c7cf27",
+      "token_name": "Affair Sprout",
+      "ticker": "ASFFR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASFFR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Affair Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"ai\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_95a019c7cf27.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_67512812bcb5",
+      "token_name": "Fandemonium Crown",
+      "ticker": "FCNDM",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'FCNDM' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Fandemonium Crown. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The crown has cooling fins. The crowd needs volume control. Fandemonium imagines Jensen Huang ruling a GPU kingdom in black leather, with a fan club that drowns out every cooling fan.\" Wikipedia most-read includes \"Jensen Huang\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_67512812bcb5.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f16c8746ad39",
+      "token_name": "Christmas Sprout",
+      "ticker": "CSHRS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHRS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Christmas Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"24 days. Christmas surprises. A community-driven rewards pool.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f16c8746ad39.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_ee53e73e7bd1",
+      "token_name": "Doggle Internet",
+      "ticker": "DIGGL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DIGGL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Doggle Internet. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"\ud83d\udc36\ud83c\udf10 DOGGLE \u2014 THE INTERNET DOG! The internet has a new favorite dog. Meet $DOGGLE! Inspired by internet culture, powered by memes, and built for a community that never stops creating. \ud83d\udd25 One Dog. One Internet. Endless Memes. \ud83c\udf0e Born on Solana. Made for the World\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_ee53e73e7bd1.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_799aedee3c6a",
+      "token_name": "Luckycat Sprout",
+      "ticker": "LSCKY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LSCKY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Luckycat Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Ignore this cat and have the worst week of your life.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_799aedee3c6a.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_384414ea284e",
+      "token_name": "Quatloos Sprout",
+      "ticker": "QSTLS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'QSTLS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Quatloos Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"All proceeds donated to Hollywood Charity Horse Show\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_384414ea284e.png",
+      "added_at": "2026-11-12T21:32:46.582179+00:00",
       "completed_at": null
     }
   ]
