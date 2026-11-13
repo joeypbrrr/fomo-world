@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T04:00:08.657117+00:00",
+  "updated_at": "2026-11-13T05:14:45.640909+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2152,7 +2152,7 @@
       "concept_id": "c_ac5281a86ecb",
       "token_name": "Jensen Sprout",
       "ticker": "JSNSN",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"JENSWAN Jensen Swan\" DexScreener profile: \"JENSEN HUANG GOT THAT SWAN IN HIM\" Google News: \"Jensen Huang summoned to testify before Congress after resigning as Nvidia CEO - CNN\" (CNN).\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"JENSWAN Jensen Swan\" DexScreener profile: \"$JENSEN / $NVDA Built on FOBO. With a rising floor mechanic installed at launch. Think of this project as a \u201csucker\u201d for NVDA tokenized stock. As any crypto is used to buy, it builds the floor with NVDA stock. All s\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2432,6 +2432,58 @@
       "status": "pending",
       "image_path": "images/c_f65e9aa6d644.png",
       "added_at": "2026-11-13T04:00:08.657117+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_9e97dbba0c90",
+      "token_name": "Charity Sprout",
+      "ticker": "CSHRT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHRT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Charity Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Trade one token.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_9e97dbba0c90.png",
+      "added_at": "2026-11-13T05:14:45.640909+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_28ce7b5f26b6",
+      "token_name": "Zephyron Sprout",
+      "ticker": "ZSPHY",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ZSPHY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Zephyron Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Launch tokens with rules set in stone. The pool locks at launch, the fee can only go down, and every buyer reads the rules before the first trade.\" Wikipedia most-read includes \"Lara Stone\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_28ce7b5f26b6.png",
+      "added_at": "2026-11-13T05:14:45.640909+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_efe5c49c9c21",
+      "token_name": "Memora Sprout",
+      "ticker": "MSMRP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSMRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Memora Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The knowledge for AI Agents. Sell what you know, get paid per read in\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_efe5c49c9c21.png",
+      "added_at": "2026-11-13T05:14:45.640909+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a20cf6e1ca01",
+      "token_name": "Chicken Sprout",
+      "ticker": "CSHCK",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHCK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Chicken Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"all hail thy chicken shrimp\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a20cf6e1ca01.png",
+      "added_at": "2026-11-13T05:14:45.640909+00:00",
       "completed_at": null
     }
   ]
