@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T20:03:40.854134+00:00",
+  "updated_at": "2026-11-13T23:12:28.265368+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2035,7 +2035,7 @@
       "concept_id": "c_947fc57a5c7b",
       "token_name": "Mihao Sprout",
       "ticker": "MSHPR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Brews tea, waits patiently, then sends it.\" Google News: \"ni hao cat Price, MIHAO Price, Live Charts, and Marketcap - Coinbase Mexico - Coinbase\" (Coinbase). Google News: \"Two Nihao Cat Memecoins, MIHAO and NIHAO, Surge on Solana After Ansem Profile Change -\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Brews tea, waits patiently, then sends it.\" Google News: \"ni hao cat Price, MIHAO Price, Live Charts, and Marketcap - Coinbase Mexico - Coinbase\" (Coinbase). Google News: \"ni hao cat Price | MIHAO Price Today, Live Chart, USD converter, Market Capitalization\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2555,7 +2555,7 @@
       "concept_id": "c_658c2395f3fb",
       "token_name": "Sakura Sprout",
       "ticker": "SSKRP",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSKRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sakura Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Fees redirected to Zoo. The real one! Same zoo, same mission!\" Google News: \"Sakura Fire replaces Spicy Home Tasty 2 in Farmingville - Newsday\" (Newsday). Google News: \"Fanding Opens \u201cmiComet Company\u201d Pop-Up Store featuring Sakura Miko and Hoshimachi Suisei,\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSKRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sakura Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Fanding Opens \u201cmiComet Company\u201d Pop-Up Store featuring Sakura Miko and Hoshimachi Suisei, on November 20 - \u30db\u30ed\u30e9\u30a4\u30d6\u516c\u5f0f\" (\u30db\u30ed\u30e9\u30a4\u30d6\u516c\u5f0f). Google News: \"Sakura Fire replaces Spicy Home Tasty 2 in Farmingville - Newsday\" (Newsday).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2640,6 +2640,84 @@
       "status": "pending",
       "image_path": "images/c_418f7d0fbf7c.png",
       "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8beccafeb0ae",
+      "token_name": "Cyber Sprout",
+      "ticker": "CSYBR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSYBR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cyber Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"STAY CYBER. STAY SAFE.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8beccafeb0ae.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_344570ae4efa",
+      "token_name": "Securititty Sprout",
+      "ticker": "SSCRT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSCRT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Securititty Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Securititty ($securititty) is a meme coin starring a twin-tailed anime guard who watches over the vault while the trading floor goes wild.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_344570ae4efa.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_c81fdb08efe4",
+      "token_name": "Default Sprout",
+      "ticker": "DSFLT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSFLT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Default Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Return to Default.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_c81fdb08efe4.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_189e411f77f3",
+      "token_name": "Kosmik Sprout",
+      "ticker": "KSSMK",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'KSSMK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Kosmik Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Abliterated AI models, in your browser and on chain. Fully private. Fully anonymous.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_189e411f77f3.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_46fc87497a5b",
+      "token_name": "Peace Sprout",
+      "ticker": "PSCPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSCPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Peace Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Peace Frog by Matt Furie. Fees to SAVE THE FROGS! via @donatedotgg\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_46fc87497a5b.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_d050a2b9603a",
+      "token_name": "Blackout Sprout",
+      "ticker": "BSLCK",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSLCK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Blackout Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The world's powergrid is on the brink of being cut off.. Are you prepared? OG Blackout CTO\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d050a2b9603a.png",
+      "added_at": "2026-11-13T23:12:28.265368+00:00",
       "completed_at": null
     }
   ]
