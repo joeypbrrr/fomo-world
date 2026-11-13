@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T02:36:29.741891+00:00",
+  "updated_at": "2026-11-13T04:00:08.657117+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2152,7 +2152,7 @@
       "concept_id": "c_ac5281a86ecb",
       "token_name": "Jensen Sprout",
       "ticker": "JSNSN",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nihao Jensen ($JensenHao) is a Solana meme coin starring a cartoon Jensen Huang in a straw hat and black leather jacket, waving hello with an orange cat paw.\" DexScreener profile: \"He is starting the financial crisis because he was horny.\" Google News: \"NVID\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"JENSWAN Jensen Swan\" DexScreener profile: \"JENSEN HUANG GOT THAT SWAN IN HIM\" Google News: \"Jensen Huang summoned to testify before Congress after resigning as Nvidia CEO - CNN\" (CNN).\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2380,6 +2380,58 @@
       "status": "pending",
       "image_path": "images/c_1404c69e48c1.png",
       "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_df45bdefbd58",
+      "token_name": "Oddment Sprout",
+      "ticker": "OSDDM",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'OSDDM' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Oddment Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Oddment is a GPU reader for Solana it counts idle GPUs and waiting jobs in every Nosana market and prices one GPU hour on 4 markets\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_df45bdefbd58.png",
+      "added_at": "2026-11-13T04:00:08.657117+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_83b1349ede66",
+      "token_name": "Quiet Sparrow",
+      "ticker": "QSTPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'QSTPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Quiet Sparrow. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Biggest outage in the world has turned into a MEME. Not Microsoft 365, it is Microsoft 364 now :)\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_83b1349ede66.png",
+      "added_at": "2026-11-13T04:00:08.657117+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6b790f6e06fe",
+      "token_name": "Bawsaq Sprout",
+      "ticker": "BSWSQ",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSWSQ' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bawsaq Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Start with $10,000 in paper money, and trade Los Santos companies live. Follow breaking news, analyze trends, and complete the missions to become the best trader in town.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6b790f6e06fe.png",
+      "added_at": "2026-11-13T04:00:08.657117+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_f65e9aa6d644",
+      "token_name": "Rocco Sprout",
+      "ticker": "RSCCP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSCCP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Rocco Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Pet Rocco the GTA VI dog for +karma, scold him like a villain, then watch him wreck your getaway in Vice City. Chop who? Leonida's best boy.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_f65e9aa6d644.png",
+      "added_at": "2026-11-13T04:00:08.657117+00:00",
       "completed_at": null
     }
   ]
