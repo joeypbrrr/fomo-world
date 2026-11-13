@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-12T21:32:46.582179+00:00",
+  "updated_at": "2026-11-13T02:36:29.741891+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2263,6 +2263,123 @@
       "status": "pending",
       "image_path": "images/c_384414ea284e.png",
       "added_at": "2026-11-12T21:32:46.582179+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_00645eb3da4e",
+      "token_name": "Rocco Sprout",
+      "ticker": "RSCCP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RSCCP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Rocco Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Pet Rocco the GTA VI dog for +karma, scold him like a villain, then watch him wreck your getaway in Vice City. Chop who? Leonida's best boy.\" DexScreener profile: \"Confirmed GTA VI dog\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_00645eb3da4e.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_6a7283c94aa8",
+      "token_name": "Huang Sprout",
+      "ticker": "HSNGP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'HSNGP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Huang Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$LADIESMAN Jensen\u2019s love life has more plot twists than an NVIDIA keynote. \ud83d\ude0e\" DexScreener profile: \"He is starting the financial crisis because he was horny.\" Google News: \"NVIDIA Announces CEO Transition - NVIDIA Newsroom\" (NVIDIA Newsroom).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_6a7283c94aa8.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_72db9db9d271",
+      "token_name": "Christmax Sprout",
+      "ticker": "CSHRS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHRS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Christmax Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Christmax, otherwise known as Christmas Maxxing.\" DexScreener profile: \"24 days. Christmas surprises. A community-driven rewards pool.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_72db9db9d271.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_49bb68b6293a",
+      "token_name": "Sharkbux Sprout",
+      "ticker": "SSHRK",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSHRK' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sharkbux Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The digital currency coming to Vice City on November 19.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_49bb68b6293a.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_33b39a04055d",
+      "token_name": "Thronglets Sprout",
+      "ticker": "TSHRN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHRN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Thronglets Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$THRONG powers the Thronglets ecosystem. Hold tokens to claim your own AI agent, access Swarm Bandwidth, and unlock more compute to interact with, teach, and develop your Thronglet.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_33b39a04055d.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_b634af8099b3",
+      "token_name": "Amber Drum",
+      "ticker": "ADMBR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ADMBR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Amber Drum. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The richest dog in Vice City. Shades on, chain heavy, cops behind. Running the streets before GTA VI drops.\" Google Trends daily list includes \"vikings signing damon bankston running back\". Headline: \"Vikings sign former Green Bay Packer\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_b634af8099b3.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_26614b2ca58e",
+      "token_name": "Cinder Button",
+      "ticker": "CBNDR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CBNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cinder Button. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"jjaemu\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_26614b2ca58e.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_d5eb57f21552",
+      "token_name": "Choose Sprout",
+      "ticker": "CSHSP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHSP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Choose Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"choose life\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_d5eb57f21552.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_1404c69e48c1",
+      "token_name": "Affair Sprout",
+      "ticker": "ASFFR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASFFR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Affair Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"AI Affair Inu\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_1404c69e48c1.png",
+      "added_at": "2026-11-13T02:36:29.741891+00:00",
       "completed_at": null
     }
   ]
