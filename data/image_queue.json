@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T06:29:15.166454+00:00",
+  "updated_at": "2026-11-13T20:03:40.854134+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -1294,7 +1294,7 @@
       "concept_id": "c_b4d46f2675a7",
       "token_name": "Memecoin Sprout",
       "ticker": "MSMCN",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSMCN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Memecoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$MEME is a multi-chain memecoin launched across Solana, RH, BSC and ETH, bringing four ecosystems together under one coin. Holders receive chain-specific meme rewards for holding.\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSMCN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Memecoin Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The Greatest Memecoin Ever\"\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2035,7 +2035,7 @@
       "concept_id": "c_947fc57a5c7b",
       "token_name": "Mihao Sprout",
       "ticker": "MSHPR",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"you met me at a very Chinese time in my life\"\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSHPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mihao Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Brews tea, waits patiently, then sends it.\" Google News: \"ni hao cat Price, MIHAO Price, Live Charts, and Marketcap - Coinbase Mexico - Coinbase\" (Coinbase). Google News: \"Two Nihao Cat Memecoins, MIHAO and NIHAO, Surge on Solana After Ansem Profile Change -\"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2549,6 +2549,97 @@
       "status": "pending",
       "image_path": "images/c_fd1b1fdf51bd.png",
       "added_at": "2026-11-13T06:29:15.166454+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_658c2395f3fb",
+      "token_name": "Sakura Sprout",
+      "ticker": "SSKRP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSKRP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sakura Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Fees redirected to Zoo. The real one! Same zoo, same mission!\" Google News: \"Sakura Fire replaces Spicy Home Tasty 2 in Farmingville - Newsday\" (Newsday). Google News: \"Fanding Opens \u201cmiComet Company\u201d Pop-Up Store featuring Sakura Miko and Hoshimachi Suisei,\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_658c2395f3fb.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_aed2b3b6548b",
+      "token_name": "Wanted Sprout",
+      "ticker": "WSNTD",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSNTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wanted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Five-star chaos. Wanted level maxed. Every cop from Los Santos to Vice City to Leonida is on your tail \u2014 and you're still flooring it.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_aed2b3b6548b.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_8bb4b24802eb",
+      "token_name": "Strategy Sprout",
+      "ticker": "SSTRT",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSTRT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Strategy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Elon Strategy. SpaceX and Tesla merger talks are advancing potentially creating one of the largest public Bitcoin holders.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_8bb4b24802eb.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_9e5624640a69",
+      "token_name": "Christmax Sprout",
+      "ticker": "CSHRS",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSHRS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Christmax Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Christmax, otherwise known as Christmas Maxxing.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_9e5624640a69.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_77e2d0d9c43a",
+      "token_name": "Lucia Baddie",
+      "ticker": "LBCDD",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'LBCDD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Lucia Baddie. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Lucia the Baddie ($LUCIA) is a Solana meme coin starring a fearless getaway driver who hits the neon coast just as the sun goes down.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_77e2d0d9c43a.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_ec18e6290d7e",
+      "token_name": "Cloud Sprout",
+      "ticker": "CSLDP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSLDP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cloud Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Don\u2019t just prompt AI \u2014 architect it: Introducing the Professional Agentic Architect Certification - Google Cloud\" (Google Cloud). Google News: \"Microsoft\u2019s latest email outage turned into a full-blown global cloud crisis - TechCrunch\" (TechCrunch).\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_ec18e6290d7e.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_418f7d0fbf7c",
+      "token_name": "Desu Sprout",
+      "ticker": "DSSPR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DSSPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Desu Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"DESU DESU DESU\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_418f7d0fbf7c.png",
+      "added_at": "2026-11-13T20:03:40.854134+00:00",
       "completed_at": null
     }
   ]
