@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T05:14:45.640909+00:00",
+  "updated_at": "2026-11-13T05:44:45.640634+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2484,6 +2484,19 @@
       "status": "pending",
       "image_path": "images/c_a20cf6e1ca01.png",
       "added_at": "2026-11-13T05:14:45.640909+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_a7f7109df02a",
+      "token_name": "Marigold Sprout",
+      "ticker": "MSRGL",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSRGL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Marigold Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nividia Inu with 3% holder rewards.\" Wikipedia most-read includes \"Nvidia\".\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_a7f7109df02a.png",
+      "added_at": "2026-11-13T05:44:45.640634+00:00",
       "completed_at": null
     }
   ]
