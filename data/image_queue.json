@@ -1,6 +1,6 @@
 {
   "schema": "fomo-world.image-queue.v1",
-  "updated_at": "2026-11-13T05:44:45.640634+00:00",
+  "updated_at": "2026-11-13T06:29:15.166454+00:00",
   "note": "Pending prompts are for an external assistant to draw. FOMO World does not call an image API and does not launch tokens.",
   "items": [
     {
@@ -2152,7 +2152,7 @@
       "concept_id": "c_ac5281a86ecb",
       "token_name": "Jensen Sprout",
       "ticker": "JSNSN",
-      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"JENSWAN Jensen Swan\" DexScreener profile: \"$JENSEN / $NVDA Built on FOBO. With a rising floor mechanic installed at launch. Think of this project as a \u201csucker\u201d for NVDA tokenized stock. As any crypto is used to buy, it builds the floor with NVDA stock. All s\"",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"$JENSEN / $NVDA Built on FOBO. With a rising floor mechanic installed at launch. Think of this project as a \u201csucker\u201d for NVDA tokenized stock. As any crypto is used to buy, it builds the floor with NVDA stock. All sells or buys go to the floor, an automated \"",
       "target_width": 1000,
       "target_height": 1000,
       "format": "PNG",
@@ -2497,6 +2497,58 @@
       "status": "pending",
       "image_path": "images/c_a7f7109df02a.png",
       "added_at": "2026-11-13T05:44:45.640634+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_18d0d6f09813",
+      "token_name": "Panic Sprout",
+      "ticker": "PSNCP",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'PSNCP' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Panic Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"S42 Don't Panic\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_18d0d6f09813.png",
+      "added_at": "2026-11-13T06:29:15.166454+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_cf943716dee9",
+      "token_name": "Cult Party",
+      "ticker": "CPLTR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CPLTR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cult Party. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Cult of the Party Parrot\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_cf943716dee9.png",
+      "added_at": "2026-11-13T06:29:15.166454+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_77dee25ddf87",
+      "token_name": "Telomere Sprout",
+      "ticker": "TSLMR",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSLMR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Telomere Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Compute that agents buy for themselves. Per second, in USDC on Base.\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_77dee25ddf87.png",
+      "added_at": "2026-11-13T06:29:15.166454+00:00",
+      "completed_at": null
+    },
+    {
+      "concept_id": "c_fd1b1fdf51bd",
+      "token_name": "Desmond Moonbear",
+      "ticker": "DMSMN",
+      "prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'DMSMN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Desmond Moonbear. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"To the moon in a bear market\"\"",
+      "target_width": 1000,
+      "target_height": 1000,
+      "format": "PNG",
+      "status": "pending",
+      "image_path": "images/c_fd1b1fdf51bd.png",
+      "added_at": "2026-11-13T06:29:15.166454+00:00",
       "completed_at": null
     }
   ]
