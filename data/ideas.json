@@ -2,9 +2,9 @@
   "schema": "fomo-world.ideas.v1",
   "data_origin": "live",
   "label": "Research concepts only. These are not launched tokens.",
-  "generated_at": "2026-11-14T23:46:30.976430+00:00",
+  "generated_at": "2026-11-16T00:55:22.285922+00:00",
   "scan_interval_seconds": 1800,
-  "next_scan_at": "2026-11-15T00:16:30.976430+00:00",
+  "next_scan_at": "2026-11-16T01:25:22.285922+00:00",
   "public_url": "https://joeypbrrr.github.io/fomo-world/",
   "source_reports": [
     {
@@ -37,14 +37,14 @@
     },
     {
       "id": "dexscreener-tokens",
-      "url": "https://api.dexscreener.com/latest/dex/tokens/7R3RnGmpV9mZXwSyHyKN5LEddiZRmGsYrAZPgDJqpump,3pFWkFa9Xv2sCrSpSkx4N5VukJjEUoKF5nc6ormfpump,Hi6qQHwHBnx9uaxT3KyBxaHaUn4JTAG6ijygQbiopump,AvRSpY1rPA9iVFxYHc5D5JQW6oU5tjGQZdsW2e5upump,FLTiTwvbBRZqjkwqAqAfpX4pVZuimFwx2Qi2467zpump,AB2VsZreVvdRRtChzFip8Q6ZRTnbJ4M9bQWYbZKQpump,6N5NiqqEzBxxmbD2FHbHNhozt1VXvf22TvbbpQK6pump,2L9RzqPSwbRy7WaN7Qq1Dsq6ZjAU1t56bvFBafq8pump,7rBatsxwXiMLcz2PJjh8G45wZfHNHd4dvtBUMwsepump,F3L5V1FFLrgPpNVyWZwssxJFRTmwTtE7SgRwtsupump,8q4tzRSPrXLn4dc4qMiewVC4z4QF8Wyih9FNqp7dpump,GQBMCgxisVmdxxpu8r8fXeYmavWBG9fnHhGGGELwpump,6akHw4LmWibB1uGhrr4vUf3FKkiK1NVfXVxucEuqmine,EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump,Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump,5eLW7by17b5qMtbwxF1ingYKq8cfDT6ShtHzYEMhGHtC,AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump,FBAQACdDtHvc3m6YTSPTjQVJ6D7dzGj6XmtsWs2Ypump,3Kf7Jxy1dB5TH56qFkC6XUW9S3qtMZQJzuUPzbdMpump,AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump,BbTTSAA6arzGXt9jptoTKz2tCKDaiovv6MA5QG7Hpump,FJRrEGFzWD9v74Fj52mdqZXL8bpaZVbAaTT91QY4pump,BFpPJXpAJuGWW1Uu1DtXzeL5j9hNU4uzkt3JGWjApump,2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump,evEMtcGxN65ithiDjqNNEhut4ZhN4rvfErGEfbUpump,6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump,0xe7b1db5d4dcd1f9101860dac0a8fc72ac73df84f,5A5EcRyeAtgUJpxFrFfDhfQkvv2B2UDHzUXabe7Npump,HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump,FUJVh9hP8wCXC8grL5sy5KN1x5Mucxm8fvk1TSWkpump",
+      "url": "https://api.dexscreener.com/latest/dex/tokens/HBwmicTvYknCbzSxhqpScZfbUJFLGtndwLTCQdaCpump,5qRxJ9W45zUrUtGGDneysiRBKZaceNriEqVUei1Rpump,GD6MboptxbHBspASr5PWozgNDrZxmxJ8JpBBD8Vpump,ATLqiQSDCMCBUHjrNX4G5HushJuxDbZSN4QkKVT7pump,bdFChfD9wAM61C9iCDHkQ6eXyZqeLATjRCdXyJipump,2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump,DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump,HekGWhw6s7r8bC5F3ieeaqfV9UDu2JQMkpJCYJ5rpump,APMrRKcbSC5VKGhqaBBqZEtShh7ZpRexzJXr3mwmpump,EwLANuSwR7z9QNTXGwdsW7mFzXPiaucUBZjiXfw6pump,0x9487aa2899c08678fd6d127e8ffd1940feaa8937,Fvv62MhgjrXpvXmKcLci2HoiCAxFmSkUm1Niamvipump,C5X8tVbt8cGw7iaaEuAVGTxFVZ4uSjscmiUbVpVwpump,6cYLcSmup8ieqpA5Fzyn8mPMzixKuow7uTZJj4kCpump,5pLwNW8csEQTNH5vdBc9e6nNNkXZ2X8UgizEqR8bpump,EPm7A2YeeWHjQPSPfbQP1DadwENPA6Ai21AYchrZpump,CY254o6VPaJnTiY5uuKUB8xDjSgykC6xtoLoC3kpump,D7iafdwzzpB7tisqQqT5T9aRrYPtHLqzwxhnLoWJgoat,5peJLZQnBkXtydYYMunbT4QutSyd9eA474MqxcmEpump,FhBU2Zoo9772DZeFJWxXDszpYDUNt86gXRatiX39pump,GgDHtSGcXn5YrADnpsQSVHFAa5xLwVEuD7FWeRgvpump,8uwWqV6a8HDmqGjhgY2WewRTKG2zJtznUL5hgTfHpump,6XGN3oMrjLuWvDyvHL1VZNNPN5d7dTspD9N7LKjAnime,0xd08ab4bd4d436f9198b0368c3041fc1e89ec1aa5,4Qr4AzRRscfRX2saJHUiZDhPywQgobiiss1iBSNPpump,EdfepRX29FHVdnqpBMkUFQBHWWzYd8M7rSaUC8zYpump,HQjXLbFPkpJP1BmF55DgXj9F6614FURvGLKuyCZQpump,8Xyisy1WyHsGj8dVJ8Zyu5EcfdguZ3KnJ4MLx7i5pump,2kWx47CUrcXtzptFNnbSXKq3vo1ebqyLBhRytKRGpump,9rTgs58B3p11vXekTTgVYtv8vKxQ6oSoZFXPy4onpump",
       "ok": true,
       "status": 200,
       "error": null
     },
     {
       "id": "dexscreener-tokens",
-      "url": "https://api.dexscreener.com/latest/dex/tokens/ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump,4KXCDChFWqgKdBWzYTaZa76SJAcip8p1n5ky2Pdopump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump,D4EuJvbpnD1vd6LT2DFackhBZRRMhc8ZBTEMbGjYpump,Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump,8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump,8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump,ukWSz1Bx9ZPeQCU5UcFmP1nuVuDw1YRXNkxEphRmHj4,HDLCFjQ65QjupYFqUatHx4ynUUrpQNWaHKksfncgpump,5bzT7x5nYZx3grnRaL6cDRQuSKxEWDVwh2WUxd91pump,B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump,D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump,HEDuqMZYBdQztyF1sj1gHz6BEFWRKVdBD87AdBfgpump,0x6511c233790ec10f7d673c64dc82c3f941d57828,34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump,BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump,FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B,EcCpMnjc3wJQrCKSsyrzyJiXRwY6AZPLzSaWR2bPpump,DWsutTNJSjG5mkhGsPevvT8xbRtVYQBLZdxqxm2Upump,Cmf39V6XDhnWf4C7VMwyACBZgJX8K3ztVJ4GeUF4pump,B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump,0x39dbed3a2bd333467115de45665cc57f813c4571,0x020bfc650a365f8bb26819deaabf3e21291018b4,EQCM4DEzDVFLq7kaSodQX-8-u_aF9M9DDe1EePWsuMozqGkt,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump,0x3d4f0513e8a29669b960f9dbca61861548a9a760",
+      "url": "https://api.dexscreener.com/latest/dex/tokens/HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,66eAjoi4Wc7G38QbmE2eoqmQxiKGkSuaAAduN66Xpump,2anhKq7srLuvKDi63EyAPYyK71vSGeyTrVxTJRN4fc8N,BNWoerirvCxAU3diZ4DRJbKa2Y1zo17eyPPBwCK1pump,FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump,9cmXfuC26anZtH9AUWVzpUxU1UJ7PPogYxftYTepump,BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump,DADx8vjWitdwbYNzBZZL8AgSsxFqfGSaSeG9y32Xtfbu,4KXCDChFWqgKdBWzYTaZa76SJAcip8p1n5ky2Pdopump,CzuZYgmaTJF6MCM6vVwGYgVKzqPX2YiVSyNzzxMXpump,CXiFtcydRwRXhDp6YgUkzvjUvASFdbxHNRQfMCBfpump,4B8CdHPZ8ng1CtMP2Jk2W8wGAwJ5nJnap1deVsz2pump,0x6511c233790ec10f7d673c64dc82c3f941d57828,7jGdREhmTaGj6EVkrhmiadSSiNSvE5w6qfGccud5pump,8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump,9Em8HMyBDWfii3ZNEjWvmg9S4HoQXEp5VHQfQartpump,2tHPtosmh76mmJHeskid7nYUeHjGUQ4ZAYChwdGJpump,Ae6qahUoSbJTAwy3Qp9tNbbphawS5nyirQumfH8aBdDp,3GN46GsmAUQSpHXtY3oasJFYAbp9RBzVoR7X8ar1pump,EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump,2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump,FbLyuVG6qsdV7SiZBH5iJF6hXEko3sMJysEFwqWPpump,B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump,9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump,D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump,DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK,0xd281bf1649c5db6744d23f61bb25b05b4d1dff35,0x3e4587b12ac365407b5c5d788941eaebcfc18a1e,0xa14af51c0e9ef38bc0d0008b8c8f5508f9f3f237",
       "ok": true,
       "status": 200,
       "error": null
@@ -58,7 +58,7 @@
     },
     {
       "id": "wikipedia-mostread",
-      "url": "https://en.wikipedia.org/api/rest_v1/feed/featured/2026/11/13",
+      "url": "https://en.wikipedia.org/api/rest_v1/feed/featured/2026/11/15",
       "ok": true,
       "status": 200,
       "error": null
@@ -72,27 +72,27 @@
     },
     {
       "id": "dexscreener-search",
-      "url": "https://api.dexscreener.com/latest/dex/search?q=snoopy",
+      "url": "https://api.dexscreener.com/latest/dex/search?q=theft",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "snoopy"
+      "query": "theft"
     },
     {
       "id": "dexscreener-search",
-      "url": "https://api.dexscreener.com/latest/dex/search?q=bear",
+      "url": "https://api.dexscreener.com/latest/dex/search?q=vice",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "bear"
+      "query": "vice"
     },
     {
       "id": "dexscreener-search",
-      "url": "https://api.dexscreener.com/latest/dex/search?q=jobcoin",
+      "url": "https://api.dexscreener.com/latest/dex/search?q=gta6",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "jobcoin"
+      "query": "gta6"
     },
     {
       "id": "google-news-rss",
@@ -112,19 +112,11 @@
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=snoopy",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=bill",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "snoopy"
-    },
-    {
-      "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pons",
-      "ok": true,
-      "status": 200,
-      "error": null,
-      "query": "pons"
+      "query": "bill"
     },
     {
       "id": "google-news-rss",
@@ -136,19 +128,27 @@
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pepe",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=pons",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "pepe"
+      "query": "pons"
     },
     {
       "id": "google-news-rss",
-      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=jensen",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=socks",
       "ok": true,
       "status": 200,
       "error": null,
-      "query": "jensen"
+      "query": "socks"
+    },
+    {
+      "id": "google-news-rss",
+      "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=theft",
+      "ok": true,
+      "status": 200,
+      "error": null,
+      "query": "theft"
     }
   ],
   "sources_skipped": [
@@ -168,17 +168,17 @@
   "errors": [],
   "ideas": [
     {
-      "id": "c_feb60ffd5141",
+      "id": "c_794a922542e7",
       "classification": "META",
       "concept_kind": "beta coin",
-      "trend_name": "snoopy meta",
-      "name": "Snoopy Sprout",
-      "token_name": "Snoopy Sprout",
-      "ticker": "SSNPY",
-      "description": "Beta coin concept for the snoopy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy\u2026",
-      "reasoning": "Beta coin concept for the snoopy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy\u2026 13 trending tokens share the word 'snoopy'.",
-      "cluster_note": "13 trending tokens share the word 'snoopy'.",
-      "style_note": null,
+      "trend_name": "theft meta",
+      "name": "Theft Sprout",
+      "token_name": "Theft Sprout",
+      "ticker": "TSHFT",
+      "description": "Beta coin concept for the theft meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official G\u2026",
+      "reasoning": "Beta coin concept for the theft meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official G\u2026 14 trending tokens share the word 'theft'.",
+      "cluster_note": "14 trending tokens share the word 'theft'.",
+      "style_note": "GTA-style",
       "score": 100.0,
       "score_parts": {
         "volume": 40.0,
@@ -187,211 +187,237 @@
         "freshness": 15.0,
         "raw": 100.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 330.6%.",
-        "volume_usd": 4800904.07678532,
-        "price_change_h24": 330.558,
+        "age_basis": "24h price change 826.0%.",
+        "volume_usd": 2068663.5999999999,
+        "price_change_h24": 826.0,
         "score": 100.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "snoopy meta",
-        "why": "DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy vibes to every subway stop.\" Google News: \"Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapore\" (AugustMan Singapore). Google News: \"Snoopy Lives! - The New York Times\" (The New York Times).",
-        "meme_or_story": "DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy vibes to every subway stop.\" Google News: \"Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapore\" (AugustMan Singapore). Google News: \"Snoopy Lives! - The New York Times\" (The New York Times).",
-        "driver": "X accounts linked on the DexScreener profiles: @snoopywifhatsol. Websites linked on the profiles: https://snoopywifhat.lol. Coverage: AugustMan Singapore Coverage: The New York Times",
+        "trend_name": "theft meta",
+        "why": "DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official Grand Theft Auto VI\" Google News: \"Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian\" (The Guardian).",
+        "meme_or_story": "DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official Grand Theft Auto VI\" Google News: \"Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian\" (The Guardian).",
+        "driver": "X accounts linked on the DexScreener profiles: @fivemgta_x, @GrandTheftcrop. Websites linked on the profiles: https://fivemgta.lol/, https://x.com/i/communities/1996179120066101361. Coverage: The Guardian",
         "freshness": {
-          "started_at": "2026-10-01T12:19:30+00:00",
-          "started_at_source": "https://dexscreener.com/solana/7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn",
+          "started_at": "2026-07-05T15:49:23+00:00",
+          "started_at_source": "https://dexscreener.com/ethereum/0x75d5fe72db6e0fec7703e8806b61f6db08d2037e",
           "phase": "rising",
-          "basis": "24h price change 330.6%."
+          "basis": "24h price change 826.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "Snoopy Wif Hat profile",
-            "url": "https://dexscreener.com/solana/hi6qqhwhbnx9uaxt3kybxahaun4jtag6ijygqbiopump",
-            "snippet": "Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy vibes to every subway stop."
+            "title": "GRAND THEFT CRYPTO profile",
+            "url": "https://dexscreener.com/solana/2yxbk7v6ztksxcavk3v4kfzdtz4uywhhoyusxapjpump",
+            "snippet": "The first GTA server with real cryptocurrency integrated throughout the entire game"
+          },
+          {
+            "kind": "dexscreener_profile",
+            "title": "Official Grand Theft Auto VI profile",
+            "url": "https://dexscreener.com/solana/hqjxlbfpkpjp1bmf55dgxj9f6614furvglkuyczqpump",
+            "snippet": "Official Grand Theft Auto VI"
           },
           {
             "kind": "google_news",
-            "title": "Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapore",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGFDcDVVZ0haTmRFQlZGaklhX08wMVlWTjFVVXE5RXJUUlVYVm80cmZ5N0ZkSGpIQjV4Y2tYaXF3bEJzMjNBU0NOck5LSTJaX0ptUmhZZVFTN0ZyVy1XcFBsSTRzdGhNemxIN2dqaHRfZzl6MmNOYXJjMTJYLVVEZXdybXR0UzduNC1rWjdONEYwNEZrZnJXckZB0gGfAUFVX3lxTFBKYk02WFB2enRoNHRpRWp4UGZfX3lFb3cyRmw3U20xOWxnME9QM1dtRnZQMUx4YnhBYm5HdWtua01MTFFPc2p4YWYzR09ZcER4YUZwcUFVc2F6MHN3UzRsSVIyZ054bV9uUDZPN2tkd0dBSVc4VkJRUVYwNEw4LW9BdnppeWhiTTY1MnNnQkwxc2pGOTVKZmIxU2Y0VkxMVQ?oc=5",
-            "snippet": "Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapore"
+            "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
+            "snippet": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian"
           },
           {
             "kind": "google_news",
-            "title": "Snoopy Lives! - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVdhZUk2RXVyMnpOTmgzZm5WNk5aeG1iMHh5eUpCdl8tWVd5dWdmakc4dnpyd3Z4dGdJMm1VdERVZTdFcEk2VDRYSWhuYzMzUkhDSmloejhSV1V0WUZuUjRpRGtFV202d1Fxdy1ZZHByclpxWjZORlR1bUd6VDVBUkV3bkJ3UlpzcFhWMVgzMkxiTXBRa0VBYlBna0V3SXZIdkprUE5ONFg?oc=5",
-            "snippet": "Snoopy Lives! - The New York Times"
+            "title": "\u2018Grand Theft Auto Flu\u2019: is the whole world really taking the day off work to play GTA VI? - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlFFQ0RTVGY5RjloSGVvcHNlUUR2VEJmX1RZUU1XcWd4NGpTWjdLbkZ0enVGcjVOQTlZNE9ncFFHcnB1anRZWkdTdDYxcmJIQVg3QjlJQ0NWTlU5VmR5M2dfMXVrM2Y4NzFPQVNYMWhEV1M3LWd0S0xJbTg1cW1oWjZBRmh5SXVmT0x3YldXMnV6N09sQ0tVbkxUZE1WMHVnX3VWRVlibE0?oc=5",
+            "snippet": "\u2018Grand Theft Auto Flu\u2019: is the whole world really taking the day off work to play GTA VI? - The Guardian"
+          },
+          {
+            "kind": "wikipedia",
+            "title": "Grand Theft Auto VI",
+            "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+            "snippet": "Grand Theft Auto VI"
           }
         ],
         "match_words": [
-          "snoopy",
-          "starring",
-          "chunky",
-          "beanie",
-          "bringing",
-          "playful",
-          "vibes",
-          "every",
-          "subway"
+          "theft",
+          "fivem",
+          "grand",
+          "first",
+          "server",
+          "cryptocurrency",
+          "integrated",
+          "throughout",
+          "gtavi",
+          "built",
+          "complete",
+          "gaming"
         ]
       },
       "source_tokens": [
         {
-          "name": "Snoopy Wif Hat",
-          "symbol": "SWIF",
+          "name": "GRAND THEFT CRYPTO",
+          "symbol": "FiveM",
           "chain": "solana",
-          "address": "Hi6qQHwHBnx9uaxT3KyBxaHaUn4JTAG6ijygQbiopump",
-          "dexscreener_url": "https://dexscreener.com/solana/hi6qqhwhbnx9uaxt3kybxahaun4jtag6ijygqbiopump",
-          "volume_usd": 144481.65,
-          "market_cap_usd": 108071.0,
-          "price_change_h24": 229.0,
-          "pair_created_at": "2026-11-14T23:10:06+00:00"
+          "address": "2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump",
+          "dexscreener_url": "https://dexscreener.com/solana/2yxbk7v6ztksxcavk3v4kfzdtz4uywhhoyusxapjpump",
+          "volume_usd": 172129.96,
+          "market_cap_usd": 352265.0,
+          "price_change_h24": 826.0,
+          "pair_created_at": "2026-11-16T00:25:02+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
+          "name": "Official Grand Theft Auto VI",
+          "symbol": "GTAVI",
           "chain": "solana",
-          "address": "7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn",
-          "dexscreener_url": "https://dexscreener.com/solana/7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn",
-          "volume_usd": 4447043.20678532,
-          "market_cap_usd": 393413.1583,
-          "price_change_h24": 330.558,
-          "pair_created_at": "2026-10-01T12:19:30+00:00"
+          "address": "HQjXLbFPkpJP1BmF55DgXj9F6614FURvGLKuyCZQpump",
+          "dexscreener_url": "https://dexscreener.com/solana/hqjxlbfpkpjp1bmf55dgxj9f6614furvglkuyczqpump",
+          "volume_usd": 934581.83,
+          "market_cap_usd": 69299.0,
+          "price_change_h24": 55.14,
+          "pair_created_at": "2026-11-15T21:56:54+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0x70dba7a5681524599a21bdb74c770e99974b9777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x106178664abce006238615b2f768a0a7dc56db6095c924202b4493b407cfeac1",
-          "volume_usd": 17707.69,
-          "market_cap_usd": 25488.0,
-          "price_change_h24": 155.0,
-          "pair_created_at": "2026-11-14T16:39:18+00:00"
+          "name": "GRAND THEFT CRYPTO",
+          "symbol": "FiveM",
+          "chain": "solana",
+          "address": "8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump",
+          "dexscreener_url": "https://dexscreener.com/solana/8dblrw3zttu4qeakyybjuussaphmvabwues3ewoxpump",
+          "volume_usd": 455607.55,
+          "market_cap_usd": 33104.0,
+          "price_change_h24": 13.38,
+          "pair_created_at": "2026-11-15T21:33:38+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "SNOOPY",
+          "name": "blanket theft",
+          "symbol": "theft",
           "chain": "solana",
-          "address": "EvKz22AajjwQu2KpLM7fLpvPYCQF6XhyQbhJKzywrDtG",
-          "dexscreener_url": "https://dexscreener.com/solana/3dguiryc321hdbq25ywnvltdu2dx356usqtfwfkbtxci",
-          "volume_usd": 19699.34,
-          "market_cap_usd": 3713.37,
-          "price_change_h24": 10.68,
+          "address": "HeDCrbTnRNVsYtw6bnARk3EArCLDDooYpi1dhGzopump",
+          "dexscreener_url": "https://dexscreener.com/solana/ahszfjdxjuwmjf8jaxzrlzfqu6tlkccwlihdpdbuf8wq",
+          "volume_usd": 0.31,
+          "market_cap_usd": 446.65,
+          "price_change_h24": null,
+          "pair_created_at": "2026-11-14T12:08:26+00:00"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
+          "chain": "solana",
+          "address": "3fsDbE55AJJZSdjHmujYWV7VRTJR55EPRN1ebeqspump",
+          "dexscreener_url": "https://dexscreener.com/solana/6bcuvwuxta6ysjn9bwx66zqu2ayma2fjjdvmaret8emg",
+          "volume_usd": 53141.99,
+          "market_cap_usd": 9330.39,
+          "price_change_h24": 48.24,
+          "pair_created_at": "2026-09-12T15:59:53+00:00"
+        },
+        {
+          "name": "Grand Theft Inu",
+          "symbol": "GTI",
+          "chain": "solana",
+          "address": "2NbzHz8sKsQQ2RnwYp4RmjQMNiiEMN6E2JpqAamipump",
+          "dexscreener_url": "https://dexscreener.com/solana/gxsbcwaipvvphtsbzkexfekcghyz8efkdwug3xm54wlg",
+          "volume_usd": 235401.01,
+          "market_cap_usd": 11134.15,
+          "price_change_h24": 180.0,
+          "pair_created_at": "2026-11-15T22:25:36+00:00"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
+          "chain": "robinhood",
+          "address": "0x680450bf9fda741310ec57ebe7182ed414ca6d01",
+          "dexscreener_url": "https://dexscreener.com/robinhood/0x02444f32c581ba1b4dd2c0df918c9ddf76b82cde909cadd849ff77a737565ffe",
+          "volume_usd": 329.22,
+          "market_cap_usd": 21202.0,
+          "price_change_h24": 3.97,
+          "pair_created_at": "2026-08-13T12:07:37+00:00"
+        },
+        {
+          "name": "Grand Theft Auto",
+          "symbol": "GTA",
+          "chain": "solana",
+          "address": "2wMTr4ZttVr5tmS4wLStee59wi8f9QQfMtT2Hoispump",
+          "dexscreener_url": "https://dexscreener.com/solana/99rtagsd6vduczjwmzi4q1rradtyauynr7xsxlfesz69",
+          "volume_usd": 38539.36,
+          "market_cap_usd": 206863.0,
+          "price_change_h24": 2.31,
+          "pair_created_at": "2026-08-14T03:36:09+00:00"
+        },
+        {
+          "name": "Grand Theft Akita",
+          "symbol": "GTA",
+          "chain": "solana",
+          "address": "54uKDQpqo9mK73FMwJm2hw5DikU9smPJhA1RvmGHpump",
+          "dexscreener_url": "https://dexscreener.com/solana/67mxvndfnyd4cf46hdorvb7xfnh3utjexsgxeqgf8xkx",
+          "volume_usd": 59377.45,
+          "market_cap_usd": 4196.54,
+          "price_change_h24": 14.12,
+          "pair_created_at": "2026-11-15T22:26:38+00:00"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
+          "chain": "solana",
+          "address": "D5zr95SM5aEMPUaBiayCvudnhspYnGuUuCi3d1QePR2V",
+          "dexscreener_url": "https://dexscreener.com/solana/gohqmeewqvpeftdm2vcoxh6knum4rmkm6xc2xa9vc67t",
+          "volume_usd": 59524.61,
+          "market_cap_usd": 4530.21,
+          "price_change_h24": 51.37,
           "pair_created_at": null
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0x051816832296641823fe664854e45e4680c4d777",
-          "dexscreener_url": "https://dexscreener.com/arc/0xa2d2af70eb7cd3b97bbc32359cc363c571fea3d1a6a444f46d2a3ffc2c2ecd3d",
-          "volume_usd": 18464.66,
-          "market_cap_usd": 23486.0,
-          "price_change_h24": 135.0,
-          "pair_created_at": "2026-11-14T03:50:09+00:00"
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
+          "chain": "ethereum",
+          "address": "0x2e5ef97c96d6a44ccb8db9c30f2f5dcec04bb6f9",
+          "dexscreener_url": "https://dexscreener.com/ethereum/0x75d5fe72db6e0fec7703e8806b61f6db08d2037e",
+          "volume_usd": 213.83,
+          "market_cap_usd": 7104590.0,
+          "price_change_h24": 5.25,
+          "pair_created_at": "2026-07-05T15:49:23+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
           "chain": "arc",
-          "address": "0xfe68605aa455591c253103cf26a2636fe32e8777",
-          "dexscreener_url": "https://dexscreener.com/arc/0xb8fe4614ed43dffebaa6fd95f25004e017da3c316aac1f765d9d18df69f32c10",
-          "volume_usd": 15330.57,
-          "market_cap_usd": 22947.0,
-          "price_change_h24": 129.0,
-          "pair_created_at": "2026-11-14T16:21:10+00:00"
+          "address": "0xf4fce23999f35546d933045b422c92bbdaf4e777",
+          "dexscreener_url": "https://dexscreener.com/arc/0x4aacc75d5889d4a0e22b7a893fa3487325a1b9f7c227b80e5e85e7f83bfbc2b1",
+          "volume_usd": 18491.29,
+          "market_cap_usd": 24889.0,
+          "price_change_h24": 149.0,
+          "pair_created_at": "2026-11-15T16:17:45+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
           "chain": "arc",
-          "address": "0xdb73c6141744ab23798f5b5bdefa504b0d75a777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x147f24d9146a129af7942b8d721bd8e226254e5695345a23cd4eed51ee7e67ec",
-          "volume_usd": 17415.91,
-          "market_cap_usd": 22504.0,
-          "price_change_h24": 125.0,
-          "pair_created_at": "2026-11-14T17:27:41+00:00"
+          "address": "0x491aad6a4a4369eb674b1bfb7b40b271bc707777",
+          "dexscreener_url": "https://dexscreener.com/arc/0x95a7d21200685ae8bff1086856ff6d5b4c664a1365e913384fc7c585b5369a83",
+          "volume_usd": 20074.46,
+          "market_cap_usd": 21617.0,
+          "price_change_h24": 209.0,
+          "pair_created_at": "2026-11-15T10:58:09+00:00"
         },
         {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
+          "name": "Grand Theft Auto VI",
+          "symbol": "GTAVI",
           "chain": "arc",
-          "address": "0x4d49f10516f7ba42dab5a80f3336356b3010e777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x92148220536266d9289a40ebf639d87f5c8f420452c65f0025aede23e99a0a83",
-          "volume_usd": 15977.93,
-          "market_cap_usd": 21145.0,
-          "price_change_h24": 111.0,
-          "pair_created_at": "2026-11-14T03:57:12+00:00"
-        },
-        {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0x000ed46ca36c8a4da7fb3ba18c1f4a8ca8857777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x51df98209e90e106ed91292f43d087ff711d96789d822613f3ae6df40af83cca",
-          "volume_usd": 21071.9,
-          "market_cap_usd": 21170.0,
-          "price_change_h24": 202.0,
-          "pair_created_at": "2026-11-14T16:57:56+00:00"
-        },
-        {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0xca8a675f0819fe84bbb88e9779537d2634b84777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x63512bf47b4e9eb9b49b325caa4c2efcb59105d9dec4ee7c61197798e176ab9d",
-          "volume_usd": 13358.26,
-          "market_cap_usd": 20113.0,
-          "price_change_h24": 101.0,
-          "pair_created_at": "2026-11-14T18:13:01+00:00"
-        },
-        {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0xc8c1a5ced955a6267552a75bf73bbf3a788b7777",
-          "dexscreener_url": "https://dexscreener.com/arc/0x10714f8fad4f9a2e90c30977e0a84434b1cbf1f0ffa2f7e8cbab8f420e315ac4",
-          "volume_usd": 21483.66,
-          "market_cap_usd": 20555.0,
-          "price_change_h24": 194.0,
-          "pair_created_at": "2026-11-14T17:17:47+00:00"
-        },
-        {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "arc",
-          "address": "0xbf4fe01bfe2c337093b3d74b278b549701b91777",
-          "dexscreener_url": "https://dexscreener.com/arc/0xf8024ebbc80348ce592184c0ac0efdd7b1ad092c8b02df605591741f67bcd43f",
-          "volume_usd": 11209.14,
-          "market_cap_usd": 18828.0,
-          "price_change_h24": 88.27,
-          "pair_created_at": "2026-11-14T15:03:52+00:00"
-        },
-        {
-          "name": "Snoopy",
-          "symbol": "Snoopy",
-          "chain": "robinhood",
-          "address": "0x0853d4ae109e5962b851986c8f8650db407c7777",
-          "dexscreener_url": "https://dexscreener.com/robinhood/0x61dde0866f89154e5906a44367448cd69b6657240c832cab85996870862ebe8e",
-          "volume_usd": 37660.16,
-          "market_cap_usd": 38833.0,
-          "price_change_h24": 301.0,
-          "pair_created_at": "2026-11-14T14:09:48+00:00"
+          "address": "0x5b39a38ebca3e1c803721b6b7e7eff04a0967777",
+          "dexscreener_url": "https://dexscreener.com/arc/0xa721886fc6aeca49f8cc74dc85f3def20913e1acda6c8578d61755663b076dac",
+          "volume_usd": 21250.73,
+          "market_cap_usd": 21478.0,
+          "price_change_h24": 207.0,
+          "pair_created_at": "2026-11-15T16:18:00+00:00"
         }
       ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Snoopy Sprout ($SSNPY) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the snoopy meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy\u2026\n\nWhy it's trending: DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy vibes to every subway stop.\" Google News: \"Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapore\" (AugustMan Singapore). Google News: \"Snoopy Lives! - The New York Times\" (The New York Times).\nDriver: X accounts linked on the DexScreener profiles: @snoopywifhatsol. Websites linked on the profiles: https://snoopywifhat.lol. Coverage: AugustMan Singapore Coverage: The New York Times\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Theft Sprout ($TSHFT) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the theft meta. GTA-style derivative, not an official product. Riffs on sourced context: DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official G\u2026\n\nWhy it's trending: DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official Grand Theft Auto VI\" Google News: \"Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian\" (The Guardian).\nDriver: X accounts linked on the DexScreener profiles: @fivemgta_x, @GrandTheftcrop. Websites linked on the profiles: https://fivemgta.lol/, https://x.com/i/communities/1996179120066101361. Coverage: The Guardian\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_feb60ffd5141",
-        "palette": 2,
-        "body": 3,
-        "ears": 0,
-        "accent": 3
+        "seed": "c_794a922542e7",
+        "palette": 0,
+        "body": 1,
+        "ears": 1,
+        "accent": 1
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSNPY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Snoopy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing playful paws and cozy vibes to every subway stop.\" Google News: \"Snoopy Turns Into \u2018Joe Cool\u2019 For Timberland x \u2018Peanuts\u2019 6-Inch Waterproof Boot - AugustMan Singapo\"",
-      "image_file": "images/c_feb60ffd5141.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHFT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Theft Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener profile: \"Official Grand Theft Auto VI\" Google News: \"Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - Th\"",
+      "image_file": "images/c_794a922542e7.png",
       "rank": 1
     },
     {
@@ -402,8 +428,8 @@
       "name": "Wasted Sprout",
       "token_name": "Wasted Sprout",
       "ticker": "WSSTD",
-      "description": "Beta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBoo\u2026",
-      "reasoning": "Beta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBoo\u2026 2 trending tokens share the word 'wasted'.",
+      "description": "Beta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CB\u2026",
+      "reasoning": "Beta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CB\u2026 2 trending tokens share the word 'wasted'.",
       "cluster_note": "2 trending tokens share the word 'wasted'.",
       "style_note": null,
       "score": 88.0,
@@ -414,35 +440,35 @@
         "freshness": 15.0,
         "raw": 88.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 173.2%.",
-        "volume_usd": 6187892.18794778,
-        "price_change_h24": 173.182,
+        "age_basis": "24h price change 217587.4%.",
+        "volume_usd": 3617742.5542025603,
+        "price_change_h24": 217587.402,
         "score": 88.0
       },
       "trend_context": {
         "status": "sourced",
         "trend_name": "wasted meta",
-        "why": "Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBook.com). Google News: \"WWE Has Wasted Gunther's Entire Year - TheSportster\" (TheSportster).",
-        "meme_or_story": "Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBook.com). Google News: \"WWE Has Wasted Gunther's Entire Year - TheSportster\" (TheSportster).",
-        "driver": "Coverage: ComicBook.com Coverage: TheSportster",
+        "why": "Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CBS News). Google News: \"ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian\" (The Guardian).",
+        "meme_or_story": "Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CBS News). Google News: \"ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian\" (The Guardian).",
+        "driver": "Coverage: CBS News Coverage: The Guardian",
         "freshness": {
           "started_at": "2026-10-30T18:09:35+00:00",
           "started_at_source": "https://dexscreener.com/solana/GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
           "phase": "rising",
-          "basis": "24h price change 173.2%."
+          "basis": "24h price change 217587.4%."
         },
         "sources": [
           {
             "kind": "google_news",
-            "title": "The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREtueC1Uc1YxU2I4bVNNdWlSTmV1R0Rhb0FEMnNoSlVhZW1SQzdfNktSeWpqYXJoOXkzb3o4a2xhOEcwUExvdXpPYjlWazJ5YzlpX0plaFlOdnUtODU4NGdPSFZ0TmdzU0JzZ1pGN1pQZDFHOGVMdnpvVjdRNVc5c1BCSDBWM1FwNzgxcTZsRWtDWHNPSlpza1cxYkRrMmpUczdWX1czWnkzaURvWlprTlozM1Nlby1zbFU4U3Vfczc2RVdfQm13dEZycGQzQQ?oc=5",
-            "snippet": "The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com"
+            "title": "ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YY1U3QUtYbWp3dlViZWhrVDAzMU1pTlNhOGdWY3ZYMHF4eWRCXzdJeXVZOXctemt2Xzhnc2lWVldJQnFtLWRzWkJLMFhNOXFLTnRHNmo1ZzZGZDNvUkpLRFA3bFhJc1cxWlFSdzl2MmpBYTV1SEtqMVlWQTA?oc=5",
+            "snippet": "ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News"
           },
           {
             "kind": "google_news",
-            "title": "WWE Has Wasted Gunther's Entire Year - TheSportster",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmF4U1VPOUlrUjY3X05xeGRrclY2MkhrTjBRWVRzby1KQ1lpYTRuMlk2RXdYUlV4aXRKcWNOWm9xOXRJUG1vRFJGR1NCNHUydGVYWG1hRUpsU0VIeFpZSjBiVk1nWHF3bmRIUkdrYUtkUEU4OGtrczRNcS1GMm12SnNQYw?oc=5",
-            "snippet": "WWE Has Wasted Gunther's Entire Year - TheSportster"
+            "title": "ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFUwa1VVRW5YempvMmliZ2pMa1JYYWpSRUVnTjVJYXVQM3pYRVJtWk5NcTRLbGZ5S1Rvcl9hbUxYUXJhWnZud3FRY2V3UDJQNFpwTlJ2dmRxYUs2cmJlaE1sVUJMdHQ3WUJhZEplZ2lrNnJwNXBudlE3OFlIQXBYcA?oc=5",
+            "snippet": "ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian"
           }
         ],
         "match_words": [
@@ -456,25 +482,25 @@
           "chain": "solana",
           "address": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
           "dexscreener_url": "https://dexscreener.com/solana/GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
-          "volume_usd": 2193125.54649215,
-          "market_cap_usd": 4999457.3589748,
-          "price_change_h24": 173.182,
+          "volume_usd": 1224305.51535637,
+          "market_cap_usd": 4689319.91842706,
+          "price_change_h24": -12.354,
           "pair_created_at": "2026-10-30T18:09:35+00:00"
         },
         {
           "name": "WASTED",
           "symbol": "WASTED",
           "chain": "eth",
-          "address": "0xe4706809d3878fffb619fd492eb9e63d9b772581",
-          "dexscreener_url": "https://dexscreener.com/eth/0xe4706809d3878fffb619fd492eb9e63d9b772581",
-          "volume_usd": 3994766.64145563,
-          "market_cap_usd": 4176963.721,
-          "price_change_h24": 71.324,
-          "pair_created_at": "2026-11-13T08:55:47+00:00"
+          "address": "0x0f08046cf0f51616be643f8434232c51c2189edc",
+          "dexscreener_url": "https://dexscreener.com/eth/0x0f08046cf0f51616be643f8434232c51c2189edc",
+          "volume_usd": 2393437.03884619,
+          "market_cap_usd": 4517456.538,
+          "price_change_h24": 217587.402,
+          "pair_created_at": "2026-11-15T00:51:35+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Wasted Sprout ($WSSTD) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBoo\u2026\n\nWhy it's trending: Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBook.com). Google News: \"WWE Has Wasted Gunther's Entire Year - TheSportster\" (TheSportster).\nDriver: Coverage: ComicBook.com Coverage: TheSportster\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Wasted Sprout ($WSSTD) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the wasted meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CB\u2026\n\nWhy it's trending: Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CBS News). Google News: \"ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian\" (The Guardian).\nDriver: Coverage: CBS News Coverage: The Guardian\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
         "seed": "c_436c1724b6b4",
         "palette": 5,
@@ -482,21 +508,21 @@
         "ears": 2,
         "accent": 0
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - ComicBook.com\" (ComicBook.com). Google News: \"WWE Has Wasted Gunther's Entire Year - TheSportster\" (TheSportster).\"",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'WSSTD' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Wasted Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog finds - CBS News\" (CBS News). Google News: \"ICE has wasted tens of millions to carry out Trump\u2019s mass detention agenda \u2013 report - The Guardian\" (The Guardian).\"",
       "image_file": "images/c_436c1724b6b4.png",
       "rank": 2
     },
     {
-      "id": "c_241787ee2fe9",
+      "id": "c_fb3f73a49f12",
       "classification": "META",
       "concept_kind": "beta coin",
-      "trend_name": "bear meta",
-      "name": "Bear Sprout",
-      "token_name": "Bear Sprout",
-      "ticker": "BSRPR",
-      "description": "Beta coin concept for the bear meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"",
-      "reasoning": "Beta coin concept for the bear meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\" 2 trending tokens share the word 'bear'.",
-      "cluster_note": "2 trending tokens share the word 'bear'.",
+      "trend_name": "vice meta",
+      "name": "Vice Sprout",
+      "token_name": "Vice Sprout",
+      "ticker": "VSCPR",
+      "description": "Beta coin concept for the vice meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Vice Inu\"",
+      "reasoning": "Beta coin concept for the vice meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Vice Inu\" 2 trending tokens share the word 'vice'.",
+      "cluster_note": "2 trending tokens share the word 'vice'.",
       "style_note": null,
       "score": 88.0,
       "score_parts": {
@@ -506,86 +532,84 @@
         "freshness": 15.0,
         "raw": 88.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 119.0%.",
-        "volume_usd": 332441.29,
-        "price_change_h24": 119.0,
+        "age_basis": "24h price change 670.0%.",
+        "volume_usd": 819407.9800000001,
+        "price_change_h24": 670.0,
         "score": 88.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "bear meta",
-        "why": "DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"",
-        "meme_or_story": "DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"",
-        "driver": "X accounts linked on the DexScreener profiles: @humanevolvd, @trencherdeploy.",
+        "trend_name": "vice meta",
+        "why": "DexScreener profile: \"Vice Inu\"",
+        "meme_or_story": "DexScreener profile: \"Vice Inu\"",
+        "driver": "X accounts linked on the DexScreener profiles: @BawsaqMemeX, @Wintalt. Websites linked on the profiles: https://bawsaq.space, https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection.",
         "freshness": {
-          "started_at": "2026-11-14T23:05:30+00:00",
-          "started_at_source": "https://dexscreener.com/solana/fltitwvbbrzqjkwqaqafpx4pvzuimfwx2qi2467zpump",
+          "started_at": "2026-11-15T23:49:51+00:00",
+          "started_at_source": "https://dexscreener.com/solana/6cylcsmup8ieqpa5fzyn8mpmzixkuow7utzjj4kcpump",
           "phase": "rising",
-          "basis": "24h price change 119.0%."
+          "basis": "24h price change 670.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "BEAR profile",
-            "url": "https://dexscreener.com/solana/fltitwvbbrzqjkwqaqafpx4pvzuimfwx2qi2467zpump",
-            "snippet": "BEAR ON USDC! 9% SUPPLY BURNED"
+            "title": "Vice Inu profile",
+            "url": "https://dexscreener.com/solana/6cylcsmup8ieqpa5fzyn8mpmzixkuow7utzjj4kcpump",
+            "snippet": "Vice Inu"
           }
         ],
         "match_words": [
-          "bear",
-          "black",
-          "supply",
-          "burned"
+          "vice",
+          "bawsaq"
         ]
       },
       "source_tokens": [
         {
-          "name": "The Black Bear",
-          "symbol": "Bear",
+          "name": "The Vice City Bawsaq",
+          "symbol": "BAWSAQ",
           "chain": "solana",
-          "address": "AvRSpY1rPA9iVFxYHc5D5JQW6oU5tjGQZdsW2e5upump",
-          "dexscreener_url": "https://dexscreener.com/solana/avrspy1rpa9ivfxyhc5d5jqw6ou5tjgqzdsw2e5upump",
-          "volume_usd": 219231.18,
-          "market_cap_usd": 60417.0,
-          "price_change_h24": 119.0,
-          "pair_created_at": "2026-11-14T23:19:06+00:00"
+          "address": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+          "dexscreener_url": "https://dexscreener.com/solana/dtjbha1nttzsp6fxkrhwwd4e3clcd5trkwhsv8ivpump",
+          "volume_usd": 792471.42,
+          "market_cap_usd": 689633.0,
+          "price_change_h24": 670.0,
+          "pair_created_at": "2026-11-16T00:10:21+00:00"
         },
         {
-          "name": "BEAR",
-          "symbol": "BEAR",
+          "name": "Vice Inu",
+          "symbol": "VI",
           "chain": "solana",
-          "address": "FLTiTwvbBRZqjkwqAqAfpX4pVZuimFwx2Qi2467zpump",
-          "dexscreener_url": "https://dexscreener.com/solana/fltitwvbbrzqjkwqaqafpx4pvzuimfwx2qi2467zpump",
-          "volume_usd": 113210.11,
-          "market_cap_usd": 8289.1,
-          "price_change_h24": 15.31,
-          "pair_created_at": "2026-11-14T23:05:30+00:00"
+          "address": "6cYLcSmup8ieqpA5Fzyn8mPMzixKuow7uTZJj4kCpump",
+          "dexscreener_url": "https://dexscreener.com/solana/6cylcsmup8ieqpa5fzyn8mpmzixkuow7utzjj4kcpump",
+          "volume_usd": 26936.56,
+          "market_cap_usd": 3195.58,
+          "price_change_h24": -17.44,
+          "pair_created_at": "2026-11-15T23:49:51+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Bear Sprout ($BSRPR) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the bear meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"\n\nWhy it's trending: DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"\nDriver: X accounts linked on the DexScreener profiles: @humanevolvd, @trencherdeploy.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Vice Sprout ($VSCPR) \u2014 unofficial concept from FOMO World.\n\nBeta coin concept for the vice meta. A derivative riff, not a copy of the source tickers. Riffs on sourced context: DexScreener profile: \"Vice Inu\"\n\nWhy it's trending: DexScreener profile: \"Vice Inu\"\nDriver: X accounts linked on the DexScreener profiles: @BawsaqMemeX, @Wintalt. Websites linked on the profiles: https://bawsaq.space, https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_241787ee2fe9",
+        "seed": "c_fb3f73a49f12",
         "palette": 4,
-        "body": 3,
-        "ears": 1,
-        "accent": 3
+        "body": 1,
+        "ears": 2,
+        "accent": 2
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BSRPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Bear Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\"\"",
-      "image_file": "images/c_241787ee2fe9.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'VSCPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Vice Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Vice Inu\"\"",
+      "image_file": "images/c_fb3f73a49f12.png",
       "rank": 3
     },
     {
-      "id": "c_769104c38c92",
+      "id": "c_632a1fa7c3f8",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "Jensen Huang launchpad",
-      "name": "Jensen Sprout",
-      "token_name": "Jensen Sprout",
-      "ticker": "JSNSN",
-      "description": "Launchpad concept revolving around Jensen Huang (JENSEN). Riffs on sourced context: Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secre\u2026",
-      "reasoning": "Launchpad concept revolving around Jensen Huang (JENSEN). Riffs on sourced context: Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secre\u2026 Single trending token JENSEN \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token JENSEN \u2014 treated as a launchpad opportunity.",
+      "trend_name": "Socks Neobank launchpad",
+      "name": "Socks Sprout",
+      "token_name": "Socks Sprout",
+      "ticker": "SSCKS",
+      "description": "Launchpad concept revolving around Socks Neobank (Socks). Riffs on sourced context: DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks car\u2026",
+      "reasoning": "Launchpad concept revolving around Socks Neobank (Socks). Riffs on sourced context: DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks car\u2026 Single trending token Socks \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token Socks \u2014 treated as a launchpad opportunity.",
       "style_note": null,
       "score": 80.0,
       "score_parts": {
@@ -595,35 +619,127 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 270.0%.",
-        "volume_usd": 2742740.95,
-        "price_change_h24": 270.0,
+        "age_basis": "24h price change 395.5%.",
+        "volume_usd": 2227099.51173686,
+        "price_change_h24": 395.457,
         "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "Jensen Huang launchpad",
-        "why": "Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times\" (The New York Times). Wikipedia most-read includes \"Jensen Huang\".",
-        "meme_or_story": "Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times\" (The New York Times). Wikipedia most-read includes \"Jensen Huang\".",
-        "driver": "X accounts linked on the DexScreener profiles: @JensenHuangMeme. Websites linked on the profiles: https://jensenhuang.live. Coverage: The New York Times",
+        "trend_name": "Socks Neobank launchpad",
+        "why": "DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks card with supported Solana assets, including stocks, RWAs, memecoins and more. Spend through supported mobile wallets and bring your onchain assets into the real world. \u2022 Reduced fees: $SOCKS holders will b\" Google News: \"Scientists Developed Foot-Stiffening Socks That Could Make Walking Less Tiring - ScienceAlert\" (ScienceAlert). Google News: \"These are the best arch-support socks for all-day comfort, according to podiatrists - CNN\" (CNN).",
+        "meme_or_story": "DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks card with supported Solana assets, including stocks, RWAs, memecoins and more. Spend through supported mobile wallets and bring your onchain assets into the real world. \u2022 Reduced fees: $SOCKS holders will b\" Google News: \"Scientists Developed Foot-Stiffening Socks That Could Make Walking Less Tiring - ScienceAlert\" (ScienceAlert). Google News: \"These are the best arch-support socks for all-day comfort, according to podiatrists - CNN\" (CNN).",
+        "driver": "X accounts linked on the DexScreener profiles: @SocksDotFun. Telegram links on the profiles: 1. Websites linked on the profiles: https://www.thesocks.fun/. Coverage: ScienceAlert Coverage: CNN",
         "freshness": {
-          "started_at": "2026-11-14T00:53:43+00:00",
-          "started_at_source": "https://dexscreener.com/solana/b2ypp21vqbesj2jtnuhpujeut61kvrxz2x5gsdcupump",
+          "started_at": "2026-11-15T09:45:43+00:00",
+          "started_at_source": "https://dexscreener.com/solana/fs1pbmzkp2qw1atc64golamhstecaos9ot8bgpgdpump",
           "phase": "rising",
-          "basis": "24h price change 270.0%."
+          "basis": "24h price change 395.5%."
         },
         "sources": [
           {
-            "kind": "google_news",
-            "title": "Tech Leaders Rally Behind Jensen Huang - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmRyS2taLTh6OWp4U3FWcnVwYzBqaDZBVzkzTkRIMkpfVlBmTUpIMUtmeUtVcnJma1kwcnlPdDd0akhqZE9NaHJpMTB0WWdEd2xNMldmUDJ6VjNqZHl3a0wxVVVKY19JeHpCSFRYZWFvcVRvcFJwWVdrTlJwTm5HV1NzNGlKY2YzYUx3RFBR?oc=5",
-            "snippet": "Tech Leaders Rally Behind Jensen Huang - The New York Times"
+            "kind": "dexscreener_profile",
+            "title": "Socks Neobank profile",
+            "url": "https://dexscreener.com/solana/fs1pbmzkp2qw1atc64golamhstecaos9ot8bgpgdpump",
+            "snippet": "Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks card with supported Solana assets, including stocks, RWAs, memecoins and more. Spend through supported mobile wallets and bring your onchain assets into the real world. \u2022 Reduced fees: $SOCKS holders will b"
           },
           {
             "kind": "google_news",
-            "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
-            "snippet": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times"
+            "title": "Scientists Developed Foot-Stiffening Socks That Could Make Walking Less Tiring - ScienceAlert",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGxJU2Y0T3NWYlg4V0lMN0ZVN1VUdkQ0LVdGcUlrMW9MRVloMHhJQk9ySzl5Q0Y1Zm1RYUtqX1JNUzFlR0k0OXVkckdBSk92MDlHLW0tUVVHN1QtUnNNYTlQb3NsV1F5SU1fNHlnS08yalk2UUU3TUZWdWVLM1c0V0tfc3REd0lJMDZBREl1Y3Bvb2gzVFVRLVRhOUdUYW82bzVCWkhQbWVheXM?oc=5",
+            "snippet": "Scientists Developed Foot-Stiffening Socks That Could Make Walking Less Tiring - ScienceAlert"
+          },
+          {
+            "kind": "google_news",
+            "title": "These are the best arch-support socks for all-day comfort, according to podiatrists - CNN",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZWlRWEMyNHRnYXpteElkV0lIVlJHb0JWeG5YVjlVYUgxeU8tLTVuUE9CYVc5SlJkd001U0paTm0zWVVLRlgxbVJqYUptQUVVZzVKTlJHTVJKRGtjTHVzVXppUDdCNGlVQndZSnZ5VGUxZVB6S25KdTExUXUyeDg?oc=5",
+            "snippet": "These are the best arch-support socks for all-day comfort, according to podiatrists - CNN"
+          }
+        ],
+        "match_words": [
+          "socks",
+          "neobank",
+          "powered",
+          "spending",
+          "platform",
+          "designed",
+          "bring",
+          "assets",
+          "everyday",
+          "payments",
+          "supported",
+          "including"
+        ]
+      },
+      "source_tokens": [
+        {
+          "name": "Socks Neobank",
+          "symbol": "Socks",
+          "chain": "solana",
+          "address": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump",
+          "dexscreener_url": "https://dexscreener.com/solana/fs1pbmzkp2qw1atc64golamhstecaos9ot8bgpgdpump",
+          "volume_usd": 2227099.51173686,
+          "market_cap_usd": 152139.7078,
+          "price_change_h24": 395.457,
+          "pair_created_at": "2026-11-15T09:45:43+00:00"
+        }
+      ],
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Socks Sprout ($SSCKS) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Socks Neobank (Socks). Riffs on sourced context: DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks car\u2026\n\nWhy it's trending: DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks card with supported Solana assets, including stocks, RWAs, memecoins and more. Spend through supported mobile wallets and bring your onchain assets into the real world. \u2022 Reduced fees: $SOCKS holders will b\" Google News: \"Scientists Developed Foot-Stiffening Socks That Could Make Walking Less Tiring - ScienceAlert\" (ScienceAlert). Google News: \"These are the best arch-support socks for all-day comfort, according to podiatrists - CNN\" (CNN).\nDriver: X accounts linked on the DexScreener profiles: @SocksDotFun. Telegram links on the profiles: 1. Websites linked on the profiles: https://www.thesocks.fun/. Coverage: ScienceAlert Coverage: CNN\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "art": {
+        "seed": "c_632a1fa7c3f8",
+        "palette": 2,
+        "body": 1,
+        "ears": 0,
+        "accent": 2
+      },
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSCKS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Socks Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Socks, a Solana-powered spending platform designed to bring crypto assets into everyday payments. Fund your Socks card with supported Solana assets, including stocks, RWAs, memecoins and more. Spend through supported mobile wallets and bring your onchain ass\"",
+      "image_file": "images/c_632a1fa7c3f8.png",
+      "rank": 4
+    },
+    {
+      "id": "c_74b99d583da8",
+      "classification": "LAUNCHPAD",
+      "concept_kind": "launchpad",
+      "trend_name": "NVIDIA Cat launchpad",
+      "name": "Ripple Comet",
+      "token_name": "Ripple Comet",
+      "ticker": "RCPPL",
+      "description": "Launchpad concept revolving around NVIDIA Cat (NCAT). Riffs on sourced context: DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Hua\u2026",
+      "reasoning": "Launchpad concept revolving around NVIDIA Cat (NCAT). Riffs on sourced context: DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Hua\u2026 Single trending token NCAT \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token NCAT \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 80.0,
+      "score_parts": {
+        "volume": 40.0,
+        "momentum": 25.0,
+        "breadth": 0.0,
+        "freshness": 15.0,
+        "raw": 80.0,
+        "context_factor": 1.0,
+        "age_basis": "24h price change 3790.0%.",
+        "volume_usd": 665436.17,
+        "price_change_h24": 3790.0,
+        "score": 80.0
+      },
+      "trend_context": {
+        "status": "sourced",
+        "trend_name": "NVIDIA Cat launchpad",
+        "why": "DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Huang\".",
+        "meme_or_story": "DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Huang\".",
+        "driver": "X accounts linked on the DexScreener profiles: @FT, @duhscat.",
+        "freshness": {
+          "started_at": "2026-11-15T22:35:07+00:00",
+          "started_at_source": "https://dexscreener.com/robinhood/0xd08ab4bd4d436f9198b0368c3041fc1e89ec1aa5",
+          "phase": "rising",
+          "basis": "24h price change 3790.0%."
+        },
+        "sources": [
+          {
+            "kind": "dexscreener_profile",
+            "title": "NVIDIA Cat profile",
+            "url": "https://dexscreener.com/robinhood/0xd08ab4bd4d436f9198b0368c3041fc1e89ec1aa5",
+            "snippet": "Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run."
           },
           {
             "kind": "wikipedia",
@@ -633,125 +749,50 @@
           }
         ],
         "match_words": [
+          "nvidia",
           "jensen",
-          "huang"
+          "coming",
+          "perfect",
+          "narrative"
         ]
       },
       "source_tokens": [
         {
-          "name": "Jensen Huang",
-          "symbol": "JENSEN",
-          "chain": "solana",
-          "address": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump",
-          "dexscreener_url": "https://dexscreener.com/solana/b2ypp21vqbesj2jtnuhpujeut61kvrxz2x5gsdcupump",
-          "volume_usd": 2742740.95,
-          "market_cap_usd": 327880.0,
-          "price_change_h24": 270.0,
-          "pair_created_at": "2026-11-14T00:53:43+00:00"
+          "name": "NVIDIA Cat",
+          "symbol": "NCAT",
+          "chain": "robinhood",
+          "address": "0xd08ab4bd4d436f9198b0368c3041fc1e89ec1aa5",
+          "dexscreener_url": "https://dexscreener.com/robinhood/0xd08ab4bd4d436f9198b0368c3041fc1e89ec1aa5",
+          "volume_usd": 665436.17,
+          "market_cap_usd": 213670.0,
+          "price_change_h24": 3790.0,
+          "pair_created_at": "2026-11-15T22:35:07+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Jensen Sprout ($JSNSN) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Jensen Huang (JENSEN). Riffs on sourced context: Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secre\u2026\n\nWhy it's trending: Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times\" (The New York Times). Wikipedia most-read includes \"Jensen Huang\".\nDriver: X accounts linked on the DexScreener profiles: @JensenHuangMeme. Websites linked on the profiles: https://jensenhuang.live. Coverage: The New York Times\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Ripple Comet ($RCPPL) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around NVIDIA Cat (NCAT). Riffs on sourced context: DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Hua\u2026\n\nWhy it's trending: DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Huang\".\nDriver: X accounts linked on the DexScreener profiles: @FT, @duhscat.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_769104c38c92",
+        "seed": "c_74b99d583da8",
         "palette": 4,
-        "body": 1,
-        "ears": 0,
-        "accent": 3
-      },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'JSNSN' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Jensen Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"Google News: \"Tech Leaders Rally Behind Jensen Huang - The New York Times\" (The New York Times). Google News: \"Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. - The New York Times\" (The New York Times). Wikipedia most-read includes \"Jensen Huang\".\"",
-      "image_file": "images/c_769104c38c92.png",
-      "rank": 4
-    },
-    {
-      "id": "c_2e36febc4dfe",
-      "classification": "LAUNCHPAD",
-      "concept_kind": "launchpad",
-      "trend_name": "NUREMBERG launchpad",
-      "name": "Nuremberg Sprout",
-      "token_name": "Nuremberg Sprout",
-      "ticker": "NSRMB",
-      "description": "Launchpad concept revolving around NUREMBERG (NUREMBERG). Riffs on sourced context: DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"",
-      "reasoning": "Launchpad concept revolving around NUREMBERG (NUREMBERG). Riffs on sourced context: DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\" Single trending token NUREMBERG \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token NUREMBERG \u2014 treated as a launchpad opportunity.",
-      "style_note": null,
-      "score": 80.0,
-      "score_parts": {
-        "volume": 40.0,
-        "momentum": 25.0,
-        "breadth": 0.0,
-        "freshness": 15.0,
-        "raw": 80.0,
-        "context_factor": 1.0,
-        "age_basis": "24h price change 248.0%.",
-        "volume_usd": 517212.34,
-        "price_change_h24": 248.0,
-        "score": 80.0
-      },
-      "trend_context": {
-        "status": "sourced",
-        "trend_name": "NUREMBERG launchpad",
-        "why": "DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"",
-        "meme_or_story": "DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"",
-        "driver": "X accounts linked on the DexScreener profiles: @tupacabra.",
-        "freshness": {
-          "started_at": "2026-11-14T17:37:20+00:00",
-          "started_at_source": "https://dexscreener.com/solana/7r3rngmpv9mzxwsyhykn5leddizrmgsyrazpgdjqpump",
-          "phase": "rising",
-          "basis": "24h price change 248.0%."
-        },
-        "sources": [
-          {
-            "kind": "dexscreener_profile",
-            "title": "NUREMBERG profile",
-            "url": "https://dexscreener.com/solana/7r3rngmpv9mzxwsyhykn5leddizrmgsyrazpgdjqpump",
-            "snippet": "Nuremberg Movie - AI movie funded by AI16Z"
-          }
-        ],
-        "match_words": [
-          "nuremberg",
-          "movie",
-          "funded",
-          "ai16z"
-        ]
-      },
-      "source_tokens": [
-        {
-          "name": "NUREMBERG",
-          "symbol": "NUREMBERG",
-          "chain": "solana",
-          "address": "7R3RnGmpV9mZXwSyHyKN5LEddiZRmGsYrAZPgDJqpump",
-          "dexscreener_url": "https://dexscreener.com/solana/7r3rngmpv9mzxwsyhykn5leddizrmgsyrazpgdjqpump",
-          "volume_usd": 517212.34,
-          "market_cap_usd": 96197.0,
-          "price_change_h24": 248.0,
-          "pair_created_at": "2026-11-14T17:37:20+00:00"
-        }
-      ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Nuremberg Sprout ($NSRMB) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around NUREMBERG (NUREMBERG). Riffs on sourced context: DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"\n\nWhy it's trending: DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"\nDriver: X accounts linked on the DexScreener profiles: @tupacabra.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
-      "art": {
-        "seed": "c_2e36febc4dfe",
-        "palette": 1,
         "body": 2,
-        "ears": 3,
+        "ears": 2,
         "accent": 1
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'NSRMB' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Nuremberg Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Nuremberg Movie - AI movie funded by AI16Z\"\"",
-      "image_file": "images/c_2e36febc4dfe.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'RCPPL' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Ripple Comet. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Jensen is coming back as CEO in NVIDIA, it is the perfect narrative to run.\" Wikipedia most-read includes \"Jensen Huang\".\"",
+      "image_file": "images/c_74b99d583da8.png",
       "rank": 5
     },
     {
-      "id": "c_c1a2b2d732d9",
+      "id": "c_e2ee7dc2a85b",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "GRAND THEFT CRYPTO launchpad",
-      "name": "Grand Theft",
-      "token_name": "Grand Theft",
-      "ticker": "GTRND",
-      "description": "Launchpad concept revolving around GRAND THEFT CRYPTO (FiveM). Riffs on sourced context: DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our\u2026",
-      "reasoning": "Launchpad concept revolving around GRAND THEFT CRYPTO (FiveM). Riffs on sourced context: DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our\u2026 Single trending token FiveM \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token FiveM \u2014 treated as a launchpad opportunity.",
+      "trend_name": "gtacoin launchpad",
+      "name": "Mossy Sprout",
+      "token_name": "Mossy Sprout",
+      "ticker": "MSSSY",
+      "description": "Launchpad concept revolving around gtacoin (gtacoin). Riffs on sourced context: DexScreener profile: \"the one coin for all of gta\"",
+      "reasoning": "Launchpad concept revolving around gtacoin (gtacoin). Riffs on sourced context: DexScreener profile: \"the one coin for all of gta\" Single trending token gtacoin \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token gtacoin \u2014 treated as a launchpad opportunity.",
       "style_note": "GTA-style",
       "score": 80.0,
       "score_parts": {
@@ -761,395 +802,386 @@
         "freshness": 15.0,
         "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 488.0%.",
-        "volume_usd": 113788.66,
-        "price_change_h24": 488.0,
+        "age_basis": "24h price change 125.0%.",
+        "volume_usd": 588610.03,
+        "price_change_h24": 125.0,
         "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "GRAND THEFT CRYPTO launchpad",
-        "why": "DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our FiveM server. We've integrated blockchain technology directly into the gameplay, allowing players to complete over 184 custom missions, earn tokens, purchase weapons, vehicles, and properties, and own u\" Wikipedia most-read includes \"Grand Theft Auto VI\".",
-        "meme_or_story": "DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our FiveM server. We've integrated blockchain technology directly into the gameplay, allowing players to complete over 184 custom missions, earn tokens, purchase weapons, vehicles, and properties, and own u\" Wikipedia most-read includes \"Grand Theft Auto VI\".",
-        "driver": "X accounts linked on the DexScreener profiles: @GrandTheftcrop. Websites linked on the profiles: https://gtacoin.tech/.",
+        "trend_name": "gtacoin launchpad",
+        "why": "DexScreener profile: \"the one coin for all of gta\"",
+        "meme_or_story": "DexScreener profile: \"the one coin for all of gta\"",
+        "driver": "X accounts linked on the DexScreener profiles: @gtacoinstonk. Telegram links on the profiles: 1.",
         "freshness": {
-          "started_at": "2026-11-14T13:55:01+00:00",
-          "started_at_source": "https://dexscreener.com/solana/8dblrw3zttu4qeakyybjuussaphmvabwues3ewoxpump",
+          "started_at": "2026-11-14T16:55:01+00:00",
+          "started_at_source": "https://dexscreener.com/solana/dskm3d518bbaqshskqaqzcg1xmrf81ufb6a1eavhstnk",
           "phase": "rising",
-          "basis": "24h price change 488.0%."
+          "basis": "24h price change 125.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "GRAND THEFT CRYPTO profile",
-            "url": "https://dexscreener.com/solana/8dblrw3zttu4qeakyybjuussaphmvabwues3ewoxpump",
-            "snippet": "Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our FiveM server. We've integrated blockchain technology directly into the gameplay, allowing players to complete over 184 custom missions, earn tokens, purchase weapons, vehicles, and properties, and own u"
-          },
-          {
-            "kind": "wikipedia",
-            "title": "Grand Theft Auto VI",
-            "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-            "snippet": "Grand Theft Auto VI"
+            "title": "gtacoin profile",
+            "url": "https://dexscreener.com/solana/dskm3d518bbaqshskqaqzcg1xmrf81ufb6a1eavhstnk",
+            "snippet": "the one coin for all of gta"
           }
         ],
         "match_words": [
-          "fivem",
-          "grand",
-          "theft",
-          "cryptocurrency",
-          "built",
-          "complete",
-          "gaming",
-          "economy",
-          "inside",
-          "through",
-          "server",
-          "integrated"
+          "gtacoin"
         ]
       },
       "source_tokens": [
         {
-          "name": "GRAND THEFT CRYPTO",
-          "symbol": "FiveM",
+          "name": "gtacoin",
+          "symbol": "gtacoin",
           "chain": "solana",
-          "address": "8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump",
-          "dexscreener_url": "https://dexscreener.com/solana/8dblrw3zttu4qeakyybjuussaphmvabwues3ewoxpump",
-          "volume_usd": 113788.66,
-          "market_cap_usd": 13101.15,
-          "price_change_h24": 488.0,
-          "pair_created_at": "2026-11-14T13:55:01+00:00"
+          "address": "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK",
+          "dexscreener_url": "https://dexscreener.com/solana/dskm3d518bbaqshskqaqzcg1xmrf81ufb6a1eavhstnk",
+          "volume_usd": 588610.03,
+          "market_cap_usd": 355435.0,
+          "price_change_h24": 125.0,
+          "pair_created_at": "2026-11-14T16:55:01+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Grand Theft ($GTRND) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around GRAND THEFT CRYPTO (FiveM). Riffs on sourced context: DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our\u2026\n\nWhy it's trending: DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our FiveM server. We've integrated blockchain technology directly into the gameplay, allowing players to complete over 184 custom missions, earn tokens, purchase weapons, vehicles, and properties, and own u\" Wikipedia most-read includes \"Grand Theft Auto VI\".\nDriver: X accounts linked on the DexScreener profiles: @GrandTheftcrop. Websites linked on the profiles: https://gtacoin.tech/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Mossy Sprout ($MSSSY) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around gtacoin (gtacoin). Riffs on sourced context: DexScreener profile: \"the one coin for all of gta\"\n\nWhy it's trending: DexScreener profile: \"the one coin for all of gta\"\nDriver: X accounts linked on the DexScreener profiles: @gtacoinstonk. Telegram links on the profiles: 1.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_c1a2b2d732d9",
-        "palette": 3,
-        "body": 1,
+        "seed": "c_e2ee7dc2a85b",
+        "palette": 5,
+        "body": 0,
         "ears": 0,
-        "accent": 3
+        "accent": 2
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'GTRND' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Grand Theft. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Grand Theft Crypto is a Solana-based cryptocurrency built to power a complete gaming economy inside GTA V through our FiveM server. We've integrated blockchain technology directly into the gameplay, allowing players to complete over 184 custom missions, earn\"",
-      "image_file": "images/c_c1a2b2d732d9.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'MSSSY' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Mossy Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"the one coin for all of gta\"\"",
+      "image_file": "images/c_e2ee7dc2a85b.png",
       "rank": 6
     },
     {
-      "id": "c_6421dc5f6f7c",
+      "id": "c_810ae362f74e",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "THANUS launchpad",
-      "name": "Thanus Sprout",
-      "token_name": "Thanus Sprout",
-      "ticker": "TSHNS",
-      "description": "Launchpad concept revolving around THANUS (THANUS). Riffs on sourced context: DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is\u2026",
-      "reasoning": "Launchpad concept revolving around THANUS (THANUS). Riffs on sourced context: DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is\u2026 Single trending token THANUS \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token THANUS \u2014 treated as a launchpad opportunity.",
+      "trend_name": "Anthropic Inu launchpad",
+      "name": "Anthropic Sprout",
+      "token_name": "Anthropic Sprout",
+      "ticker": "ASNTH",
+      "description": "Launchpad concept revolving around Anthropic Inu (AI). Riffs on sourced context: DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"",
+      "reasoning": "Launchpad concept revolving around Anthropic Inu (AI). Riffs on sourced context: DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\" Single trending token AI \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token AI \u2014 treated as a launchpad opportunity.",
       "style_note": null,
-      "score": 76.0,
+      "score": 80.0,
       "score_parts": {
-        "volume": 36.0,
+        "volume": 40.0,
         "momentum": 25.0,
         "breadth": 0.0,
         "freshness": 15.0,
-        "raw": 76.0,
+        "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 204.0%.",
-        "volume_usd": 31709.6,
-        "price_change_h24": 204.0,
-        "score": 76.0
+        "age_basis": "24h price change 375.0%.",
+        "volume_usd": 377498.6,
+        "price_change_h24": 375.0,
+        "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "THANUS launchpad",
-        "why": "DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is a parody memecoin for pure entertainment. No roadmap, no promises, just cheeks.\"",
-        "meme_or_story": "DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is a parody memecoin for pure entertainment. No roadmap, no promises, just cheeks.\"",
-        "driver": "X accounts linked on the DexScreener profiles: @ThanusUniverse. Telegram links on the profiles: 1. Websites linked on the profiles: https://thanuscoin.com, https://www.tiktok.com/@thanuscoin.",
+        "trend_name": "Anthropic Inu launchpad",
+        "why": "DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"",
+        "meme_or_story": "DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @theantinu. Websites linked on the profiles: https://theantinu.site.",
         "freshness": {
-          "started_at": "2026-11-14T20:01:13+00:00",
-          "started_at_source": "https://dexscreener.com/solana/bbttsaa6arzgxt9jptotkz2tckdaiovv6ma5qg7hpump",
+          "started_at": "2026-11-15T23:10:12+00:00",
+          "started_at_source": "https://dexscreener.com/solana/ggdhtsgcxn5yradnpsqsvhfaa5xlwveud7fwergvpump",
           "phase": "rising",
-          "basis": "24h price change 204.0%."
+          "basis": "24h price change 375.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "THANUS profile",
-            "url": "https://dexscreener.com/solana/bbttsaa6arzgxt9jptotkz2tckdaiovv6ma5qg7hpump",
-            "snippet": "thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is a parody memecoin for pure entertainment. No roadmap, no promises, just cheeks."
+            "title": "Anthropic Inu profile",
+            "url": "https://dexscreener.com/solana/ggdhtsgcxn5yradnpsqsvhfaa5xlwveud7fwergvpump",
+            "snippet": "The strongest good boy in AI. Cape on, prompts ready, bears beware."
           }
         ],
         "match_words": [
-          "thanus",
-          "biggest",
-          "asshole",
-          "universe",
-          "walks",
-          "water",
-          "crashes",
-          "every",
-          "party",
-          "never",
-          "sorry",
-          "parody"
+          "anthropic",
+          "strongest",
+          "prompts",
+          "ready",
+          "bears",
+          "beware"
         ]
       },
       "source_tokens": [
         {
-          "name": "THANUS",
-          "symbol": "THANUS",
+          "name": "Anthropic Inu",
+          "symbol": "AI",
           "chain": "solana",
-          "address": "BbTTSAA6arzGXt9jptoTKz2tCKDaiovv6MA5QG7Hpump",
-          "dexscreener_url": "https://dexscreener.com/solana/bbttsaa6arzgxt9jptotkz2tckdaiovv6ma5qg7hpump",
-          "volume_usd": 31709.6,
-          "market_cap_usd": 9791.71,
-          "price_change_h24": 204.0,
-          "pair_created_at": "2026-11-14T20:01:13+00:00"
+          "address": "GgDHtSGcXn5YrADnpsQSVHFAa5xLwVEuD7FWeRgvpump",
+          "dexscreener_url": "https://dexscreener.com/solana/ggdhtsgcxn5yradnpsqsvhfaa5xlwveud7fwergvpump",
+          "volume_usd": 377498.6,
+          "market_cap_usd": 154111.0,
+          "price_change_h24": 375.0,
+          "pair_created_at": "2026-11-15T23:10:12+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Thanus Sprout ($TSHNS) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around THANUS (THANUS). Riffs on sourced context: DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is\u2026\n\nWhy it's trending: DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is a parody memecoin for pure entertainment. No roadmap, no promises, just cheeks.\"\nDriver: X accounts linked on the DexScreener profiles: @ThanusUniverse. Telegram links on the profiles: 1. Websites linked on the profiles: https://thanuscoin.com, https://www.tiktok.com/@thanuscoin.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Anthropic Sprout ($ASNTH) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Anthropic Inu (AI). Riffs on sourced context: DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"\n\nWhy it's trending: DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"\nDriver: X accounts linked on the DexScreener profiles: @theantinu. Websites linked on the profiles: https://theantinu.site.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_6421dc5f6f7c",
-        "palette": 2,
-        "body": 2,
-        "ears": 0,
-        "accent": 1
+        "seed": "c_810ae362f74e",
+        "palette": 1,
+        "body": 1,
+        "ears": 2,
+        "accent": 0
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSHNS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Thanus Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"thAnus. The biggest asshole in the universe. He walks on water, crashes every party and never says sorry. $THANUS is a parody memecoin for pure entertainment. No roadmap, no promises, just cheeks.\"\"",
-      "image_file": "images/c_6421dc5f6f7c.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'ASNTH' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Anthropic Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The strongest good boy in AI. Cape on, prompts ready, bears beware.\"\"",
+      "image_file": "images/c_810ae362f74e.png",
       "rank": 7
     },
     {
-      "id": "c_9291c51a2967",
+      "id": "c_b32c7f808f86",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "Sprotardio launchpad",
-      "name": "Sprotardio Sprout",
-      "token_name": "Sprotardio Sprout",
-      "ticker": "SSPRT",
-      "description": "Launchpad concept revolving around Sprotardio (Sprotardio). Riffs on sourced context: DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"",
-      "reasoning": "Launchpad concept revolving around Sprotardio (Sprotardio). Riffs on sourced context: DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\" Single trending token Sprotardio \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token Sprotardio \u2014 treated as a launchpad opportunity.",
+      "trend_name": "Cyber Dacity Coin launchpad",
+      "name": "Cyber Dacity",
+      "token_name": "Cyber Dacity",
+      "ticker": "CDYBR",
+      "description": "Launchpad concept revolving around Cyber Dacity Coin (CYBERDACITY). Riffs on sourced context: DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew roll\u2026",
+      "reasoning": "Launchpad concept revolving around Cyber Dacity Coin (CYBERDACITY). Riffs on sourced context: DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew roll\u2026 Single trending token CYBERDACITY \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token CYBERDACITY \u2014 treated as a launchpad opportunity.",
       "style_note": null,
-      "score": 75.9,
+      "score": 80.0,
       "score_parts": {
-        "volume": 35.9,
+        "volume": 40.0,
         "momentum": 25.0,
         "breadth": 0.0,
         "freshness": 15.0,
-        "raw": 75.9,
+        "raw": 80.0,
         "context_factor": 1.0,
-        "age_basis": "24h price change 186.0%.",
-        "volume_usd": 30809.37,
-        "price_change_h24": 186.0,
-        "score": 75.9
+        "age_basis": "24h price change 285.0%.",
+        "volume_usd": 213359.49,
+        "price_change_h24": 285.0,
+        "score": 80.0
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "Sprotardio launchpad",
-        "why": "DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"",
-        "meme_or_story": "DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"",
-        "driver": "X accounts linked on the DexScreener profiles: @SprotardioX. Websites linked on the profiles: https://sprotardio.neocities.org/, https://x.com/i/communities/1952406467132170718.",
+        "trend_name": "Cyber Dacity Coin launchpad",
+        "why": "DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew rolls deep and the pixel shades never come off.\"",
+        "meme_or_story": "DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew rolls deep and the pixel shades never come off.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @cyberdacitycoin. Websites linked on the profiles: https://cyberdacity.space.",
         "freshness": {
-          "started_at": "2026-11-14T22:50:52+00:00",
-          "started_at_source": "https://dexscreener.com/solana/3pfwkfa9xv2scrspskx4n5vukjjeuokf5nc6ormfpump",
+          "started_at": "2026-11-15T23:29:54+00:00",
+          "started_at_source": "https://dexscreener.com/solana/c5x8tvbt8cgw7iaaeuavgtxfvz4usjscmiubvpvwpump",
           "phase": "rising",
-          "basis": "24h price change 186.0%."
+          "basis": "24h price change 285.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "Sprotardio profile",
-            "url": "https://dexscreener.com/solana/3pfwkfa9xv2scrspskx4n5vukjjeuokf5nc6ormfpump",
-            "snippet": "Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult)."
+            "title": "Cyber Dacity Coin profile",
+            "url": "https://dexscreener.com/solana/c5x8tvbt8cgw7iaaeuavgtxfvz4usjscmiubvpvwpump",
+            "snippet": "Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew rolls deep and the pixel shades never come off."
           }
         ],
         "match_words": [
-          "sprotardio",
-          "sproto",
-          "gremlins",
-          "retardio"
+          "cyberdacity",
+          "cyber",
+          "dacity",
+          "bringing",
+          "inspired",
+          "chaos",
+          "miami",
+          "where",
+          "rolls",
+          "pixel",
+          "shades",
+          "never"
         ]
       },
       "source_tokens": [
         {
-          "name": "Sprotardio",
-          "symbol": "Sprotardio",
+          "name": "Cyber Dacity Coin",
+          "symbol": "CYBERDACITY",
           "chain": "solana",
-          "address": "3pFWkFa9Xv2sCrSpSkx4N5VukJjEUoKF5nc6ormfpump",
-          "dexscreener_url": "https://dexscreener.com/solana/3pfwkfa9xv2scrspskx4n5vukjjeuokf5nc6ormfpump",
-          "volume_usd": 30809.37,
-          "market_cap_usd": 9509.95,
-          "price_change_h24": 186.0,
-          "pair_created_at": "2026-11-14T22:50:52+00:00"
+          "address": "C5X8tVbt8cGw7iaaEuAVGTxFVZ4uSjscmiUbVpVwpump",
+          "dexscreener_url": "https://dexscreener.com/solana/c5x8tvbt8cgw7iaaeuavgtxfvz4usjscmiubvpvwpump",
+          "volume_usd": 213359.49,
+          "market_cap_usd": 134916.0,
+          "price_change_h24": 285.0,
+          "pair_created_at": "2026-11-15T23:29:54+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Sprotardio Sprout ($SSPRT) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Sprotardio (Sprotardio). Riffs on sourced context: DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"\n\nWhy it's trending: DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"\nDriver: X accounts linked on the DexScreener profiles: @SprotardioX. Websites linked on the profiles: https://sprotardio.neocities.org/, https://x.com/i/communities/1952406467132170718.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Cyber Dacity ($CDYBR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Cyber Dacity Coin (CYBERDACITY). Riffs on sourced context: DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew roll\u2026\n\nWhy it's trending: DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew rolls deep and the pixel shades never come off.\"\nDriver: X accounts linked on the DexScreener profiles: @cyberdacitycoin. Websites linked on the profiles: https://cyberdacity.space.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_9291c51a2967",
-        "palette": 4,
-        "body": 0,
+        "seed": "c_b32c7f808f86",
+        "palette": 5,
+        "body": 2,
         "ears": 0,
-        "accent": 0
+        "accent": 3
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSPRT' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sprotardio Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Sproto Gremlins x Retardio = Sprotardio (a PFP NFT cult).\"\"",
-      "image_file": "images/c_9291c51a2967.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CDYBR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cyber Dacity. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Cyber Dacity Coin ($CYBERDACITY) is a Solana meme coin bringing GTA-inspired chaos to neon Miami, where the crew rolls deep and the pixel shades never come off.\"\"",
+      "image_file": "images/c_b32c7f808f86.png",
       "rank": 8
     },
     {
-      "id": "c_f31f23123b3b",
+      "id": "c_270455744abf",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "Cyber Pandemic launchpad",
-      "name": "Cyber Sprout",
-      "token_name": "Cyber Sprout",
-      "ticker": "CSYBR",
-      "description": "Launchpad concept revolving around Cyber Pandemic (CYBER). Riffs on sourced context: DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"",
-      "reasoning": "Launchpad concept revolving around Cyber Pandemic (CYBER). Riffs on sourced context: DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\" Single trending token CYBER \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token CYBER \u2014 treated as a launchpad opportunity.",
+      "trend_name": "Tail Me launchpad",
+      "name": "Tail Sprout",
+      "token_name": "Tail Sprout",
+      "ticker": "TSLPR",
+      "description": "Launchpad concept revolving around Tail Me (TAIL). Riffs on sourced context: DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get t\u2026",
+      "reasoning": "Launchpad concept revolving around Tail Me (TAIL). Riffs on sourced context: DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get t\u2026 Single trending token TAIL \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token TAIL \u2014 treated as a launchpad opportunity.",
       "style_note": null,
-      "score": 62.1,
+      "score": 79.8,
       "score_parts": {
         "volume": 40.0,
-        "momentum": 7.1,
+        "momentum": 24.8,
         "breadth": 0.0,
         "freshness": 15.0,
-        "raw": 62.1,
+        "raw": 79.8,
         "context_factor": 1.0,
-        "age_basis": "24h price change 28.4%.",
-        "volume_usd": 129315.55,
-        "price_change_h24": 28.37,
-        "score": 62.1
+        "age_basis": "24h price change 99.4%.",
+        "volume_usd": 710145.23,
+        "price_change_h24": 99.38,
+        "score": 79.8
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "Cyber Pandemic launchpad",
-        "why": "DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"",
-        "meme_or_story": "DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"",
-        "driver": "X accounts linked on the DexScreener profiles: @search. Websites linked on the profiles: https://www.cyberpandemic.space/.",
+        "trend_name": "Tail Me launchpad",
+        "why": "DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get tailed.\"",
+        "meme_or_story": "DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get tailed.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @utailme. Websites linked on the profiles: https://tailme.lol/.",
         "freshness": {
-          "started_at": "2026-11-14T21:07:06+00:00",
-          "started_at_source": "https://dexscreener.com/solana/gt1g6v5yeb9gyzzjq3wwxzdgu56bqwik2ezp9dgfpump",
+          "started_at": "2026-11-15T04:14:00+00:00",
+          "started_at_source": "https://dexscreener.com/solana/2thptosmh76mmjheskid7nyuehjguq4zaychwdgjpump",
           "phase": "rising",
-          "basis": "24h price change 28.4%."
+          "basis": "24h price change 99.4%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "Cyber Pandemic profile",
-            "url": "https://dexscreener.com/solana/gt1g6v5yeb9gyzzjq3wwxzdgu56bqwik2ezp9dgfpump",
-            "snippet": "The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time."
+            "title": "Tail Me profile",
+            "url": "https://dexscreener.com/solana/2thptosmh76mmjheskid7nyuehjguq4zaychwdgjpump",
+            "snippet": "Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get tailed."
           }
         ],
         "match_words": [
-          "cyber",
-          "pandemic",
-          "setting",
-          "biggest",
-          "global",
-          "pandemics"
+          "funded",
+          "trade",
+          "trades",
+          "every",
+          "close",
+          "tailed"
         ]
       },
       "source_tokens": [
         {
-          "name": "Cyber Pandemic",
-          "symbol": "CYBER",
+          "name": "Tail Me",
+          "symbol": "TAIL",
           "chain": "solana",
-          "address": "Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump",
-          "dexscreener_url": "https://dexscreener.com/solana/gt1g6v5yeb9gyzzjq3wwxzdgu56bqwik2ezp9dgfpump",
-          "volume_usd": 129315.55,
-          "market_cap_usd": 35767.0,
-          "price_change_h24": 28.37,
-          "pair_created_at": "2026-11-14T21:07:06+00:00"
+          "address": "2tHPtosmh76mmJHeskid7nYUeHjGUQ4ZAYChwdGJpump",
+          "dexscreener_url": "https://dexscreener.com/solana/2thptosmh76mmjheskid7nyuehjguq4zaychwdgjpump",
+          "volume_usd": 710145.23,
+          "market_cap_usd": 53747.0,
+          "price_change_h24": 99.38,
+          "pair_created_at": "2026-11-15T04:14:00+00:00"
         }
       ],
       "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Cyber Sprout ($CSYBR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Cyber Pandemic (CYBER). Riffs on sourced context: DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"\n\nWhy it's trending: DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"\nDriver: X accounts linked on the DexScreener profiles: @search. Websites linked on the profiles: https://www.cyberpandemic.space/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "socials_text": "Tail Sprout ($TSLPR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Tail Me (TAIL). Riffs on sourced context: DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get t\u2026\n\nWhy it's trending: DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get tailed.\"\nDriver: X accounts linked on the DexScreener profiles: @utailme. Websites linked on the profiles: https://tailme.lol/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_f31f23123b3b",
-        "palette": 4,
+        "seed": "c_270455744abf",
+        "palette": 2,
         "body": 3,
-        "ears": 2,
-        "accent": 1
+        "ears": 1,
+        "accent": 2
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'CSYBR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Cyber Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"The Cyber Pandemic is setting up to be one of the biggest Global Pandemics of our time.\"\"",
-      "image_file": "images/c_f31f23123b3b.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'TSLPR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Tail Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Hold $TAIL. Get up to 10 funded copy-trade bots. They copy your trades and pay you SOL on every win they close. Get tailed.\"\"",
+      "image_file": "images/c_270455744abf.png",
       "rank": 9
     },
     {
-      "id": "c_0221c411c708",
+      "id": "c_524ef1bc4ab4",
       "classification": "LAUNCHPAD",
       "concept_kind": "launchpad",
-      "trend_name": "GTA 6 launchpad",
-      "name": "Brass Marble",
-      "token_name": "Brass Marble",
-      "ticker": "BMRSS",
-      "description": "Launchpad concept revolving around GTA 6 (GTA6). Riffs on sourced context: DexScreener profile: \"Og GTA 6\"",
-      "reasoning": "Launchpad concept revolving around GTA 6 (GTA6). Riffs on sourced context: DexScreener profile: \"Og GTA 6\" Single trending token GTA6 \u2014 treated as a launchpad opportunity.",
-      "cluster_note": "Single trending token GTA6 \u2014 treated as a launchpad opportunity.",
-      "style_note": "GTA-style",
-      "score": 61.6,
+      "trend_name": "Sender launchpad",
+      "name": "Sender Sprout",
+      "token_name": "Sender Sprout",
+      "ticker": "SSNDR",
+      "description": "Launchpad concept revolving around Sender (SENDER). Riffs on sourced context: DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"",
+      "reasoning": "Launchpad concept revolving around Sender (SENDER). Riffs on sourced context: DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\" Single trending token SENDER \u2014 treated as a launchpad opportunity.",
+      "cluster_note": "Single trending token SENDER \u2014 treated as a launchpad opportunity.",
+      "style_note": null,
+      "score": 79.6,
       "score_parts": {
-        "volume": 37.1,
-        "momentum": 9.5,
+        "volume": 39.6,
+        "momentum": 25.0,
         "breadth": 0.0,
         "freshness": 15.0,
-        "raw": 61.6,
+        "raw": 79.6,
         "context_factor": 1.0,
-        "age_basis": "24h price change 38.0%.",
-        "volume_usd": 43337.31,
-        "price_change_h24": 37.97,
-        "score": 61.6
+        "age_basis": "24h price change 352.0%.",
+        "volume_usd": 90066.42,
+        "price_change_h24": 352.0,
+        "score": 79.6
       },
       "trend_context": {
         "status": "sourced",
-        "trend_name": "GTA 6 launchpad",
-        "why": "DexScreener profile: \"Og GTA 6\"",
-        "meme_or_story": "DexScreener profile: \"Og GTA 6\"",
-        "driver": "Websites linked on the profiles: https://x.com/i/communities/2037937593871139204.",
+        "trend_name": "Sender launchpad",
+        "why": "DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"",
+        "meme_or_story": "DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"",
+        "driver": "X accounts linked on the DexScreener profiles: @SenderDotTrade. Websites linked on the profiles: https://www.sender.trade/.",
         "freshness": {
-          "started_at": null,
-          "started_at_source": null,
+          "started_at": "2026-11-15T22:26:36+00:00",
+          "started_at_source": "https://dexscreener.com/solana/5pejlzqnbkxtydyymunbt4qutsyd9ea474mqxcmepump",
           "phase": "rising",
-          "basis": "24h price change 38.0%."
+          "basis": "24h price change 352.0%."
         },
         "sources": [
           {
             "kind": "dexscreener_profile",
-            "title": "GTA 6 profile",
-            "url": "https://dexscreener.com/solana/ukwsz1bx9zpeqcu5ucfmp1nuvudw1yrxnkxephrmhj4",
-            "snippet": "Og GTA 6"
+            "title": "Sender profile",
+            "url": "https://dexscreener.com/solana/5pejlzqnbkxtydyymunbt4qutsyd9ea474mqxcmepump",
+            "snippet": "Send any US stock directly to the recipient via email or share it with them through the link."
           }
         ],
         "match_words": [
-          "gta6"
+          "sender",
+          "stock",
+          "directly",
+          "recipient",
+          "email",
+          "share",
+          "through"
         ]
       },
       "source_tokens": [
         {
-          "name": "GTA 6",
-          "symbol": "GTA6",
+          "name": "Sender",
+          "symbol": "SENDER",
           "chain": "solana",
-          "address": "ukWSz1Bx9ZPeQCU5UcFmP1nuVuDw1YRXNkxEphRmHj4",
-          "dexscreener_url": "https://dexscreener.com/solana/ukwsz1bx9zpeqcu5ucfmp1nuvudw1yrxnkxephrmhj4",
-          "volume_usd": 43337.31,
-          "market_cap_usd": 29147.31,
-          "price_change_h24": 37.97,
-          "pair_created_at": null
+          "address": "5peJLZQnBkXtydYYMunbT4QutSyd9eA474MqxcmEpump",
+          "dexscreener_url": "https://dexscreener.com/solana/5pejlzqnbkxtydyymunbt4qutsyd9ea474mqxcmepump",
+          "volume_usd": 90066.42,
+          "market_cap_usd": 9662.63,
+          "price_change_h24": 352.0,
+          "pair_created_at": "2026-11-15T22:26:36+00:00"
         }
       ],
-      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Not affiliated with Rockstar Games or Grand Theft Auto. Research only \u2014 nothing here is deployed.",
-      "socials_text": "Brass Marble ($BMRSS) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around GTA 6 (GTA6). Riffs on sourced context: DexScreener profile: \"Og GTA 6\"\n\nWhy it's trending: DexScreener profile: \"Og GTA 6\"\nDriver: Websites linked on the profiles: https://x.com/i/communities/2037937593871139204.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
+      "risk_note": "Trademark and impersonation risk: this is an unofficial concept, not issued by and not affiliated with any real person, company, or the source trending tokens. Do not use their logos, brand marks, or likeness, and do not present it as official. Research only \u2014 nothing here is deployed.",
+      "socials_text": "Sender Sprout ($SSNDR) \u2014 unofficial concept from FOMO World.\n\nLaunchpad concept revolving around Sender (SENDER). Riffs on sourced context: DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"\n\nWhy it's trending: DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"\nDriver: X accounts linked on the DexScreener profiles: @SenderDotTrade. Websites linked on the profiles: https://www.sender.trade/.\n\nResearch concept only. Not a launched token. Not affiliated with any trending token, person, or brand. Not financial advice.",
       "art": {
-        "seed": "c_0221c411c708",
-        "palette": 3,
+        "seed": "c_524ef1bc4ab4",
+        "palette": 2,
         "body": 0,
-        "ears": 2,
-        "accent": 0
+        "ears": 3,
+        "accent": 2
       },
-      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'BMRSS' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Brass Marble. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Og GTA 6\"\"",
-      "image_file": "images/c_0221c411c708.png",
+      "image_prompt": "Premium glossy mascot coin-logo art, square 1:1, centered original character, clean soft gradient background, studio lighting, thick rounded shapes, enamel rim, small readable ticker badge 'SSNDR' only. No real logos, no brand marks, no real person's likeness, no celebrity face, no copied mascot. Concept name: Sender Sprout. Riff only on this sourced trend text, and do not add events that are not in it: \"DexScreener profile: \"Send any US stock directly to the recipient via email or share it with them through the link.\"\"",
+      "image_file": "images/c_524ef1bc4ab4.png",
       "rank": 10
     }
   ],
@@ -1157,22 +1189,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 1: snoopy meta. Freshness rising."
+      "text": "Top 1: theft meta. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "SWIF: volume $144.5K, mcap $108.1K."
+      "text": "FiveM: volume $172.1K, mcap $352.3K."
     },
     {
       "agent_id": "solene",
       "role": "Meta Spotter",
-      "text": "Meta snoopy meta. DexScreener profile: \"Snoopy Wif Hat ($SWIF) is a Solana meme coin starring Snoopy in a chunky pink beanie, bringing pla"
+      "text": "Meta theft meta. DexScreener profile: \"The first GTA server with real cryptocurrency integrated throughout the entire game\" DexScreener p"
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Beta coin Snoopy Sprout ($SSNPY). Coin logo is queued."
+      "text": "Beta coin Theft Sprout ($TSHFT). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1187,12 +1219,12 @@
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "WASTED: volume $2.2M, mcap $5.0M."
+      "text": "WASTED: volume $1.2M, mcap $4.7M."
     },
     {
       "agent_id": "bex",
       "role": "Meta Spotter",
-      "text": "Meta wasted meta. Google News: \"The X-Men's Most Wasted Mutant Deserves a Second Chance, and the MCU Can Fix Fox's Biggest Mistake - Comic"
+      "text": "Meta wasted meta. Google News: \"ICE wasted millions of taxpayer dollars in rapid push to expand detention capacity, government watchdog fi"
     },
     {
       "agent_id": "luma",
@@ -1207,22 +1239,22 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 3: bear meta. Freshness rising."
+      "text": "Top 3: vice meta. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "Bear: volume $219.2K, mcap $60.4K."
+      "text": "BAWSAQ: volume $792.5K, mcap $689.6K."
     },
     {
       "agent_id": "fizz",
       "role": "Meta Spotter",
-      "text": "Meta bear meta. DexScreener profile: \"BEAR ON USDC! 9% SUPPLY BURNED\""
+      "text": "Meta vice meta. DexScreener profile: \"Vice Inu\""
     },
     {
       "agent_id": "vee",
       "role": "Derivative Designer",
-      "text": "Beta coin Bear Sprout ($BSRPR). Coin logo is queued."
+      "text": "Beta coin Vice Sprout ($VSCPR). Coin logo is queued."
     },
     {
       "agent_id": "rue",
@@ -1232,22 +1264,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 4: Jensen Huang launchpad. Freshness rising."
+      "text": "Top 4: Socks Neobank launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "JENSEN: volume $2.7M, mcap $327.9K."
+      "text": "Socks: volume $2.2M, mcap $152.1K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Jensen Sprout ($JSNSN), rank 4."
+      "text": "Launchpad kit for Socks Sprout ($SSCKS), rank 4."
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Derivative Jensen Sprout ($JSNSN). Coin logo is queued."
+      "text": "Derivative Socks Sprout ($SSCKS). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1257,22 +1289,22 @@
     {
       "agent_id": "pico",
       "role": "Trend Scout",
-      "text": "Top 5: NUREMBERG launchpad. Freshness rising."
+      "text": "Top 5: NVIDIA Cat launchpad. Freshness rising."
     },
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "NUREMBERG: volume $517.2K, mcap $96.2K."
+      "text": "NCAT: volume $665.4K, mcap $213.7K."
     },
     {
       "agent_id": "rae",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Nuremberg Sprout ($NSRMB), rank 5."
+      "text": "Launchpad kit for Ripple Comet ($RCPPL), rank 5."
     },
     {
       "agent_id": "luma",
       "role": "Derivative Designer",
-      "text": "Derivative Nuremberg Sprout ($NSRMB). Coin logo is queued."
+      "text": "Derivative Ripple Comet ($RCPPL). Coin logo is queued."
     },
     {
       "agent_id": "moss",
@@ -1282,22 +1314,22 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 6: GRAND THEFT CRYPTO launchpad. Freshness rising."
+      "text": "Top 6: gtacoin launchpad. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "FiveM: volume $113.8K, mcap $13.1K."
+      "text": "gtacoin: volume $588.6K, mcap $355.4K."
     },
     {
       "agent_id": "dot",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Grand Theft ($GTRND), rank 6."
+      "text": "Launchpad kit for Mossy Sprout ($MSSSY), rank 6."
     },
     {
       "agent_id": "vee",
       "role": "Derivative Designer",
-      "text": "Derivative Grand Theft ($GTRND). Coin logo is queued."
+      "text": "Derivative Mossy Sprout ($MSSSY). Coin logo is queued."
     },
     {
       "agent_id": "rue",
@@ -1307,22 +1339,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 7: THANUS launchpad. Freshness rising."
+      "text": "Top 7: Anthropic Inu launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "THANUS: volume $31.7K, mcap $9.8K."
+      "text": "AI: volume $377.5K, mcap $154.1K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Thanus Sprout ($TSHNS), rank 7."
+      "text": "Launchpad kit for Anthropic Sprout ($ASNTH), rank 7."
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Derivative Thanus Sprout ($TSHNS). Coin logo is queued."
+      "text": "Derivative Anthropic Sprout ($ASNTH). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1332,22 +1364,22 @@
     {
       "agent_id": "pico",
       "role": "Trend Scout",
-      "text": "Top 8: Sprotardio launchpad. Freshness rising."
+      "text": "Top 8: Cyber Dacity Coin launchpad. Freshness rising."
     },
     {
       "agent_id": "jun",
       "role": "Token Tracker",
-      "text": "Sprotardio: volume $30.8K, mcap $9.5K."
+      "text": "CYBERDACITY: volume $213.4K, mcap $134.9K."
     },
     {
       "agent_id": "rae",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Sprotardio Sprout ($SSPRT), rank 8."
+      "text": "Launchpad kit for Cyber Dacity ($CDYBR), rank 8."
     },
     {
       "agent_id": "luma",
       "role": "Derivative Designer",
-      "text": "Derivative Sprotardio Sprout ($SSPRT). Coin logo is queued."
+      "text": "Derivative Cyber Dacity ($CDYBR). Coin logo is queued."
     },
     {
       "agent_id": "moss",
@@ -1357,22 +1389,22 @@
     {
       "agent_id": "kip",
       "role": "Trend Scout",
-      "text": "Top 9: Cyber Pandemic launchpad. Freshness rising."
+      "text": "Top 9: Tail Me launchpad. Freshness rising."
     },
     {
       "agent_id": "ada",
       "role": "Token Tracker",
-      "text": "CYBER: volume $129.3K, mcap $35.8K."
+      "text": "TAIL: volume $710.1K, mcap $53.7K."
     },
     {
       "agent_id": "dot",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Cyber Sprout ($CSYBR), rank 9."
+      "text": "Launchpad kit for Tail Sprout ($TSLPR), rank 9."
     },
     {
       "agent_id": "vee",
       "role": "Derivative Designer",
-      "text": "Derivative Cyber Sprout ($CSYBR). Coin logo is queued."
+      "text": "Derivative Tail Sprout ($TSLPR). Coin logo is queued."
     },
     {
       "agent_id": "rue",
@@ -1382,22 +1414,22 @@
     {
       "agent_id": "nib",
       "role": "Trend Scout",
-      "text": "Top 10: GTA 6 launchpad. Freshness rising."
+      "text": "Top 10: Sender launchpad. Freshness rising."
     },
     {
       "agent_id": "mara",
       "role": "Token Tracker",
-      "text": "GTA6: volume $43.3K, mcap $29.1K."
+      "text": "SENDER: volume $90.1K, mcap $9.7K."
     },
     {
       "agent_id": "hank",
       "role": "Launchpad Analyst",
-      "text": "Launchpad kit for Brass Marble ($BMRSS), rank 10."
+      "text": "Launchpad kit for Sender Sprout ($SSNDR), rank 10."
     },
     {
       "agent_id": "otis",
       "role": "Derivative Designer",
-      "text": "Derivative Brass Marble ($BMRSS). Coin logo is queued."
+      "text": "Derivative Sender Sprout ($SSNDR). Coin logo is queued."
     },
     {
       "agent_id": "quill",
@@ -1406,7 +1438,7 @@
     }
   ],
   "candidate_count": 10,
-  "token_count": 83,
-  "group_count": 68,
-  "last_published": "2026-11-14T18:46:37.597576-05:00"
+  "token_count": 92,
+  "group_count": 76,
+  "last_published": "2026-11-15T19:55:31.777622-05:00"
 }
